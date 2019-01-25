@@ -28,6 +28,13 @@ ROBOTSTXT_OBEY = False
 # See https://doc.scrapy.org/en/latest/topics/settings.html#download-delay
 # See also autothrottle settings and docs
 DOWNLOAD_DELAY = 1
+
+
+# Change default logging
+#LOG_LEVEL = 'INFO'  # not display individual items
+#LOG_FORMAT = '%(levelname)s: %(message)s'
+LOG_FILE = 'log.txt'
+
 # The download delay setting will honor only one of:
 #CONCURRENT_REQUESTS_PER_DOMAIN = 16
 #CONCURRENT_REQUESTS_PER_IP = 16

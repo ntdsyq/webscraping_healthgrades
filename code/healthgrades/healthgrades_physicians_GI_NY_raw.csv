@@ -1,0 +1,938 @@
+addr_street,age,city,detailed_url,featured,hcp_id,name,num_ins,num_reviews,practice_addr,practice_name,state,zipcode
+8708 Justice Ave Ste C6,42,Elmhurst,/physician/dr-chuansheng-wang-gfbct,0,dr-chuansheng-wang-gfbct,"Dr. Chuansheng Wang, MD",,6,"8708 Justice Ave Ste C6, Elmhurst, NY, 11373",Elmhurst Digestive and Liver Disease,NY,11373
+5 Franklin Ave Ste 307,82,Belleville,/physician/dr-harry-friedland-xhtcv,0,dr-harry-friedland-xhtcv,"Dr. Harry Friedland, MD",,0,"5 Franklin Ave Ste 307, Belleville, NJ, 07109","HARRY M. FRIEDLAND, M.D.",NJ,07109
+1555 Center Ave,,Fort Lee,/physician/dr-burton-scherl-gbb66,0,dr-burton-scherl-gbb66,"Dr. Burton Scherl, MD",,0,"1555 Center Ave, Fort Lee, NJ, 07024",,NJ,07024
+600 E 125th St,74,New York,/physician/dr-saroja-singa-y2wbr,0,dr-saroja-singa-y2wbr,"Dr. Saroja Singa, MD",,1,"600 E 125th St, New York, NY, 10035",,NY,10035
+205 E 76th St Fl M2,83,New York,/physician/dr-norton-rosensweig-xs3wc,0,dr-norton-rosensweig-xs3wc,"Dr. Norton Rosensweig, MD",,0,"205 E 76th St Fl M2, New York, NY, 10021",Schwarz and Ammirati Medical Assocs,NY,10021
+10 Union Sq E Frnt 2J2H,67,New York,/physician/dr-william-treem-2cs6r,0,dr-william-treem-2cs6r,"Dr. William Treem, MD",,0,"10 Union Sq E Frnt 2J2H, New York, NY, 10003",Mount Sinai Union Square,NY,10003
+4802 10th Ave,39,Brooklyn,/physician/dr-prasun-shah-gwnq4,0,dr-prasun-shah-gwnq4,"Dr. Prasun Shah, MD",,0,"4802 10th Ave, Brooklyn, NY, 11219",MAIMONIDES MEDICAL CENTER,NY,11219
+3959 Broadway # 702,46,New York,/physician/dr-ali-mencin-2nxjg,0,dr-ali-mencin-2nxjg,"Dr. Ali Mencin, MD",17,6,"3959 Broadway # 702, New York, NY, 10032",Columbia University Medical Center Pediatrics,NY,10032
+1305 York Ave 1283 York Ave,33,New York,/providers/annmarie-kieber-emmons-5kkyz,0,annmarie-kieber-emmons-5kkyz,"Dr. Ann Kieber-Emmons, MD",,0,"1305 York Ave 1283 York Ave, New York, NY, 10021",SSM Health Medical Group,NY,10021
+17 E 102nd St Fl 7th,,New York,/providers/ryan-croteau-cvlcz,0,ryan-croteau-cvlcz,"Dr. Ryan Croteau, MD",,2,"17 E 102nd St Fl 7th, New York, NY, 10029",,NY,10029
+800 Poly Pl,,Brooklyn,/physician/dr-cynthia-victor-g8stj,0,dr-cynthia-victor-g8stj,"Dr. Cynthia Victor, DO",,0,"800 Poly Pl, Brooklyn, NY, 11209",Brooklyn VA Hospital Pulmonolgy,NY,11209
+77 Bowery # 701,,New York,/physician/dr-timothy-wong-2n89j,0,dr-timothy-wong-2n89j,"Dr. Timothy Wong, MD",,5,"77 Bowery # 701, New York, NY, 10002",Advanced Gastro Practice,NY,10002
+1901 1st Ave Ste 704,46,New York,/physician/dr-jennifer-harley-3gpgb,0,dr-jennifer-harley-3gpgb,"Dr. Jennifer Harley, MD",,0,"1901 1st Ave Ste 704, New York, NY, 10029",Metropolitan Hospital IM,NY,10029
+1110 Eastern Pkwy Ste 3,54,Brooklyn,/physician/dr-olusegun-adeonigbagbe-x44rq,0,dr-olusegun-adeonigbagbe-x44rq,"Olusegun Adeonigbagbe, MB",,0,"1110 Eastern Pkwy Ste 3, Brooklyn, NY, 11213",Pierre Toussaint Famly Hlth Ctr,NY,11213
+530 1st Ave Ste 9C,47,New York,/physician/dr-roshini-rajapaksa-xr3pc,0,dr-roshini-rajapaksa-xr3pc,"Dr. Roshini Rajapaksa, MD",,8,"530 1st Ave Ste 9C, New York, NY, 10016",Jessie Cheung MD Dermatology and Laser Center,NY,10016
+180 Fort Washington Ave # 936,43,New York,/physician/dr-christina-tennyson-yw5ff,0,dr-christina-tennyson-yw5ff,"Dr. Christina Tennyson, MD",,8,"180 Fort Washington Ave # 936, New York, NY, 10032",,NY,10032
+1321 E 7th St,45,Brooklyn,/physician/dr-israel-kochin-xjhlq,0,dr-israel-kochin-xjhlq,"Dr. Israel Kochin, MD",,8,"1321 E 7th St, Brooklyn, NY, 11230",Allergy Asthma Center,NY,11230
+200 Brooklyn Ave,58,Brooklyn,/physician/dr-shelby-samuel-x79by,0,dr-shelby-samuel-x79by,"Dr. Shelby Samuel, MD",,8,"200 Brooklyn Ave, Brooklyn, NY, 11213",Blue Green Horizon,NY,11213
+1789 Madison Ave,68,New York,/physician/dr-samuel-daniel-33fc6,0,dr-samuel-daniel-33fc6,"Dr. Samuel Daniel, MD",,4,"1789 Madison Ave, New York, NY, 10035",Narrendorp Daniel Genao MDs,NY,10035
+315 W 57th St Ste 301,74,New York,/physician/dr-annetta-kimball-xxwyh,0,dr-annetta-kimball-xxwyh,"Dr. Annetta Kimball, MD",,3,"315 W 57th St Ste 301, New York, NY, 10019",VILKELIS CHIROPRACTIC PC,NY,10019
+7901 Broadway Rm D3,,Elmhurst,/providers/rafael-ching-companioni-cuyvz,0,rafael-ching-companioni-cuyvz,"Dr. Rafael Ching Companioni, MD",,2,"7901 Broadway Rm D3, Elmhurst, NY, 11373",ELMHURST HOSPITAL CENTER,NY,11373
+1029 Manhattan Ave,66,Brooklyn,/physician/dr-yacov-stollman-xvc8t,0,dr-yacov-stollman-xvc8t,"Dr. Yacov Stollman, MD",,8,"1029 Manhattan Ave, Brooklyn, NY, 11222",,NY,11222
+10235 64th Rd,64,Forest Hills,/physician/dr-leelavathi-kasturi-yfx8p,0,dr-leelavathi-kasturi-yfx8p,"Dr. Leelavathi Kasturi, MD",,1,"10235 64th Rd, Forest Hills, NY, 11375",Leelavathi Katsuri MD PC,NY,11375
+10819 Rockaway Blvd,58,South Ozone Park,/physician/dr-michael-bernstein-xnlk6,0,dr-michael-bernstein-xnlk6,"Dr. Michael Bernstein, MD",,1,"10819 Rockaway Blvd, South Ozone Park, NY, 11420",New Horizon Counseling Center,NY,11420
+17 E 102nd St Fl 5,47,New York,/physician/dr-sharmila-anandasabapathy-ypxc8,0,dr-sharmila-anandasabapathy-ypxc8,"Dr. Sharmila Anandasabapathy, MD",,3,"17 E 102nd St Fl 5, New York, NY, 10029",Mount Sinai Gastroenterology,NY,10029
+3508 Flatlands Ave,77,Brooklyn,/physician/dr-albert-nadaf-yx3wr,0,dr-albert-nadaf-yx3wr,"Dr. Albert Nadaf, MD",,1,"3508 Flatlands Ave, Brooklyn, NY, 11234",,NY,11234
+903 Park Ave Fl 1,63,New York,/physician/dr-susan-lucak-2byyx,0,dr-susan-lucak-2byyx,"Dr. Susan Lucak, MD",,16,"903 Park Ave Fl 1, New York, NY, 10075","Susan Lucak, MD",NY,10075
+340 4th Ave,34,Brooklyn,/physician/dr-megha-kothari-gcd5d,0,dr-megha-kothari-gcd5d,"Dr. Megha Kothari, MD",9,1,"340 4th Ave, Brooklyn, NY, 11215",NewYork-Presbyterian Medical Group Brooklyn,NY,11215
+7901 Broadway,,Elmhurst,/physician/dr-loveleen-sidhu-w9g6v,0,dr-loveleen-sidhu-w9g6v,"Dr. Loveleen Sidhu, MD",,0,"7901 Broadway, Elmhurst, NY, 11373",,NY,11373
+78 Todt Hill Rd Ste 203,68,Staten Island,/physician/dr-richard-fazio-ys6qf,0,dr-richard-fazio-ys6qf,"Dr. Richard Fazio, MD",,15,"78 Todt Hill Rd Ste 203, Staten Island, NY, 10314",Richard A Fazio MD,NY,10314
+928 Broadway Ste 400,40,New York,/physician/dr-alexandra-shustina-g9hsp,0,dr-alexandra-shustina-g9hsp,"Dr. Alexandra Shustina, DO",,18,"928 Broadway Ste 400, New York, NY, 10010",Manhattan Integrative Gastroenterology,NY,10010
+314 W 14th St Fl 6,54,New York,/physician/dr-arlene-garcia-3g829,0,dr-arlene-garcia-3g829,"Dr. Arlene Garcia, MD",,4,"314 W 14th St Fl 6, New York, NY, 10014","ARLENE M GARCIA, MD",NY,10014
+240 E 38th St Fl 23,65,New York,/physician/dr-jonathan-lapook-xvvdq,0,dr-jonathan-lapook-xvvdq,"Dr. Jonathan LaPook, MD",,4,"240 E 38th St Fl 23, New York, NY, 10016",NYU LANGONE HOSPITAL CENTER,NY,10016
+129 Saint Nicholas Ave Fl 1,46,Brooklyn,/physician/dr-mukul-arya-2rwv5,0,dr-mukul-arya-2rwv5,"Dr. Mukul Arya, MD",,3,"129 Saint Nicholas Ave Fl 1, Brooklyn, NY, 11237",Arya Gastroenterology Assocs,NY,11237
+550 1st Ave,,New York,/physician/dr-scott-smukalla-gffvt,0,dr-scott-smukalla-gffvt,"Dr. Scott Smukalla, MD",,4,"550 1st Ave, New York, NY, 10016",DEPARTMENT OF PEDIATRICS,NY,10016
+310 E 72nd St Ste C,62,New York,/physician/dr-michael-cantor-395c3,0,dr-michael-cantor-395c3,"Dr. Michael Cantor, MD",,4,"310 E 72nd St Ste C, New York, NY, 10021",72Nd St Medical Associates,NY,10021
+370 Bay Ridge Pkwy,59,Brooklyn,/physician/dr-wael-eldarawy-xl8jx,0,dr-wael-eldarawy-xl8jx,"Dr. Wael Eldarawy, MD",,8,"370 Bay Ridge Pkwy, Brooklyn, NY, 11209",Bay Ridge Medical Care,NY,11209
+3 E 83rd St,54,New York,/physician/dr-joseph-nash-3h6gw,0,dr-joseph-nash-3h6gw,"Dr. Joseph Nash, MD",,4,"3 E 83rd St, New York, NY, 10028",Peter M Distler PLLC,NY,10028
+1305 York Ave Fl 4,41,New York,/physician/dr-robert-schwartz-26crc,0,dr-robert-schwartz-26crc,"Dr. Robert Schwartz, MD",13,1,"1305 York Ave Fl 4, New York, NY, 10021",The Center for the Study of Hepatitis C,NY,10021
+1275 York Ave,75,New York,/physician/dr-robert-kurtz-2fnwb,0,dr-robert-kurtz-2fnwb,"Dr. Robert Kurtz, MD",,2,"1275 York Ave, New York, NY, 10065",MEMORIAL GASTROENTEROLOGY GROUP,NY,10065
+2569 Ocean Ave # 3,52,Brooklyn,/physician/dr-yuriy-pertsovsky-xfktn,0,dr-yuriy-pertsovsky-xfktn,"Dr. Yuriy Pertsovsky, MD",,29,"2569 Ocean Ave # 3, Brooklyn, NY, 11229",Lifelong Medical,NY,11229
+35 E 35th St Rm 200,67,New York,/physician/dr-michael-klein-3f9by,0,dr-michael-klein-3f9by,"Dr. Michael Klein, MD",,22,"35 E 35th St Rm 200, New York, NY, 10016",Park Avenue Gastroenterology,NY,10016
+51 W 51st St Ste 360,71,New York,/physician/dr-oscar-lebwohl-33blr,0,dr-oscar-lebwohl-33blr,"Dr. Oscar Lebwohl, MD",,11,"51 W 51st St Ste 360, New York, NY, 10019",Columbia Doctors Midtown,NY,10019
+3751 91st St,66,Jackson Heights,/physician/dr-julio-messer-2hdfc,0,dr-julio-messer-2hdfc,"Dr. Julio Messer, MD",,5,"3751 91st St, Jackson Heights, NY, 11372",,NY,11372
+9229 Queens Blvd Ste 1A,58,Rego Park,/physician/dr-salil-marfatia-x99lt,0,dr-salil-marfatia-x99lt,"Dr. Salil Marfatia, MD",,28,"9229 Queens Blvd Ste 1A, Rego Park, NY, 11374",SALIL P MARFATIA MD,NY,11374
+305 2nd Ave Ste 3,45,New York,/physician/dr-william-brown-2y9jb,0,dr-william-brown-2y9jb,"Dr. William Brown, MD",,3,"305 2nd Ave Ste 3, New York, NY, 10003",Jerome H Siegel MD PC,NY,10003
+550 1st Ave,,New York,/physician/dr-demetrios-tzimas-gdywn,0,dr-demetrios-tzimas-gdywn,"Dr. Demetrios Tzimas, MD",,4,"550 1st Ave, New York, NY, 10016",NEW YORK MEDICAL CENTER,NY,10016
+232 E 30th St,65,New York,/physician/dr-edward-brettholz-y2nwy,0,dr-edward-brettholz-y2nwy,"Dr. Edward Brettholz, MD",,17,"232 E 30th St, New York, NY, 10016",Concorde Medical Group,NY,10016
+15702 Crossbay Blvd Ste 204,66,Howard Beach,/physician/dr-howard-zimmerman-ykmcj,0,dr-howard-zimmerman-ykmcj,"Dr. Howard Zimmerman, MD",,2,"15702 Crossbay Blvd Ste 204, Howard Beach, NY, 11414",Associates In Gastroenterology,NY,11414
+36 W 60th St,81,New York,/physician/dr-jean-saleh-yrgwx,0,dr-jean-saleh-yrgwx,"Dr. Jean Saleh, MD",,6,"36 W 60th St, New York, NY, 10023",,NY,10023
+5 Station Sq,64,Forest Hills,/physician/dr-prithwijit-basu-xm9hm,0,dr-prithwijit-basu-xm9hm,"Dr. Prithwijit Basu, MD",,19,"5 Station Sq, Forest Hills, NY, 11375",CARDIAC CARE & VASCULAR MEDICINE PC,NY,11375
+530 1st Ave Ste 4K,79,New York,/physician/dr-andrew-milano-ylb9w,0,dr-andrew-milano-ylb9w,"Dr. Andrew Milano, MD",,2,"530 1st Ave Ste 4K, New York, NY, 10016",New York Gastroenterolgy Assocs,NY,10016
+10 Union Sq E Frnt 2G,,New York,/physician/dr-amreen-dinani-gcqgv,0,dr-amreen-dinani-gcqgv,"Dr. Amreen Dinani, MD",,1,"10 Union Sq E Frnt 2G, New York, NY, 10003",Mount Sinai Liver Medicine,NY,10003
+475 Seaview Ave,61,Staten Island,/physician/dr-george-abdelsayed-3j8k2,0,dr-george-abdelsayed-3j8k2,"Dr. George Abdelsayed, MD",,13,"475 Seaview Ave, Staten Island, NY, 10305",Staten Island University Hospital,NY,10305
+451 Clarkson Ave,49,Brooklyn,/physician/dr-ali-azarm-xhxl5,0,dr-ali-azarm-xhxl5,"Dr. Ali Azarm, MD",,2,"451 Clarkson Ave, Brooklyn, NY, 11203",,NY,11203
+17 E 102nd St Fl 5,55,New York,/physician/dr-bruce-sands-38mgr,0,dr-bruce-sands-38mgr,"Dr. Bruce Sands, MD",,10,"17 E 102nd St Fl 5, New York, NY, 10029",Mount Sinai Gastroenterology,NY,10029
+1275 York Ave,49,New York,/physician/dr-maya-gambarin-gelwan-xx9v5,0,dr-maya-gambarin-gelwan-xx9v5,"Dr. Maya Gambarin-Gelwan, MD",,4,"1275 York Ave, New York, NY, 10065",,NY,10065
+1305 York Ave,45,New York,/physician/dr-savreet-sarkaria-2jjsl,0,dr-savreet-sarkaria-2jjsl,"Dr. Savreet Sarkaria, MD",,9,"1305 York Ave, New York, NY, 10021",Ira M Jacobson MD,NY,10021
+5 Franklin Ave Ste 109,69,Belleville,/physician/dr-robert-spira-3dffm,0,dr-robert-spira-3dffm,"Dr. Robert Spira, MD",,11,"5 Franklin Ave Ste 109, Belleville, NJ, 07109",Essex Gastroenterology Asscos,NJ,07109
+1305 York Ave Fl 4,37,New York,/physician/dr-amir-soumekh-2qchv,0,dr-amir-soumekh-2qchv,"Dr. Amir Soumekh, MD",8,2,"1305 York Ave Fl 4, New York, NY, 10021",Weill Cornell Gastroenterology and Hepatology,NY,10021
+232 E 30th St,72,New York,/physician/dr-john-ackert-yxbfq,0,dr-john-ackert-yxbfq,"Dr. John Ackert, MD",,7,"232 E 30th St, New York, NY, 10016",Concorde Medical Group,NY,10016
+1 Gustave L Levy Pl,,New York,/physician/dr-samir-kapadia-g66yv,0,dr-samir-kapadia-g66yv,"Dr. Samir Kapadia, MD",,2,"1 Gustave L Levy Pl, New York, NY, 10029",DEPARTMENT OF MEDICINE,NY,10029
+2020 E 53rd St Apt Bb,68,Brooklyn,/physician/dr-david-klug-2bj6f,0,dr-david-klug-2bj6f,"Dr. David Klug Sr, MD",,8,"2020 E 53rd St Apt Bb, Brooklyn, NY, 11234","DAVID S KLUG, MD",NY,11234
+6815 Main St,65,Flushing,/physician/dr-steven-weinstein-y8v4d,0,dr-steven-weinstein-y8v4d,"Dr. Steven Weinstein, MD",,11,"6815 Main St, Flushing, NY, 11367",,NY,11367
+8615 Queens Blvd,53,Elmhurst,/physician/dr-ilya-badalov-xgpfl,0,dr-ilya-badalov-xgpfl,"Dr. Ilya Badalov, MD",,4,"8615 Queens Blvd, Elmhurst, NY, 11373",Advantage Care Physicians,NY,11373
+2601 Ocean Pkwy # 8,53,Brooklyn,/physician/dr-john-trillo-y7544,0,dr-john-trillo-y7544,"Dr. John Trillo, MD",,4,"2601 Ocean Pkwy # 8, Brooklyn, NY, 11235",Brooklyn Office,NY,11235
+530 1st Ave Ste 6C,39,New York,/physician/dr-holly-lofton-xv223,0,dr-holly-lofton-xv223,"Dr. Holly Lofton, MD",,14,"530 1st Ave Ste 6C, New York, NY, 10016",NYU Langone Weight Management Program,NY,10016
+68 E 86th St,75,New York,/physician/dr-william-perlow-ycwx7,0,dr-william-perlow-ycwx7,"Dr. William Perlow, MD",,24,"68 E 86th St, New York, NY, 10028",William Perlow MD,NY,10028
+39-40 Broadway,,Secaucus,/physician/dr-michael-sciarra-28wlf,0,dr-michael-sciarra-28wlf,"Dr. Michael Sciarra, DO",,44,"39-40 Broadway, Secaucus, NJ, 07094",Brescia & Migliaccio Mds,NJ,07094
+17 E 102nd St Fl 5,50,New York,/physician/dr-jawad-ahmad-3586v,0,dr-jawad-ahmad-3586v,"Dr. Jawad Ahmad, MD",,3,"17 E 102nd St Fl 5, New York, NY, 10029",Mount Sinai Gastroenterology,NY,10029
+5 E 98th St,51,New York,/physician/dr-lawrence-liu-334j8,0,dr-lawrence-liu-334j8,"Dr. Lawrence Liu, MD",,2,"5 E 98th St, New York, NY, 10029",,NY,10029
+1425 Madison Ave,56,New York,/physician/dr-thomas-schiano-3xd98,0,dr-thomas-schiano-3xd98,"Dr. Thomas Schiano, MD",,12,"1425 Madison Ave, New York, NY, 10029",RECANATI MILLER TRANSPLANT INSTITUTE,NY,10029
+394 University Ave,64,Newark,/physician/dr-isaac-oneal-3j3l4,0,dr-isaac-oneal-3j3l4,"Dr. Isaac O'Neal, MD",,1,"394 University Ave, Newark, NJ, 07102",Department Of Hlth/Comm Wllnss,NJ,07102
+435 59th St Fl 1,61,West New York,/physician/dr-raffaele-gibilisco-xrb2m,0,dr-raffaele-gibilisco-xrb2m,"Dr. Raffaele Gibilisco, MD",,14,"435 59th St Fl 1, West New York, NJ, 07093",Raffaele A Gibilisco MD,NJ,07093
+935 Garfield Ave,61,Jersey City,/physician/dr-alita-dizon-2q9cr,0,dr-alita-dizon-2q9cr,"Dr. Alita Dizon, MD",,9,"935 Garfield Ave, Jersey City, NJ, 07304",Metropolitan Family Hlth Ntwk,NJ,07304
+71 Union Ave Ste 210,42,Rutherford,/physician/dr-dino-beduya-3p297,0,dr-dino-beduya-3p297,"Dr. Dino Beduya, MD",,3,"71 Union Ave Ste 210, Rutherford, NJ, 07070",Gastroenterology Associates NJ,NJ,07070
+12 E 86th St Ofc 4,55,New York,/physician/dr-james-marion-32dhm,0,dr-james-marion-32dhm,"Dr. James Marion, MD",,23,"12 E 86th St Ofc 4, New York, NY, 10028",Present Chapman Marion Steinlau,NY,10028
+6702 3rd Ave Fl 1,72,Brooklyn,/physician/dr-joseph-rando-2dw2q,0,dr-joseph-rando-2dw2q,"Dr. Joseph Rando, MD",,1,"6702 3rd Ave Fl 1, Brooklyn, NY, 11220",,NY,11220
+450 Clarkson Ave Ste 49,65,Brooklyn,/physician/dr-simon-rabinowitz-2gks8,0,dr-simon-rabinowitz-2gks8,"Dr. Simon Rabinowitz, MD",,13,"450 Clarkson Ave Ste 49, Brooklyn, NY, 11203",Brooklyn Pediatric Associates,NY,11203
+8318 4th Ave,,Brooklyn,/physician/dr-chihee-huh-35v8n,0,dr-chihee-huh-35v8n,"Dr. Chihee Huh, DO",,17,"8318 4th Ave, Brooklyn, NY, 11209",Dr. Chihee Christine Huh,NY,11209
+760 Park Ave,63,New York,/physician/dr-albert-knapp-xnx9y,0,dr-albert-knapp-xnx9y,"Dr. Albert Knapp, MD",,21,"760 Park Ave, New York, NY, 10021",Albert B Knapp MD PC,NY,10021
+350 E 17th St Fl 17,,New York,/physician/dr-anna-patel-gby6g,0,dr-anna-patel-gby6g,"Dr. Anna Patel, MD",,1,"350 E 17th St Fl 17, New York, NY, 10003",MOUNT SINAI BETH ISRAEL,NY,10003
+90 Bergen St Ste 4500,56,Newark,/physician/dr-weizheng-wang-xr9qs,0,dr-weizheng-wang-xr9qs,"Dr. Weizheng Wang, MD",,6,"90 Bergen St Ste 4500, Newark, NJ, 07103",University Physicians Assocs,NJ,07103
+312 Belleville Tpke Ste 1B,66,North Arlington,/physician/dr-mark-waxman-2btkp,0,dr-mark-waxman-2btkp,"Dr. Mark Waxman, MD",,12,"312 Belleville Tpke Ste 1B, North Arlington, NJ, 07031",Mark S Waxman MD,NJ,07031
+475 Seaview Ave,,Staten Island,/physician/dr-ari-lamet-g8cdc,0,dr-ari-lamet-g8cdc,"Dr. Ari Lamet, DO",,1,"475 Seaview Ave, Staten Island, NY, 10305",Staten Island University Hospital,NY,10305
+646 Park Ave,83,New York,/physician/dr-howard-goldin-2tjbq,0,dr-howard-goldin-2tjbq,"Dr. Howard Goldin, MD",,10,"646 Park Ave, New York, NY, 10065",Goldin & Rochwarger Mds,NY,10065
+17 E 102nd St Fl 5,58,New York,/physician/dr-nancy-bach-27k5r,0,dr-nancy-bach-27k5r,"Dr. Nancy Bach, MD",,11,"17 E 102nd St Fl 5, New York, NY, 10029",Mount Sinai Gastroenterology,NY,10029
+3414 Church Ave,,Brooklyn,/physician/dr-george-shahin-2dxfb,0,dr-george-shahin-2dxfb,"Dr. George Shahin, MD",,3,"3414 Church Ave, Brooklyn, NY, 11203",Caribbean American Family Hlth,NY,11203
+17 E 102nd St Fl 5,44,New York,/physician/dr-christopher-dimaio-xt8my,0,dr-christopher-dimaio-xt8my,"Dr. Christopher Dimaio, MD",,3,"17 E 102nd St Fl 5, New York, NY, 10029",Mount Sinai Gastroenterology,NY,10029
+90 Bergen St,59,Newark,/physician/dr-zamir-brelvi-xy8pj,0,dr-zamir-brelvi-xy8pj,"Dr. Zamir Brelvi, MD",,15,"90 Bergen St, Newark, NJ, 07103",,NJ,07103
+1 Brookdale Plz Ste 323K,64,Brooklyn,/physician/dr-robert-tracer-24rnx,0,dr-robert-tracer-24rnx,"Dr. Robert Tracer, MD",,2,"1 Brookdale Plz Ste 323K, Brooklyn, NY, 11212",Bigajer & Tracer Mds,NY,11212
+462 1st Ave,,New York,/physician/dr-lisa-malter-25dff,0,dr-lisa-malter-25dff,"Dr. Lisa Malter, MD",,1,"462 1st Ave, New York, NY, 10016",BELLEVUE HOSPITAL CENTER,NY,10016
+240 Willoughby St Ste 11E,46,Brooklyn,/physician/dr-madhavi-reddy-x2nl4,0,dr-madhavi-reddy-x2nl4,"Dr. Madhavi Reddy, MD",,0,"240 Willoughby St Ste 11E, Brooklyn, NY, 11201",SARATH REDDY MD,NY,11201
+530 1st Ave Ste 9C,64,New York,/physician/dr-marcel-laufer-2p6pm,0,dr-marcel-laufer-2p6pm,"Dr. Marcel Laufer, MD",,14,"530 1st Ave Ste 9C, New York, NY, 10016",Jessie Cheung MD Dermatology and Laser Center,NY,10016
+5600 Kennedy Blvd W Ste 103,70,West New York,/physician/dr-harry-snady-x55s3,0,dr-harry-snady-x55s3,"Dr. Harry Snady, MD",,13,"5600 Kennedy Blvd W Ste 103, West New York, NJ, 07093",,NJ,07093
+5516 Main St Ste 1B,73,Flushing,/physician/dr-arthur-feinerman-22sd8,0,dr-arthur-feinerman-22sd8,"Dr. Arthur Feinerman, MD",,1,"5516 Main St Ste 1B, Flushing, NY, 11355",Pioneer Medical Care,NY,11355
+481 Bard Ave,75,Staten Island,/physician/dr-prasanna-wickremesinghe-x8twm,0,dr-prasanna-wickremesinghe-x8twm,"Dr. Prasanna Wickremesinghe, MD",,5,"481 Bard Ave, Staten Island, NY, 10310",Dr. Wickremesinghe office,NY,10310
+1110 Eastern Pkwy,67,Brooklyn,/physician/dr-paul-nacier-2cltn,0,dr-paul-nacier-2cltn,"Dr. Paul Nacier, MD",,2,"1110 Eastern Pkwy, Brooklyn, NY, 11213",SAMUEL UTER MD,NY,11213
+10460 Queens Blvd Ste 1Y,70,Forest Hills,/physician/dr-john-kaufman-y74gj,0,dr-john-kaufman-y74gj,"Dr. John Kaufman, MD",,5,"10460 Queens Blvd Ste 1Y, Forest Hills, NY, 11375",,NY,11375
+3 E 71st St,53,New York,/physician/dr-jay-katzman-2s4q6,0,dr-jay-katzman-2s4q6,"Dr. Jay Katzman, MD",,4,"3 E 71st St, New York, NY, 10021",Jay D Katzman MD,NY,10021
+10 Union Sq E Frnt 2Q,55,New York,/physician/dr-kenji-miyasaka-2r6w3,0,dr-kenji-miyasaka-2r6w3,"Dr. Kenji Miyasaka, MD",,4,"10 Union Sq E Frnt 2Q, New York, NY, 10003",Beth Israel Medical Center Pain,NY,10003
+9712 63rd Dr Ste CA,66,Rego Park,/physician/dr-choudhury-hasan-ypst2,0,dr-choudhury-hasan-ypst2,"Dr. Choudhury Hasan, MD",,13,"9712 63rd Dr Ste CA, Rego Park, NY, 11374",Choudhury S Hasan MD,NY,11374
+161 Fort Washington Ave # 862,46,New York,/physician/dr-amrita-sethi-x6fgq,0,dr-amrita-sethi-x6fgq,"Dr. Amrita Sethi, MD",41,5,"161 Fort Washington Ave # 862, New York, NY, 10032",Columbia University Medical Center Division of Digestive & Liver Diseases,NY,10032
+5 E 98th St Fl 2,46,New York,/physician/dr-saurabh-mehandru-x4fwc,0,dr-saurabh-mehandru-x4fwc,"Dr. Saurabh Mehandru, MD",,7,"5 E 98th St Fl 2, New York, NY, 10029",Mount Sinai Health System,NY,10029
+17 E 102nd St Fl 5,53,New York,/physician/dr-thomas-ullman-3yc47,0,dr-thomas-ullman-3yc47,"Dr. Thomas Ullman, MD",,19,"17 E 102nd St Fl 5, New York, NY, 10029",Mount Sinai Gastroenterology,NY,10029
+136 Linden Blvd,71,Brooklyn,/physician/dr-haydn-briggs-ygl65,0,dr-haydn-briggs-ygl65,"Dr. Haydn Briggs, MD",,1,"136 Linden Blvd, Brooklyn, NY, 11226","HAYDN BRIGGS, MD",NY,11226
+121 Dekalb Ave Ste 9K,72,Brooklyn,/physician/dr-abraham-jelin-xymvn,0,dr-abraham-jelin-xymvn,"Dr. Abraham Jelin, MD",,7,"121 Dekalb Ave Ste 9K, Brooklyn, NY, 11201",Pediatric Faculty Practice,NY,11201
+215 E 95th St,50,New York,/physician/dr-steven-finkelstein-ykywq,0,dr-steven-finkelstein-ykywq,"Dr. Steven Finkelstein, MD",,4,"215 E 95th St, New York, NY, 10128",Advantage Care Physicians,NY,10128
+800 Poly Pl,40,Brooklyn,/physician/dr-garrett-lawlor-gdy6x,0,dr-garrett-lawlor-gdy6x,"Dr. Garrett Lawlor, MD",,1,"800 Poly Pl, Brooklyn, NY, 11209",,NY,11209
+232 E 30th St,63,New York,/physician/dr-james-salik-3yjr8,0,dr-james-salik-3yjr8,"Dr. James Salik, MD",,15,"232 E 30th St, New York, NY, 10016",Concorde Medical Group,NY,10016
+185 S Orange Ave,52,Newark,/physician/dr-nikolaos-pyrsopoulos-395h5,0,dr-nikolaos-pyrsopoulos-395h5,"Dr. Nikolaos Pyrsopoulos, MD",,10,"185 S Orange Ave, Newark, NJ, 07103",RUTGERS NEW JERSEY MEDICAL SCHOOL DIVIS,NJ,07103
+17 E 102nd St Fl 5,46,New York,/physician/dr-divyesh-sejpal-y6b56,0,dr-divyesh-sejpal-y6b56,"Dr. Divyesh Sejpal, MD",,8,"17 E 102nd St Fl 5, New York, NY, 10029",Mount Sinai Gastroenterology,NY,10029
+9001 Roosevelt Ave Ste A,66,Jackson Heights,/physician/dr-israel-aviles-sanchez-x58xk,0,dr-israel-aviles-sanchez-x58xk,"Dr. Israel Aviles-Sanchez, MD",,3,"9001 Roosevelt Ave Ste A, Jackson Heights, NY, 11372",,NY,11372
+425 W 59th St Ste 3A,,New York,/physician/dr-il-paik-gdy7k,0,dr-il-paik-gdy7k,"Dr. Il Paik, MD",,5,"425 W 59th St Ste 3A, New York, NY, 10019",St Lukes Roosevelt Urology,NY,10019
+2355 Ocean Ave Apt 1P,67,Brooklyn,/physician/dr-bernard-yonk-xmqsw,0,dr-bernard-yonk-xmqsw,"Dr. Bernard Yonk, MD",,5,"2355 Ocean Ave Apt 1P, Brooklyn, NY, 11229",Bernard B Yonk MD,NY,11229
+90 Bergen St Ste 4500,,Newark,/physician/dr-sushil-ahlawat-y65cy,0,dr-sushil-ahlawat-y65cy,"Dr. Sushil Ahlawat, MD",,5,"90 Bergen St Ste 4500, Newark, NJ, 07103",University Physicians Assocs,NJ,07103
+55 E 34th St Fl 3,71,New York,/physician/dr-marc-obadia-x5ctl,0,dr-marc-obadia-x5ctl,"Dr. Marc Obadia, MD",,1,"55 E 34th St Fl 3, New York, NY, 10016",Beth Israel / Mount Sirai,NY,10016
+635 Madison Ave Fl 17,57,New York,/physician/dr-angie-eng-25h9k,0,dr-angie-eng-25h9k,"Dr. Angie Eng, MD",,7,"635 Madison Ave Fl 17, New York, NY, 10022",,NY,10022
+5314 Roosevelt Ave,38,Woodside,/physician/dr-david-tenembaum-g3fts,0,dr-david-tenembaum-g3fts,"Dr. David Tenembaum, MD",,3,"5314 Roosevelt Ave, Woodside, NY, 11377",TRIBOROUGH GASTROENTEROLOGY P.C.,NY,11377
+525 E 68th St # M-528,,New York,/physician/dr-nancy-chung-ggnsr,0,dr-nancy-chung-ggnsr,"Dr. Nancy Chung, MD",,1,"525 E 68th St # M-528, New York, NY, 10065",WEILL CORNELL MEDICAL CENTER-NEW YORK PR,NY,10065
+139 Centre St Ste 511,62,New York,/physician/dr-winston-tom-ythsh,0,dr-winston-tom-ythsh,"Dr. Winston Tom, MD",,11,"139 Centre St Ste 511, New York, NY, 10013",Winston C Tom MD,NY,10013
+1090 Amsterdam Ave # 4C,71,New York,/physician/dr-donald-kotler-3hpxp,0,dr-donald-kotler-3hpxp,"Dr. Donald Kotler, MD",,5,"1090 Amsterdam Ave # 4C, New York, NY, 10025",University Medical Prac Assocs,NY,10025
+326 E 149th St,,Bronx,/physician/dr-nithan-narendra-2m2x5,0,dr-nithan-narendra-2m2x5,"Dr. Nithan Narendra, MD",,0,"326 E 149th St, Bronx, NY, 10451",Southern Medical Group,NY,10451
+2281 Ocean Pkwy,78,Brooklyn,/physician/dr-leslie-honikman-ytlps,0,dr-leslie-honikman-ytlps,"Dr. Leslie Honikman, MD",,1,"2281 Ocean Pkwy, Brooklyn, NY, 11223","TRENTACOSTA, JOSEPH C, M.D.",NY,11223
+17 E 102nd St Fl 5,67,New York,/physician/dr-douglas-dieterich-yw7kp,0,dr-douglas-dieterich-yw7kp,"Dr. Douglas Dieterich, MD",,14,"17 E 102nd St Fl 5, New York, NY, 10029",Mount Sinai Gastroenterology,NY,10029
+305 2nd Ave Ste 3,,New York,/physician/dr-evin-mccabe-yjx6y,0,dr-evin-mccabe-yjx6y,"Dr. Evin McCabe, MD",,4,"305 2nd Ave Ste 3, New York, NY, 10003",Jerome H Siegel MD PC,NY,10003
+120 E 86th St,60,New York,/physician/dr-david-berman-xm9l2,0,dr-david-berman-xm9l2,"Dr. David Berman, MD",,12,"120 E 86th St, New York, NY, 10028",Park Ave Medical Professionals,NY,10028
+377 Jersey Ave Ste 460,62,Jersey City,/physician/dr-paul-weissman-35nh6,0,dr-paul-weissman-35nh6,"Dr. Paul Weissman, MD",,11,"377 Jersey Ave Ste 460, Jersey City, NJ, 07302",Barber Dizon Stowe Weissman Mds,NJ,07302
+13302 41st Ave Fl 1st,,Flushing,/physician/dr-xinyu-zhao-xtvkm,0,dr-xinyu-zhao-xtvkm,"Dr. Xinyu Zhao, MD",,1,"13302 41st Ave Fl 1st, Flushing, NY, 11355",41 AVENUE PHARMACY LLC,NY,11355
+1050 Clove Rd,,Staten Island,/physician/dr-deepak-vadada-3423k,0,dr-deepak-vadada-3423k,"Dr. Deepak Vadada, MD",,8,"1050 Clove Rd, Staten Island, NY, 10301",Advantage Care Physicians,NY,10301
+17 E 102nd St Fl 5,55,New York,/physician/dr-joseph-odin-xsq67,0,dr-joseph-odin-xsq67,"Dr. Joseph Odin, MD",,3,"17 E 102nd St Fl 5, New York, NY, 10029",Mount Sinai Gastroenterology,NY,10029
+992 5th Ave,73,New York,/physician/dr-naomi-nakao-39jnc,0,dr-naomi-nakao-39jnc,"Dr. Naomi Nakao, MD",,2,"992 5th Ave, New York, NY, 10028",Dr. Naomi L. Nakao MD,NY,10028
+11940 Metropolitan Ave,57,Kew Gardens,/physician/dr-asit-mehta-x65bn,0,dr-asit-mehta-x65bn,"Dr. Asit Mehta, MD",,1,"11940 Metropolitan Ave, Kew Gardens, NY, 11415",Kew Gardens Family Physicians,NY,11415
+342 E 67th St Ste 1D,67,New York,/physician/dr-franklin-marsh-388vk,0,dr-franklin-marsh-388vk,"Dr. Franklin Marsh Jr, MD",,9,"342 E 67th St Ste 1D, New York, NY, 10065",Franklin Marsh MD,NY,10065
+8501 7th Ave,73,Brooklyn,/physician/dr-matthew-guy-yww9l,0,dr-matthew-guy-yww9l,"Dr. Matthew Guy, MD",,6,"8501 7th Ave, Brooklyn, NY, 11228",Matthew J Guy MD,NY,11228
+157 E 72nd St,72,New York,/physician/dr-stuart-finkel-ylfrt,0,dr-stuart-finkel-ylfrt,"Dr. Stuart Finkel, MD",,5,"157 E 72nd St, New York, NY, 10021",DIGESTIVE DISORDERS TREATMENT,NY,10021
+184 E 70th St,76,New York,/physician/dr-arnold-rochwarger-2fqk2,0,dr-arnold-rochwarger-2fqk2,"Dr. Arnold Rochwarger, MD",,5,"184 E 70th St, New York, NY, 10021",WEILL CORNELL MEDICAL COLLEGE OF GASTROENTEROLOGY,NY,10021
+17 Elizabeth St Ste 608,55,New York,/physician/dr-danny-chu-y4m4t,0,dr-danny-chu-y4m4t,"Dr. Danny Chu, MD",,12,"17 Elizabeth St Ste 608, New York, NY, 10013",Downtown Gastroenterology,NY,10013
+237 Central Ave,66,Jersey City,/physician/dr-mayank-patel-3cjx3,0,dr-mayank-patel-3cjx3,"Dr. Mayank Patel, MD",,9,"237 Central Ave, Jersey City, NJ, 07307",PATEL AMITA M DDS,NJ,07307
+910 Park Pl Apt 1B,62,Brooklyn,/physician/dr-mohamed-mansour-x2wms,0,dr-mohamed-mansour-x2wms,"Mohamed Mansour, MB BCH",,4,"910 Park Pl Apt 1B, Brooklyn, NY, 11216",PHYSICIAN ASSOCIATES,NY,11216
+1 Brookdale Plz Ste 337,66,Brooklyn,/physician/dr-hyman-kirschenbaum-3fpgk,0,dr-hyman-kirschenbaum-3fpgk,"Dr. Hyman Kirschenbaum, MD",,0,"1 Brookdale Plz Ste 337, Brooklyn, NY, 11212",OBH Division of Gastroenterology,NY,11212
+2882 W 15th St Lowr Level,62,Brooklyn,/physician/dr-jay-weissbluth-2dn5t,0,dr-jay-weissbluth-2dn5t,"Dr. Jay Weissbluth, MD",,10,"2882 W 15th St Lowr Level, Brooklyn, NY, 11224","Community Health Initiatives, Inc.",NY,11224
+5910 Junction Blvd,68,Elmhurst,/physician/dr-arthur-vogelman-ykmlv,0,dr-arthur-vogelman-ykmlv,"Dr. Arthur Vogelman, MD",,5,"5910 Junction Blvd, Elmhurst, NY, 11373","Neema Lama, PA-C, FAAPA",NY,11373
+5512 Main St Ste 1B,59,Flushing,/physician/dr-liberato-salvatore-xhl65,0,dr-liberato-salvatore-xhl65,"Dr. Liberato Salvatore, MD",,2,"5512 Main St Ste 1B, Flushing, NY, 11355",Pioneer Medical Care,NY,11355
+730 58th St,43,Brooklyn,/physician/dr-hui-hing-tin-2ryn6,0,dr-hui-hing-tin-2ryn6,"Dr. Hui Hing Tin, MD",,3,"730 58th St, Brooklyn, NY, 11220","Jianjun Li, GI Medical P.C.",NY,11220
+377 Jersey Ave Ste 460,61,Jersey City,/physician/dr-arthur-stowe-yrcqx,0,dr-arthur-stowe-yrcqx,"Dr. Arthur Stowe Jr, MD",,2,"377 Jersey Ave Ste 460, Jersey City, NJ, 07302",Barber Dizon Stowe Weissman Mds,NJ,07302
+1 Pierrepont Plz Ste 1,,Brooklyn,/physician/dr-michelle-cohen-gdg25,0,dr-michelle-cohen-gdg25,"Dr. Michelle Cohen, MD",,3,"1 Pierrepont Plz Ste 1, Brooklyn, NY, 11201",WESTMEDPRACTICEPARTNERSLLC,NY,11201
+4802 10th Ave,36,Brooklyn,/physician/dr-steven-guttmann-gf7kj,0,dr-steven-guttmann-gf7kj,"Dr. Steven Guttmann, MD",,0,"4802 10th Ave, Brooklyn, NY, 11219",MAIMONIDES MEDICAL CENTER,NY,11219
+130 Avenue P,46,Brooklyn,/physician/dr-rakesh-gupta-y6p9b,0,dr-rakesh-gupta-y6p9b,"Dr. Rakesh Gupta, MD",,42,"130 Avenue P, Brooklyn, NY, 11204",Gupta Gastroenterology,NY,11204
+831 56th St,53,Brooklyn,/physician/dr-peiying-xiao-32vdk,0,dr-peiying-xiao-32vdk,"Dr. Peiying Xiao, MD",,6,"831 56th St, Brooklyn, NY, 11220",Peiying Xiao MD,NY,11220
+17 E 102nd St Fl 5,42,New York,/physician/dr-brijen-shah-2smsw,0,dr-brijen-shah-2smsw,"Dr. Brijen Shah, MD",,5,"17 E 102nd St Fl 5, New York, NY, 10029",Mount Sinai Gastroenterology,NY,10029
+1275 York Ave,,New York,/physician/dr-smrita-sinha-gd68w,0,dr-smrita-sinha-gd68w,"Dr. Smrita Sinha, MD",,0,"1275 York Ave, New York, NY, 10065",Memorial Sloan Kettering Cancer,NY,10065
+1 E 68th St Frnt 1E,69,New York,/physician/dr-meyer-solny-3ysnf,0,dr-meyer-solny-3ysnf,"Dr. Meyer Solny, MD",,9,"1 E 68th St Frnt 1E, New York, NY, 10065",Meyer N Solny MD,NY,10065
+447 Atlantic Ave,,Brooklyn,/physician/dr-leon-kurtz-xdhcr,0,dr-leon-kurtz-xdhcr,"Dr. Leon Kurtz, MD",,2,"447 Atlantic Ave, Brooklyn, NY, 11217",Advantage Care Physicians,NY,11217
+13420 Jamaica Ave,59,Richmond Hill,/physician/dr-avani-patel-xx5bs,0,dr-avani-patel-xx5bs,"Dr. Avani Patel, MD",,0,"13420 Jamaica Ave, Richmond Hill, NY, 11418",TJH Medical Services PC,NY,11418
+17 E 102nd St Fl 5,,New York,/physician/dr-jennifer-leong-ym5ff,0,dr-jennifer-leong-ym5ff,"Dr. Jennifer Leong, MD",,7,"17 E 102nd St Fl 5, New York, NY, 10029",Mount Sinai Gastroenterology,NY,10029
+161 Fort Washington Ave Ste 862,43,New York,/physician/dr-daniel-freedberg-gfhj4,0,dr-daniel-freedberg-gfhj4,"Dr. Daniel Freedberg, MD",17,1,"161 Fort Washington Ave Ste 862, New York, NY, 10032",COLUMBIA UNIVERSITY MEDICAL CENTER,NY,10032
+550 1st Ave # 47,,New York,/physician/dr-etan-spira-3tdqs,0,dr-etan-spira-3tdqs,"Dr. Etan Spira, MD",,0,"550 1st Ave # 47, New York, NY, 10016",NYU SCHOOL OF MEDICINE,NY,10016
+550 1st Ave,34,New York,/physician/dr-scott-kramer-gf3bk,0,dr-scott-kramer-gf3bk,"Dr. Scott Kramer, MD",,0,"550 1st Ave, New York, NY, 10016",NEW YORK MEDICAL CENTER,NY,10016
+17 E 102nd St Fl 5,46,New York,/physician/dr-michelle-kim-2cwkm,0,dr-michelle-kim-2cwkm,"Dr. Michelle Kim, MD",,2,"17 E 102nd St Fl 5, New York, NY, 10029",Mount Sinai Gastroenterology,NY,10029
+1 Gustave L Levy Pl,,New York,/physician/dr-louis-cohen-xc7f9,0,dr-louis-cohen-xc7f9,"Dr. Louis Cohen, MD",,2,"1 Gustave L Levy Pl, New York, NY, 10029",MOUNT SINAI HOSPITAL,NY,10029
+9785 Queens Blvd,47,Rego Park,/physician/dr-david-poppers-2nvb7,0,dr-david-poppers-2nvb7,"Dr. David Poppers, PHD",,2,"9785 Queens Blvd, Rego Park, NY, 11374",NYU Medical At Columbus,NY,11374
+425 W 59th St # 8A,52,New York,/physician/dr-lisa-ganjhu-37ylw,0,dr-lisa-ganjhu-37ylw,"Dr. Lisa Ganjhu, DO",,9,"425 W 59th St # 8A, New York, NY, 10019",University Medical Practice Assocs,NY,10019
+296 7th Ave,70,Brooklyn,/physician/dr-david-byrnes-2klbf,0,dr-david-byrnes-2klbf,"Dr. David Byrnes, MD",,3,"296 7th Ave, Brooklyn, NY, 11215",WILLIAM SAMUEL FIGUERO MD,NY,11215
+161 Fort Washington Ave # 862,45,New York,/physician/dr-fay-kastrinos-xj9pf,0,dr-fay-kastrinos-xj9pf,"Dr. Fay Kastrinos, MD",17,4,"161 Fort Washington Ave # 862, New York, NY, 10032",Columbia University Medical Center Division of Digestive & Liver Diseases,NY,10032
+170 William St Fl 7,,New York,/providers/ling-mei-9fq2z,0,ling-mei-9fq2z,"Dr. Ling Mei, MD",,0,"170 William St Fl 7, New York, NY, 10038",NEW YORK DOWNTOWN MED ASSOC,NY,10038
+44 Gramercy Park N Ste 18,70,New York,/physician/dr-bharat-sanghavi-2b8jp,0,dr-bharat-sanghavi-2b8jp,"Dr. Bharat Sanghavi, MD",,7,"44 Gramercy Park N Ste 18, New York, NY, 10010",Bharat J Sanghavi MD,NY,10010
+17 E 102nd St Fl 5,91,New York,/physician/dr-richard-warner-3468x,0,dr-richard-warner-3468x,"Dr. Richard Warner, MD",,4,"17 E 102nd St Fl 5, New York, NY, 10029",Mount Sinai Gastroenterology,NY,10029
+121 Dekalb Ave,,Brooklyn,/physician/dr-carmen-stanca-gcbvq,0,dr-carmen-stanca-gcbvq,"Dr. Carmen Stanca, MD",,0,"121 Dekalb Ave, Brooklyn, NY, 11201",BROOKLYN HOSPITAL CENTER,NY,11201
+535 5th Ave Fl 5,53,New York,/physician/dr-peter-kim-gdvyx,0,dr-peter-kim-gdvyx,"Dr. Peter Kim, MD",,2,"535 5th Ave Fl 5, New York, NY, 10017",MANHATTAN ENDOSCOPY CENTER LLC,NY,10017
+13420 Jamaica Ave Fl 1,80,Richmond Hill,/physician/dr-satish-chawla-y6p6l,0,dr-satish-chawla-y6p6l,"Dr. Satish Chawla, MD",,3,"13420 Jamaica Ave Fl 1, Richmond Hill, NY, 11418",TJH Medical Services PC,NY,11418
+7010 Austin St Ste 101,60,Forest Hills,/physician/dr-david-sosnowik-x4ptj,0,dr-david-sosnowik-x4ptj,"Dr. David Sosnowik, MD",,10,"7010 Austin St Ste 101, Forest Hills, NY, 11375",Austin Medical Associates,NY,11375
+953 Garfield Ave,56,Jersey City,/physician/dr-susan-dellert-xtx7f,0,dr-susan-dellert-xtx7f,"Dr. Susan Dellert, MD",,2,"953 Garfield Ave, Jersey City, NJ, 07304",Center For Children W/Spcl Nds,NJ,07304
+2601 Ocean Pkwy,78,Brooklyn,/physician/dr-francis-steinheber-x6j49,0,dr-francis-steinheber-x6j49,"Dr. Francis Steinheber, MD",,1,"2601 Ocean Pkwy, Brooklyn, NY, 11235",CONEY ISLAND HOSPITAL,NY,11235
+8023 19th Ave Ste 1,62,Brooklyn,/physician/dr-marc-leaf-2rst7,0,dr-marc-leaf-2rst7,"Dr. Marc Leaf, MD",,2,"8023 19th Ave Ste 1, Brooklyn, NY, 11214",Bensonhurst Medical Associates,NY,11214
+928 48th St,69,Brooklyn,/physician/dr-herman-tessler-397cf,0,dr-herman-tessler-397cf,"Dr. Herman Tessler, MD",,4,"928 48th St, Brooklyn, NY, 11219",,NY,11219
+240 Willoughby St Apt 18J,48,Brooklyn,/physician/dr-mohammed-mazumder-gh3gq,0,dr-mohammed-mazumder-gh3gq,"Dr. Mohammed Mazumder, MD",,0,"240 Willoughby St Apt 18J, Brooklyn, NY, 11201",,NY,11201
+100 E 77th St,41,New York,/physician/dr-prashant-mudireddy-2g37p,0,dr-prashant-mudireddy-2g37p,"Dr. Prashant Mudireddy, MD",,0,"100 E 77th St, New York, NY, 10075",Lenox Hill Hospital,NY,10075
+161 Fort Washington Ave # 301,54,New York,/physician/dr-lorna-dove-3chp5,0,dr-lorna-dove-3chp5,"Dr. Lorna Dove, MD",16,2,"161 Fort Washington Ave # 301, New York, NY, 10032",Columbia University Medical Center Division of Digestive & Liver Diseases,NY,10032
+109 Lafayette St Rm 701,62,New York,/physician/dr-eugene-chiang-26rgf,0,dr-eugene-chiang-26rgf,"Dr. Chien Chiang, MD",,11,"109 Lafayette St Rm 701, New York, NY, 10013","CHIEN K CHIANG, M.D., PC",NY,10013
+481 Atlantic Ave,61,Brooklyn,/physician/dr-purna-chandra-prasad-atluri-x52jv,0,dr-purna-chandra-prasad-atluri-x52jv,"Dr. Purna Chandra Prasad Atluri, MD",,0,"481 Atlantic Ave, Brooklyn, NY, 11217",Atlantis Medical Associates,NY,11217
+33 Bowery,,New York,/physician/dr-jimmy-chang-xl8nf,0,dr-jimmy-chang-xl8nf,"Dr. Jimmy Chang, MD",,5,"33 Bowery, New York, NY, 10002",,NY,10002
+1050 Clove Rd,56,Staten Island,/physician/dr-sunil-patel-ynq2h,0,dr-sunil-patel-ynq2h,"Dr. Sunil Patel, MD",,6,"1050 Clove Rd, Staten Island, NY, 10301",Advantage Care Physicians,NY,10301
+60 Gramercy Park N Apt 1B,53,New York,/physician/dr-mihaela-vladutiu-x9bx4,0,dr-mihaela-vladutiu-x9bx4,"Dr. Mihaela Vladutiu, MD",,0,"60 Gramercy Park N Apt 1B, New York, NY, 10010",Gramercy Park Med Assocs,NY,10010
+760 Broadway Fl 5th,,Brooklyn,/physician/dr-richard-feldstein-2tsgx,0,dr-richard-feldstein-2tsgx,"Dr. Richard Feldstein, MD",,2,"760 Broadway Fl 5th, Brooklyn, NY, 11206",Woodhull Medical/Mental Health,NY,11206
+17 E 102nd St Fl 5,,New York,/physician/dr-linda-law-3h5sl,0,dr-linda-law-3h5sl,"Dr. Linda Law, MD",,1,"17 E 102nd St Fl 5, New York, NY, 10029",Mount Sinai Gastroenterology,NY,10029
+9 E 63rd St Lowr Level,70,New York,/physician/dr-michael-frank-y5mgp,0,dr-michael-frank-y5mgp,"Dr. Michael Frank, MD",,2,"9 E 63rd St Lowr Level, New York, NY, 10065",DR MICHAEL FRANK MD,NY,10065
+1305 York Ave Fl 4,70,New York,/physician/dr-david-carr-locke-xsdn5,0,dr-david-carr-locke-xsdn5,"Dr. David Carr-Locke, MD",,2,"1305 York Ave Fl 4, New York, NY, 10021",,NY,10021
+161 Fort Washington Ave # 862,38,New York,/physician/dr-veroushka-ballester-gdd4v,0,dr-veroushka-ballester-gdd4v,"Dr. Veroushka Ballester-Vargas, MD",15,0,"161 Fort Washington Ave # 862, New York, NY, 10032",Columbia University Medical Center Division of Digestive & Liver Diseases,NY,10032
+1080 5th Ave,75,New York,/physician/dr-saul-agus-xry83,0,dr-saul-agus-xry83,"Dr. Saul Agus, MD",,8,"1080 5th Ave, New York, NY, 10128",Saul G Agus MD,NY,10128
+240 E 38th St Fl 23,70,New York,/physician/dr-basil-lucak-ywwfl,0,dr-basil-lucak-ywwfl,"Dr. Basil Lucak, MD",,2,"240 E 38th St Fl 23, New York, NY, 10016",NYU LANGONE HOSPITAL CENTER,NY,10016
+6317 4th Ave,74,Brooklyn,/physician/dr-nidal-khoury-y8ldh,0,dr-nidal-khoury-y8ldh,"Dr. Nidal Khoury, MD",,3,"6317 4th Ave, Brooklyn, NY, 11220",Park Ridge Family Health Center,NY,11220
+9413 Flatlands Ave Ste 101E,68,Brooklyn,/physician/dr-susmita-jasty-ylpjr,0,dr-susmita-jasty-ylpjr,"Dr. Susmita Jasty, MD",,0,"9413 Flatlands Ave Ste 101E, Brooklyn, NY, 11236",Buddhadev N Manvar MD,NY,11236
+8914 Avenue J,52,Brooklyn,/physician/dr-sulaiman-azeez-y44n7,0,dr-sulaiman-azeez-y44n7,"Dr. Sulaiman Azeez, MD",,0,"8914 Avenue J, Brooklyn, NY, 11236",,NY,11236
+550 1st Ave,,New York,/physician/dr-deborah-lim-gctyn,0,dr-deborah-lim-gctyn,"Deborah Chua, MB CHB",,0,"550 1st Ave, New York, NY, 10016",NEW YORK MEDICAL CENTER,NY,10016
+659 Kearny Ave,71,Kearny,/physician/dr-steven-fiske-xjy85,0,dr-steven-fiske-xjy85,"Dr. Steven Fiske, MD",,8,"659 Kearny Ave, Kearny, NJ, 07032",Pulmonary & Allergy Associates,NJ,07032
+39-40 Broadway,72,Secaucus,/physician/dr-masood-rizvi-3c7s6,0,dr-masood-rizvi-3c7s6,"Dr. Masood Rizvi, MD",,8,"39-40 Broadway, Secaucus, NJ, 07094",Brescia & Migliaccio Mds,NJ,07094
+111 Broadway,,New York,/physician/dr-andrew-dikman-gf52x,0,dr-andrew-dikman-gf52x,"Dr. Andrew Dikman, MD",,0,"111 Broadway, New York, NY, 10006",NYU LANGONE AT TRINITY,NY,10006
+2051 Flatbush Ave,65,Brooklyn,/physician/dr-henry-klotz-yxyd4,0,dr-henry-klotz-yxyd4,"Dr. Henry Klotz, MD",,3,"2051 Flatbush Ave, Brooklyn, NY, 11234",Health Check Medical Center,NY,11234
+853 Tiffany St,48,Bronx,/physician/dr-bhavna-balar-yw4vw,0,dr-bhavna-balar-yw4vw,"Dr. Bhavna Balar, MD",,0,"853 Tiffany St, Bronx, NY, 10459",Bronxcare,NY,10459
+1901 1st Ave Ste 704,68,New York,/physician/dr-susan-williams-ysyl9,0,dr-susan-williams-ysyl9,"Dr. Susan Williams, MD",,0,"1901 1st Ave Ste 704, New York, NY, 10029",Metropolitan Hospital IM,NY,10029
+550 Summit Ave Ste 205,67,Jersey City,/physician/dr-alaa-eldin-yftw5,0,dr-alaa-eldin-yftw5,"Dr. Alaa Eldin, MD",,3,"550 Summit Ave Ste 205, Jersey City, NJ, 07306",ALAA S ELDIN MD PC,NJ,07306
+210 Canal St Rm 601,64,New York,/physician/dr-anthony-foong-2r557,0,dr-anthony-foong-2r557,"Dr. Anthony Foong, MD",,2,"210 Canal St Rm 601, New York, NY, 10013",Anthony Foong MD PC,NY,10013
+17 E 102nd St Fl 5,,New York,/physician/dr-jean-frederic-colombel-y9swpmz,0,dr-jean-frederic-colombel-y9swpmz,"Dr. Jean-Frederic Colombel, MD",,0,"17 E 102nd St Fl 5, New York, NY, 10029",Mount Sinai Gastroenterology,NY,10029
+415 Ocean View Ave,73,Brooklyn,/physician/dr-democleia-gottesman-xbqkh,0,dr-democleia-gottesman-xbqkh,"Dr. Democleia Gottesman, MD",,0,"415 Ocean View Ave, Brooklyn, NY, 11235",Star Medical Offices PC,NY,11235
+8622 Bay Pkwy Ste 1,46,Brooklyn,/physician/dr-konstantin-vaizman-xg2ty,0,dr-konstantin-vaizman-xg2ty,"Dr. Konstantin Vaizman, MD",,6,"8622 Bay Pkwy Ste 1, Brooklyn, NY, 11214",All Medical Care,NY,11214
+7901 Broadway,,Elmhurst,/physician/dr-christopher-tomaino-gch8p,0,dr-christopher-tomaino-gch8p,"Dr. Christopher Tomaino, MD",,0,"7901 Broadway, Elmhurst, NY, 11373",,NY,11373
+78 Todt Hill Rd Ste 203,53,Staten Island,/physician/dr-wallen-chan-yllg7,0,dr-wallen-chan-yllg7,"Dr. Wallen Chan, MD",,6,"78 Todt Hill Rd Ste 203, Staten Island, NY, 10314",Richard A Fazio MD,NY,10314
+110 E 55th St Fl 9,65,New York,/physician/dr-bradley-connor-25q7f,0,dr-bradley-connor-25q7f,"Dr. Bradley Connor, MD",,13,"110 E 55th St Fl 9, New York, NY, 10022",Bradley A Connor MD,NY,10022
+156 William St Fl 12,39,New York,/physician/dr-tibor-krisko-xq87r,0,dr-tibor-krisko-xq87r,"Dr. Tibor Krisko, MD",14,0,"156 William St Fl 12, New York, NY, 10038",Weill Cornell Gastroenterology and Hepatology,NY,10038
+1275 York Ave,40,New York,/physician/dr-pari-shah-2m3y2,0,dr-pari-shah-2m3y2,"Dr. Pari Shah, MD",,0,"1275 York Ave, New York, NY, 10065",Gastroenterology & Nutrition,NY,10065
+445 Lenox Rd Ste A,65,Brooklyn,/physician/dr-safak-reka-2jyj9,0,dr-safak-reka-2jyj9,"Dr. Safak Reka, MD",,0,"445 Lenox Rd Ste A, Brooklyn, NY, 11203",Suny Down State Med Ctr Gastro,NY,11203
+128 Mott St Ste 202,,New York,/physician/dr-timothy-johnson-2bqhd,0,dr-timothy-johnson-2bqhd,"Dr. Timothy Johnson, MD",,4,"128 Mott St Ste 202, New York, NY, 10013",Urban Medical Group,NY,10013
+100 E 77th St,38,New York,/physician/dr-bani-chander-gfrxn,0,dr-bani-chander-gfrxn,"Dr. Bani Chander Roland, MD",,13,"100 E 77th St, New York, NY, 10075",,NY,10075
+1283 York Ave Fl 9,40,New York,/physician/dr-randy-longman-ggsg7,0,dr-randy-longman-ggsg7,"Dr. Randy Longman, MD",16,0,"1283 York Ave Fl 9, New York, NY, 10065",Jill Roberts Center for InflammatoryBowel Disease,NY,10065
+280 W 81st St,69,New York,/physician/dr-william-winkler-xyqk6,0,dr-william-winkler-xyqk6,"Dr. William Winkler, MD",,8,"280 W 81st St, New York, NY, 10024",WILLIAM P WINKLER MD PC,NY,10024
+17 E 102nd St Fl 5,,New York,/physician/dr-ritu-agarwal-y7trf,0,dr-ritu-agarwal-y7trf,"Dr. Ritu Agarwal, MD",,0,"17 E 102nd St Fl 5, New York, NY, 10029",Mount Sinai Gastroenterology,NY,10029
+7901 Broadway Ste A1,,Elmhurst,/providers/divyangkumar-gandhi-66lmz,0,divyangkumar-gandhi-66lmz,"Divyangkumar Gandhi, MB BS",,0,"7901 Broadway Ste A1, Elmhurst, NY, 11373",Elmhurst Office,NY,11373
+123 William St Rm 1500,41,New York,/physician/dr-daniel-motola-gfh4g,0,dr-daniel-motola-gfh4g,"Dr. Daniel Motola, MD",,1,"123 William St Rm 1500, New York, NY, 10038",GOTHAM MEDICAL ASSOCIATES,NY,10038
+7901 Broadway,48,Elmhurst,/physician/dr-joshua-aron-2rrqc,0,dr-joshua-aron-2rrqc,"Dr. Joshua Aron, MD",,0,"7901 Broadway, Elmhurst, NY, 11373",Elmhurst Hospital Center Gastro,NY,11373
+25 Central Park W Apt 1Z,64,New York,/physician/dr-george-haroutiounian-y26mg,0,dr-george-haroutiounian-y26mg,"Dr. George Haroutiounian, MD",,13,"25 Central Park W Apt 1Z, New York, NY, 10023",GEORGE HAROUTIOUNIAN MD,NY,10023
+447 Atlantic Ave,60,Brooklyn,/physician/dr-lewis-genuth-yxh2f,0,dr-lewis-genuth-yxh2f,"Dr. Lewis Genuth, MD",,0,"447 Atlantic Ave, Brooklyn, NY, 11217",Advantage Care Physicians,NY,11217
+10201 66th Rd,,Forest Hills,/physician/dr-sophia-jagroop-g9r7h,0,dr-sophia-jagroop-g9r7h,"Dr. Sophia Jagroop, MD",,0,"10201 66th Rd, Forest Hills, NY, 11375",Forest Hills Hospital,NY,11375
+1107 5th Ave Ste 1N,73,New York,/physician/dr-jose-romeu-y27cx,0,dr-jose-romeu-y27cx,"Dr. Jose Romeu, MD",,3,"1107 5th Ave Ste 1N, New York, NY, 10128",Jose Romeu MD & Associates,NY,10128
+1901 1st Ave Ste 704,64,New York,/physician/dr-nora-bergasa-xp989,0,dr-nora-bergasa-xp989,"Dr. Nora Bergasa, MD",,0,"1901 1st Ave Ste 704, New York, NY, 10029",Metropolitan Hospital IM,NY,10029
+1796 Clove Rd Ste 2,79,Staten Island,/physician/dr-jerry-beeber-xq79b,0,dr-jerry-beeber-xq79b,"Dr. Jerry Beeber, MD",,2,"1796 Clove Rd Ste 2, Staten Island, NY, 10304",JOSEPH W ROBERTS MD,NY,10304
+3757 91st St Fl 2,61,Jackson Heights,/physician/dr-thomas-izquierdo-yvn64,0,dr-thomas-izquierdo-yvn64,"Dr. Thomas Izquierdo, MD",,8,"3757 91st St Fl 2, Jackson Heights, NY, 11372",THOMAS IZQUIERDO MD,NY,11372
+234 E 149th St,55,Bronx,/physician/dr-frank-nelson-3blnw,0,dr-frank-nelson-3blnw,"Dr. Frank Nelson, MD",,1,"234 E 149th St, Bronx, NY, 10451",,NY,10451
+71 Union Ave Ste 210,84,Rutherford,/physician/dr-william-albert-2hb74,0,dr-william-albert-2hb74,"Dr. William Albert, MD",,1,"71 Union Ave Ste 210, Rutherford, NJ, 07070",Gastroenterology Associates NJ,NJ,07070
+7901 Broadway,64,Elmhurst,/physician/dr-vivek-gumaste-y4fnc,0,dr-vivek-gumaste-y4fnc,"Dr. Vivek Gumaste, MD",,0,"7901 Broadway, Elmhurst, NY, 11373",Elmhurst Hospital Center Gastro,NY,11373
+550 1st Ave Fl 16th,,New York,/physician/dr-josephine-ni-gd42s,0,dr-josephine-ni-gd42s,"Dr. Josephine Ni, MD",,0,"550 1st Ave Fl 16th, New York, NY, 10016",NYU LANGONE MEDICAL CENTER,NY,10016
+550 1st Ave Ste 1803,,New York,/providers/elliot-coburn-y9q3bmz,0,elliot-coburn-y9q3bmz,"Dr. Elliot Coburn, MD",,0,"550 1st Ave Ste 1803, New York, NY, 10016",NYU Langone Hospitalist Group,NY,10016
+305 E 55th St,72,New York,/physician/dr-min-tsung-hsu-xvl44,0,dr-min-tsung-hsu-xvl44,"Dr. Min Hsu, MD",,1,"305 E 55th St, New York, NY, 10022",Cwern Hsu Medical PC,NY,10022
+1305 York Ave Fl 4,,New York,/physician/dr-nikhil-kumta-gh95s,0,dr-nikhil-kumta-gh95s,"Dr. Nikhil Kumta, MD",,0,"1305 York Ave Fl 4, New York, NY, 10021",Weill Cornell Digestive and Liver Diseases,NY,10021
+161 Fort Washington Ave # 862,36,New York,/physician/dr-sunil-amin-g6bsp,0,dr-sunil-amin-g6bsp,"Dr. Sunil Amin, MD",,0,"161 Fort Washington Ave # 862, New York, NY, 10032",Digestive & Liver Disease,NY,10032
+13420 Jamaica Ave Fl 1,48,Richmond Hill,/physician/dr-nausheer-khan-35v7y,0,dr-nausheer-khan-35v7y,"Dr. Nausheer Khan, MD",,0,"13420 Jamaica Ave Fl 1, Richmond Hill, NY, 11418",TJH Medical Services PC,NY,11418
+17 E 102nd St,,New York,/physician/dr-deepti-dronamraju-ggfnm,0,dr-deepti-dronamraju-ggfnm,"Dr. Deepti Dronamraju, MD",,0,"17 E 102nd St, New York, NY, 10029",New York,NY,10029
+423 E 23rd St,,New York,/physician/dr-ilseung-cho-2bbh2,0,dr-ilseung-cho-2bbh2,"Dr. Ilseung Cho, MD",,0,"423 E 23rd St, New York, NY, 10010",VETERANS AFFAIRS MEDICAL CENTER,NY,10010
+13630 Maple Ave Ste 1D,45,Flushing,/physician/dr-albert-pahk-gg3q9,0,dr-albert-pahk-gg3q9,"Dr. Albert Pahk, MD",,0,"13630 Maple Ave Ste 1D, Flushing, NY, 11355",PAHK SANG KEE MD,NY,11355
+462 1st Ave,51,New York,/physician/dr-gerald-villanueva-gcl38,0,dr-gerald-villanueva-gcl38,"Dr. Gerald Villanueva, MD",,0,"462 1st Ave, New York, NY, 10016",BELLEVUE HOSPITAL CENTER,NY,10016
+17 E 102nd St,,New York,/physician/dr-tyson-collazo-gddl2,0,dr-tyson-collazo-gddl2,"Dr. Tyson Collazo, MD",,0,"17 E 102nd St, New York, NY, 10029",New York,NY,10029
+17 E 102nd St Fl 5,48,New York,/physician/dr-hussien-elsiesy-2439l,0,dr-hussien-elsiesy-2439l,"Dr. Hussien Elsiesy, MD",,0,"17 E 102nd St Fl 5, New York, NY, 10029",Mount Sinai Gastroenterology,NY,10029
+534 Avenue E Ste A,72,Bayonne,/physician/dr-anaka-prakash-26cgl,0,dr-anaka-prakash-26cgl,"Dr. Anaka Prakash, MD",,4,"534 Avenue E Ste A, Bayonne, NJ, 07002",Prakash Prakash & Ramasamy Mds,NJ,07002
+948 48th St Fl 3,44,Brooklyn,/physician/dr-keith-breglio-2ctkp,0,dr-keith-breglio-2ctkp,"Dr. Keith Breglio, MD",,7,"948 48th St Fl 3, Brooklyn, NY, 11219",MMC Pediatrics,NY,11219
+5645 Main St,40,Flushing,/physician/dr-ellen-gutkin-2rfhf,0,dr-ellen-gutkin-2rfhf,"Dr. Ellen Gutkin, DO",,0,"5645 Main St, Flushing, NY, 11355",,NY,11355
+550 1st Ave,,New York,/physician/dr-adam-snyder-gcgcg,0,dr-adam-snyder-gcgcg,"Dr. Adam Snyder, MD",,0,"550 1st Ave, New York, NY, 10016",NYU LANGONE HOSPITAL-BROOKLYN,NY,10016
+122 Fulton St Fl 6,47,New York,/physician/dr-premetesh-chattoo-x8rsy,0,dr-premetesh-chattoo-x8rsy,"Dr. Premetesh Chattoo, DO",,12,"122 Fulton St Fl 6, New York, NY, 10038",Hudson River Gastroenterology,NY,10038
+13619 41st Ave,58,Flushing,/physician/dr-xianyang-yio-x3xf4,0,dr-xianyang-yio-x3xf4,"Dr. Xianyang Yio, MD",,4,"13619 41st Ave, Flushing, NY, 11355",Xianyang Yio MD Medical Service PC,NY,11355
+700 Avenue C,69,Bayonne,/physician/dr-bhavani-prasad-mekala-yk2nn,0,dr-bhavani-prasad-mekala-yk2nn,"Dr. Bhavani Prasad Mekala, MD",,4,"700 Avenue C, Bayonne, NJ, 07002",Bhavani P Mekala MD,NJ,07002
+161 Fort Washington Ave # 862,36,New York,/physician/dr-ashish-shah-gchkq,0,dr-ashish-shah-gchkq,"Dr. Ashish Shah, MD",,0,"161 Fort Washington Ave # 862, New York, NY, 10032",Digestive & Liver Disease,NY,10032
+205 E 76th St Fl M2,57,New York,/physician/dr-frederick-rutkovsky-ytmw4,0,dr-frederick-rutkovsky-ytmw4,"Dr. Frederick Rutkovsky, MD",,9,"205 E 76th St Fl M2, New York, NY, 10021",Schwarz and Ammirati Medical Assocs,NY,10021
+90 Bergen St Ste 2100,,Newark,/physician/dr-michael-demyen-3grnn,0,dr-michael-demyen-3grnn,"Dr. Michael Demyen, MD",,0,"90 Bergen St Ste 2100, Newark, NJ, 07103",University Physicians Assocs,NJ,07103
+232 E 12th St Apt 1F,71,New York,/physician/dr-alexander-shvarts-3cbn9,0,dr-alexander-shvarts-3cbn9,"Dr. Alexander Shvarts, MD",,3,"232 E 12th St Apt 1F, New York, NY, 10003","ALEXANDER SHVARTS, MD",NY,10003
+1067 Ogden Ave,46,Bronx,/physician/dr-kavitha-kumbum-2sfjn,0,dr-kavitha-kumbum-2sfjn,"Dr. Kavitha Kumbum, MD",,8,"1067 Ogden Ave, Bronx, NY, 10452",Ogden Family Practice,NY,10452
+17 E 102nd St,,New York,/physician/dr-serre-yu-wong-gf8xs,0,dr-serre-yu-wong-gf8xs,"Dr. Serre-Yu Wong, MD",,1,"17 E 102nd St, New York, NY, 10029",New York,NY,10029
+245 E 35th St,67,New York,/physician/dr-steven-field-2h54n,0,dr-steven-field-2h54n,"Dr. Steven Field, MD",,2,"245 E 35th St, New York, NY, 10016",MANHATTAN HEALTH ASSOCIATES,NY,10016
+1305 York Ave Fl 8,81,New York,/physician/dr-harvey-klein-ygnhw,0,dr-harvey-klein-ygnhw,"Dr. Harvey Klein, MD",,0,"1305 York Ave Fl 8, New York, NY, 10021",Harvey Klein MD,NY,10021
+170 William St # 2D,85,New York,/physician/dr-david-zimmon-2l4nl,0,dr-david-zimmon-2l4nl,"Dr. David Zimmon, MD",,1,"170 William St # 2D, New York, NY, 10038",David S Zimmon MD FACP,NY,10038
+212 Palisade Ave,79,Jersey City,/physician/dr-ram-reddy-2xnp8,0,dr-ram-reddy-2xnp8,"Dr. Ram Reddy, MD",,0,"212 Palisade Ave, Jersey City, NJ, 07306",HEALTH AID DRUGS INC,NJ,07306
+139 Centre St Ste 603,54,New York,/physician/dr-shuk-yi-lee-yyhgr,0,dr-shuk-yi-lee-yyhgr,"Dr. Shuk-Yi Lee, MD",,7,"139 Centre St Ste 603, New York, NY, 10013",Chinatown Physician PC,NY,10013
+1150 Park Ave,44,New York,/physician/dr-aaron-walfish-2rn4j,0,dr-aaron-walfish-2rn4j,"Dr. Aaron Walfish, MD",,2,"1150 Park Ave, New York, NY, 10128",Aaron E Walfish MD,NY,10128
+525 E 68th St # STAR8,,New York,/physician/dr-monica-saumoy-gf73g,0,dr-monica-saumoy-gf73g,"Dr. Monica Saumoy, MD",,2,"525 E 68th St # STAR8, New York, NY, 10065",Weill Cornell Medical Center,NY,10065
+550 1st Ave,,New York,/physician/dr-alexander-jow-gclhj,0,dr-alexander-jow-gclhj,"Dr. Alexander Jow, MD",,0,"550 1st Ave, New York, NY, 10016",NYU LANGONE HOSPITAL-BROOKLYN,NY,10016
+964 Avenue C,76,Bayonne,/physician/dr-isabelita-cordoba-39gcb,0,dr-isabelita-cordoba-39gcb,"Dr. Isabelita Cordoba, MD",,1,"964 Avenue C, Bayonne, NJ, 07002",,NJ,07002
+1425 Madison Ave,,New York,/physician/dr-ponni-perumalswami-gfrxg,0,dr-ponni-perumalswami-gfrxg,"Dr. Ponni Perumalswami, MD",,0,"1425 Madison Ave, New York, NY, 10029",RECANATI MILLER TRANSPLANT INSTITUTE,NY,10029
+232 E 30th St,80,New York,/physician/dr-michael-ruoff-2kmk8,0,dr-michael-ruoff-2kmk8,"Dr. Michael Ruoff, MD",,4,"232 E 30th St, New York, NY, 10016",Concorde Medical Group,NY,10016
+8656 105th St,74,Richmond Hill,/physician/dr-jiri-podany-g4jkk,0,dr-jiri-podany-g4jkk,"Dr. Jiri Podany, MD",,1,"8656 105th St, Richmond Hill, NY, 11418","BEPPY J EDASERY, M.D.",NY,11418
+51 E 25th St Fl 4,79,New York,/physician/dr-john-franklin-gckrf,0,dr-john-franklin-gckrf,"Dr. John Franklin Jr, MD",,2,"51 E 25th St Fl 4, New York, NY, 10010",Medical Associates,NY,10010
+475 Seaview Ave,,Staten Island,/physician/dr-mayurathan-kesavan-gc9bw,0,dr-mayurathan-kesavan-gc9bw,"Dr. Mayurathan Kesavan, MD",,0,"475 Seaview Ave, Staten Island, NY, 10305",Staten Island University Hospital,NY,10305
+7010 Austin St Ste 101,61,Forest Hills,/physician/dr-mark-silverman-xvy9d,0,dr-mark-silverman-xvy9d,"Dr. Mark Silverman, MD",,7,"7010 Austin St Ste 101, Forest Hills, NY, 11375",Austin Medical Associates,NY,11375
+462 1st Ave,54,New York,/physician/dr-zoi-gamagaris-xwbrw,0,dr-zoi-gamagaris-xwbrw,"Dr. Zoi Gamagaris, MD",,0,"462 1st Ave, New York, NY, 10016",BELLEVUE HOSPITAL CENTER,NY,10016
+451 Clarkson Ave Rm B112,40,Brooklyn,/physician/dr-cui-lin-x9l4r,0,dr-cui-lin-x9l4r,"Dr. Cui Lin, MD",,0,"451 Clarkson Ave Rm B112, Brooklyn, NY, 11203",KINGS COUNTY HOSPITAL CENTER,NY,11203
+90 Bergen St Ste 2100,75,Newark,/physician/dr-arun-samanta-x2d9n,0,dr-arun-samanta-x2d9n,"Dr. Arun Samanta, MD",,2,"90 Bergen St Ste 2100, Newark, NJ, 07103",University Physicians Assocs,NJ,07103
+234 E 149th St,,Bronx,/physician/dr-maria-kassab-g5hdg,0,dr-maria-kassab-g5hdg,"Dr. Maria Kassab, MD",,0,"234 E 149th St, Bronx, NY, 10451",LINCOLN MEDICAL AND MENTAL HEALTH C,NY,10451
+7901 Broadway,40,Elmhurst,/providers/melik-tiba-a58uz,0,melik-tiba-a58uz,"Dr. Melik Tiba, MD",,1,"7901 Broadway, Elmhurst, NY, 11373",Queens Nephrology Associates,NY,11373
+53 W 36th St Rm 204,35,New York,/physician/dr-adam-nadelson-gdy5f,0,dr-adam-nadelson-gdy5f,"Dr. Adam Nadelson, MD",,4,"53 W 36th St Rm 204, New York, NY, 10018",ADAM NADELSON MD,NY,10018
+177 Fort Washington Ave # MHB8-004,,New York,/physician/dr-melissa-latorre-gdh9j,0,dr-melissa-latorre-gdh9j,"Dr. Melissa Latorre, MD",,1,"177 Fort Washington Ave # MHB8-004, New York, NY, 10032",Milstein Hospital Hospitalist,NY,10032
+3117 41st St Fl 1st,52,Astoria,/physician/dr-umeko-takeshige-xc5qq,0,dr-umeko-takeshige-xc5qq,"Dr. Umeko Takeshige, MD",,2,"3117 41st St Fl 1st, Astoria, NY, 11103",Stein Way Medical Associates,NY,11103
+1353 45th St,63,Brooklyn,/physician/dr-henry-brejt-2xrdb,0,dr-henry-brejt-2xrdb,"Dr. Henry Brejt, MD",,2,"1353 45th St, Brooklyn, NY, 11219","HENRY BREJT, MD",NY,11219
+350 E 17th St Fl 17th,,New York,/providers/lionel-dsouza-gw9bl,0,lionel-dsouza-gw9bl,"Dr. Lionel D'Souza, MD",,0,"350 E 17th St Fl 17th, New York, NY, 10003",,NY,10003
+462 1st Ave,44,New York,/physician/dr-adam-goodman-3cnjd,0,dr-adam-goodman-3cnjd,"Dr. Adam Goodman, MD",,0,"462 1st Ave, New York, NY, 10016",BELLEVUE HOSPITAL CENTER,NY,10016
+17 E 102nd St Fl 5,,New York,/physician/dr-gene-im-gdynp,0,dr-gene-im-gdynp,"Dr. Gene Im, MD",,0,"17 E 102nd St Fl 5, New York, NY, 10029",Mount Sinai Gastroenterology,NY,10029
+451 Clarkson Ave,,Brooklyn,/physician/dr-evan-grossman-xfq94,0,dr-evan-grossman-xfq94,"Dr. Evan Grossman, MD",,0,"451 Clarkson Ave, Brooklyn, NY, 11203",KINGS COUNTY HOSPITAL CENTER,NY,11203
+161 Fort Washington Ave # 862,61,New York,/physician/dr-timothy-wang-25s4k,0,dr-timothy-wang-25s4k,"Dr. Timothy Wang, MD",,0,"161 Fort Washington Ave # 862, New York, NY, 10032",Digestive & Liver Disease,NY,10032
+185 S Orange Ave,,Newark,/physician/dr-steven-krawitz-g59yf,0,dr-steven-krawitz-g59yf,"Dr. Steven Krawitz, MD",,0,"185 S Orange Ave, Newark, NJ, 07103",RUTGERS NEW JERSEY MEDICAL SCHOOL DIVIS,NJ,07103
+801 Avenue N,68,Brooklyn,/physician/dr-david-wolfson-xhjgp,0,dr-david-wolfson-xhjgp,"Dr. David Wolfson, MD",,20,"801 Avenue N, Brooklyn, NY, 11230",DAVID M WOLFSON MD,NY,11230
+17 E 102nd St,,New York,/physician/dr-elisabeth-kramer-gcx9j,0,dr-elisabeth-kramer-gcx9j,"Dr. Elisabeth Kramer, MD",,0,"17 E 102nd St, New York, NY, 10029",New York,NY,10029
+1 Gustave L Levy Pl # 1118,,New York,/physician/dr-ryan-ungaro-g6s6n,0,dr-ryan-ungaro-g6s6n,"Dr. Ryan Ungaro, MD",,0,"1 Gustave L Levy Pl # 1118, New York, NY, 10029",HEMATOLOGY ONCOLOGY,NY,10029
+126 Greenpoint Ave Fl 1,85,Brooklyn,/physician/dr-henry-safier-xpfyy,0,dr-henry-safier-xpfyy,"Dr. Henry Safier, MD",,1,"126 Greenpoint Ave Fl 1, Brooklyn, NY, 11222",Pro Health Care Associates LLP,NY,11222
+1283 York Ave,35,New York,/physician/dr-srihari-mahadev-gff4d,0,dr-srihari-mahadev-gff4d,"Dr. Srihari Mahadev, MD",,0,"1283 York Ave, New York, NY, 10065",,NY,10065
+17 E 102nd St Fl 5,59,New York,/physician/dr-mark-babyatsky-x4fwh,0,dr-mark-babyatsky-x4fwh,"Dr. Mark Babyatsky, MD",,0,"17 E 102nd St Fl 5, New York, NY, 10029",Mount Sinai Gastroenterology,NY,10029
+60 Gramercy Park N Apt 1B,69,New York,/physician/dr-mark-siegel-2wyc3,0,dr-mark-siegel-2wyc3,"Dr. Mark Siegel, MD",,0,"60 Gramercy Park N Apt 1B, New York, NY, 10010",Mark I Siegel MD,NY,10010
+468 Lafayette Ave,66,Brooklyn,/physician/dr-richard-fisse-y997m,0,dr-richard-fisse-y997m,"Dr. Richard Fisse, MD",,0,"468 Lafayette Ave, Brooklyn, NY, 11205",Lafayette Medical Center,NY,11205
+4802 10th Ave,33,Brooklyn,/physician/dr-kevin-tin-gd3ff,0,dr-kevin-tin-gd3ff,"Dr. Kevin Tin, MD",,11,"4802 10th Ave, Brooklyn, NY, 11219",MAIMONIDES MEDICAL CENTER,NY,11219
+760 Broadway,64,Brooklyn,/physician/dr-harry-winters-x5d24,0,dr-harry-winters-x5d24,"Dr. Harry Winters, MD",,0,"760 Broadway, Brooklyn, NY, 11206",WOODHULL MEDICAL AND MENTAL HEALTH,NY,11206
+244 72nd St,63,Brooklyn,/physician/dr-muhammad-abdullah-2fshb,0,dr-muhammad-abdullah-2fshb,"Dr. Muhammad Abdullah, MD",,0,"244 72nd St, Brooklyn, NY, 11209",University Group Medical,NY,11209
+161 Fort Washington Ave Ste 862,,New York,/physician/dr-victoria-sheen-ggx2k,0,dr-victoria-sheen-ggx2k,"Dr. Victoria Sheen, MD",,0,"161 Fort Washington Ave Ste 862, New York, NY, 10032",Digestive & Liver Disease,NY,10032
+161 Fort Washington Ave Fl 2nd,,New York,/physician/dr-kelley-yan-ywg9n,0,dr-kelley-yan-ywg9n,"Dr. Kelley Yan, MD",,0,"161 Fort Washington Ave Fl 2nd, New York, NY, 10032",LEVINE RICHARD U MD PC,NY,10032
+121 Dekalb Ave,,Brooklyn,/physician/dr-sofia-nigar-wch25,0,dr-sofia-nigar-wch25,"Dr. Sofia Nigar, MD",,0,"121 Dekalb Ave, Brooklyn, NY, 11201",BROOKLYN HOSPITAL CENTER,NY,11201
+201 E 87th St,70,New York,/physician/dr-lawrence-koblenz-3yypf,0,dr-lawrence-koblenz-3yypf,"Dr. Lawrence Koblenz, MD",,0,"201 E 87th St, New York, NY, 10128",,NY,10128
+177 E 87th St # 305,68,New York,/physician/dr-william-spivak-36fhb,0,dr-william-spivak-36fhb,"Dr. William Spivak, MD",,33,"177 E 87th St # 305, New York, NY, 10128",William Spivak MD - Pediatric Gastroenterology and Nutrition,NY,10128
+1111 Amsterdam Ave,,New York,/physician/dr-pavan-mankal-gfxxk,0,dr-pavan-mankal-gfxxk,"Dr. Pavan Mankal, MD",,1,"1111 Amsterdam Ave, New York, NY, 10025",ST LUKES-ROOSEVELT HOSPITAL CENTER,NY,10025
+7901 Broadway,34,Elmhurst,/physician/dr-ramy-sabe-y9sw9cz,0,dr-ramy-sabe-y9sw9cz,"Ramy Sabe, MB BCH",,3,"7901 Broadway, Elmhurst, NY, 11373",Elmhurst Hospital Center PED,NY,11373
+1283 York Ave Fl 9,32,New York,/providers/andrea-betesh-43o6z,0,andrea-betesh-43o6z,"Dr. Andrea Betesh, MD",,0,"1283 York Ave Fl 9, New York, NY, 10065",Weill Cornell Gastroenterology and Hepatology,NY,10065
+234 E 149th St Ste 9A,41,Bronx,/physician/dr-caroline-hwang-ybdjh,0,dr-caroline-hwang-ybdjh,"Dr. Caroline Hwang, MD",,0,"234 E 149th St Ste 9A, Bronx, NY, 10451",Lincoln Hospital Cancer Center,NY,10451
+17 E 102nd St Fl 5,63,New York,/physician/dr-suzanne-rose-2qmdp,0,dr-suzanne-rose-2qmdp,"Dr. Suzanne Rose, MD",,1,"17 E 102nd St Fl 5, New York, NY, 10029",Mount Sinai Gastroenterology,NY,10029
+17 E 102nd St Fl 5,66,New York,/physician/dr-lloyd-mayer-2brc4,0,dr-lloyd-mayer-2brc4,"Dr. Lloyd Mayer, MD",,3,"17 E 102nd St Fl 5, New York, NY, 10029",Mount Sinai Gastroenterology,NY,10029
+169 E 78th St Apt 1B,74,New York,/physician/dr-robert-lombardo-2jwbx,0,dr-robert-lombardo-2jwbx,"Dr. Robert Lombardo, MD",,7,"169 E 78th St Apt 1B, New York, NY, 10075",Robert P Lombardo MD,NY,10075
+1 Gustave L Levy Pl,,New York,/physician/dr-stefania-asciutti-y9vfcdz,0,dr-stefania-asciutti-y9vfcdz,"Dr. Stefania Asciutti, MD",,1,"1 Gustave L Levy Pl, New York, NY, 10029",MOUNT SINAI HOSPITAL,NY,10029
+1080 5th Ave Ste 1B,81,New York,/physician/dr-thomas-fabry-2cccm,0,dr-thomas-fabry-2cccm,"Dr. Thomas Fabry, MD",,1,"1080 5th Ave Ste 1B, New York, NY, 10128",,NY,10128
+21 W 86th St,65,New York,/physician/dr-joel-lavine-y725x,0,dr-joel-lavine-y725x,"Dr. Joel Lavine, MD",17,1,"21 W 86th St, New York, NY, 10024",Columbia University Medical Center Pediatrics,NY,10024
+21 W 86th St,41,New York,/physician/dr-norelle-rizkalla-reilly-yl74t,0,dr-norelle-rizkalla-reilly-yl74t,"Dr. Norelle Rizkalla Reilly, MD",39,3,"21 W 86th St, New York, NY, 10024",Columbia University Medical Center Pediatrics,NY,10024
+925 48th St,95,Brooklyn,/physician/dr-baroukh-el-kodsi-xm6jk,0,dr-baroukh-el-kodsi-xm6jk,"Dr. Baroukh El Kodsi, MD",,1,"925 48th St, Brooklyn, NY, 11219",KODSI & KODSI ASSOCIATES,NY,11219
+374 Stockholm St,,Brooklyn,/physician/dr-girish-sharma-yxs7w,0,dr-girish-sharma-yxs7w,"Dr. Girish Sharma, MD",,7,"374 Stockholm St, Brooklyn, NY, 11237",Boston Children's Health Physicians (BCHP),NY,11237
+44 E 65th St Ste 1B,75,New York,/physician/dr-wendy-aronson-x8d9t,0,dr-wendy-aronson-x8d9t,"Dr. Wendy Aronson, MD",,1,"44 E 65th St Ste 1B, New York, NY, 10065","JUDITH E GURLAND, MD",NY,10065
+305 E 55th St,83,New York,/physician/dr-hiromi-shinya-34jk2,0,dr-hiromi-shinya-34jk2,"Dr. Hiromi Shinya, MD",,3,"305 E 55th St, New York, NY, 10022",Cwern Hsu Medical PC,NY,10022
+1000 10th Ave,31,New York,/physician/dr-michael-herman-xylnnyt,0,dr-michael-herman-xylnnyt,"Dr. Michael Herman, MD",,0,"1000 10th Ave, New York, NY, 10019",Mount Sinai Health System,NY,10019
+530 1st Ave # 4E,92,New York,/physician/dr-charles-hazzi-2mk2l,0,dr-charles-hazzi-2mk2l,"Dr. Charles Hazzi, MD",,1,"530 1st Ave # 4E, New York, NY, 10016",NYU MEDICAL CTR,NY,10016
+530 1st Ave Ste 4K,87,New York,/physician/dr-lawrence-horowitz-39q38,0,dr-lawrence-horowitz-39q38,"Dr. Lawrence Horowitz, MD",,1,"530 1st Ave Ste 4K, New York, NY, 10016",NY UNIVERSITY MED CTR,NY,10016
+330 Grand St,57,Hoboken,/physician/dr-andrew-de-la-torre-y3td9,0,dr-andrew-de-la-torre-y3td9,"Dr. Andrew de la Torre, MD",,8,"330 Grand St, Hoboken, NJ, 07030","Liver, Pancreas, Biliary Surgery and Cancer Care",NJ,07030
+328 Union St # 1,,Brooklyn,/physician/dr-amna-afzal-gbl7n,0,dr-amna-afzal-gbl7n,"Dr. Amna Afzal, MD",,1,"328 Union St # 1, Brooklyn, NY, 11231",,NY,11231
+10 Union Sq E Frnt 2J2H,70,New York,/physician/dr-steven-schwarz-xvmt5,0,dr-steven-schwarz-xvmt5,"Dr. Steven Schwarz, MD",,5,"10 Union Sq E Frnt 2J2H, New York, NY, 10003",Mount Sinai Union Square,NY,10003
+10 Union Sq E Frnt 2G,83,New York,/physician/dr-david-clain-3gcbd,0,dr-david-clain-3gcbd,"Dr. David Clain, MD",,1,"10 Union Sq E Frnt 2G, New York, NY, 10003",David J Clain MD.,NY,10003
+12508 Liberty Ave # 8,72,South Richmond Hill,/physician/dr-george-jhagroo-xkmtp,0,dr-george-jhagroo-xkmtp,"George Jhagroo Sr, MB",,11,"12508 Liberty Ave # 8, South Richmond Hill, NY, 11419",MEDICAL ARTS CENTER,NY,11419
+1 Gustave L Levy Pl Fl 12,,New York,/physician/dr-james-crismale-gd8ly,0,dr-james-crismale-gd8ly,"Dr. James Crismale II, MD",,0,"1 Gustave L Levy Pl Fl 12, New York, NY, 10029",Mount Sinai Med Ctr Hsptlsts,NY,10029
+3959 Broadway # 7-726,55,New York,/physician/dr-steven-lobritto-y93db,0,dr-steven-lobritto-y93db,"Dr. Steven Lobritto, MD",18,4,"3959 Broadway # 7-726, New York, NY, 10032",Columbia University Medical Center Surgery,NY,10032
+505 E 70th St Fl 3,57,New York,/physician/dr-robbyn-sockolow-2qq66,0,dr-robbyn-sockolow-2qq66,"Dr. Robbyn Sockolow, MD",28,8,"505 E 70th St Fl 3, New York, NY, 10021",Pediatric Gastroenterology and Nutrition,NY,10021
+14015 Sanford Ave,75,Flushing,/physician/dr-richard-emanuel-y7smg,0,dr-richard-emanuel-y7smg,"Dr. Richard Emanuel, MD",,4,"14015 Sanford Ave, Flushing, NY, 11355",Advantage Care Physicians,NY,11355
+5 E 98th St,44,New York,/physician/dr-david-dunkin-33r68,0,dr-david-dunkin-33r68,"Dr. David Dunkin, MD",,3,"5 E 98th St, New York, NY, 10029",Mount Sinai FPA,NY,10029
+505 E 70th St Fl 3,39,New York,/physician/dr-kimberley-chien-gcsw7,0,dr-kimberley-chien-gcsw7,"Dr. Kimberley Chien, MD",14,9,"505 E 70th St Fl 3, New York, NY, 10021",Pediatric Gastroenterology and Nutrition,NY,10021
+501 6th St Dept of,60,Brooklyn,/physician/dr-yvonne-mcfarlane-ferreira-x4ckt,0,dr-yvonne-mcfarlane-ferreira-x4ckt,"Dr. Yvonne McFarlane-Ferreira, MD",,3,"501 6th St Dept of, Brooklyn, NY, 11215",,NY,11215
+4161 Kissena Blvd Ste 27,71,Flushing,/physician/dr-chang-ho-suk-xmffc,0,dr-chang-ho-suk-xmffc,"Dr. Chang Suk, MD",,1,"4161 Kissena Blvd Ste 27, Flushing, NY, 11355",CHANG H SUK MD,NY,11355
+90 Bergen St Ste 2100,83,Newark,/physician/dr-gerald-salen-2lbdp,0,dr-gerald-salen-2lbdp,"Dr. Gerald Salen, MD",,0,"90 Bergen St Ste 2100, Newark, NJ, 07103",University Physicians Assocs,NJ,07103
+506 6th St,,Brooklyn,/physician/dr-derrick-cheung-gcdg7,0,dr-derrick-cheung-gcdg7,"Dr. Derrick Cheung, MD",,0,"506 6th St, Brooklyn, NY, 11215",NEW YORK METHODIST HOSPITAL,NY,11215
+240 E 38th St Fl 23,,New York,/physician/dr-lea-chen-ytwd8,0,dr-lea-chen-ytwd8,"Dr. Lea Chen, MD",,3,"240 E 38th St Fl 23, New York, NY, 10016",NYU LANGONE HOSPITAL CENTER,NY,10016
+3959 Broadway # 7-718,63,New York,/physician/dr-philip-kazlow-xm2lp,0,dr-philip-kazlow-xm2lp,"Dr. Philip Kazlow, MD",17,7,"3959 Broadway # 7-718, New York, NY, 10032",Columbia University Medical Center Pediatrics,NY,10032
+1085 Park Ave Ofc 1N,68,New York,/physician/dr-cordia-beverley-yggq6,0,dr-cordia-beverley-yggq6,"Dr. Cordia Beverley, MD",,7,"1085 Park Ave Ofc 1N, New York, NY, 10128",,NY,10128
+242 E 19th St Ste 3,82,New York,/physician/dr-anthony-verrone-37dp2,0,dr-anthony-verrone-37dp2,"Dr. Anthony Verrone, MD",,0,"242 E 19th St Ste 3, New York, NY, 10003",Anthony Verrone MD PC,NY,10003
+13221 41st Ave Apt 1A,55,Flushing,/physician/dr-calvin-pan-xfcdt,0,dr-calvin-pan-xfcdt,"Dr. Calvin Pan, MD",,15,"13221 41st Ave Apt 1A, Flushing, NY, 11355",Medical Procare PLLC,NY,11355
+7146 110th St Ste A,67,Forest Hills,/physician/dr-mark-friedman-3y2pj,0,dr-mark-friedman-3y2pj,"Dr. Mark Friedman, MD",,0,"7146 110th St Ste A, Forest Hills, NY, 11375",Arthur J Vogelman MD,NY,11375
+5 E 98th St Fl 10,48,New York,/physician/dr-mirna-chehade-xvngg,0,dr-mirna-chehade-xvngg,"Dr. Mirna Chehade, MD",,10,"5 E 98th St Fl 10, New York, NY, 10029",Mount Sinai Med Ctr Pdtrc Gstrn,NY,10029
+448 Bay Ridge Pkwy Ste 75,81,Brooklyn,/physician/dr-andreas-koutras-24d9g,0,dr-andreas-koutras-24d9g,"Dr. Andreas Koutras, MD",,5,"448 Bay Ridge Pkwy Ste 75, Brooklyn, NY, 11209","ANDREAS KOUTRAS, MD",NY,11209
+1608 Lemoine Ave Ste 200,66,Fort Lee,/physician/dr-seoung-baik-ynnw2,0,dr-seoung-baik-ynnw2,"Dr. Seoung Baik, MD",,0,"1608 Lemoine Ave Ste 200, Fort Lee, NJ, 07024",New Jersey Gastroenterology,NJ,07024
+5 E 98th St Fl 10,65,New York,/physician/dr-keith-benkov-3dljv,0,dr-keith-benkov-3dljv,"Dr. Keith Benkov, MD",,30,"5 E 98th St Fl 10, New York, NY, 10029",Mount Sinai Med Ctr Pdtrc Gstrn,NY,10029
+505 E 70th St Fl 3,44,New York,/physician/dr-thomas-ciecierega-3g4ft,0,dr-thomas-ciecierega-3g4ft,"Dr. Thomas Ciecierega, MD",14,6,"505 E 70th St Fl 3, New York, NY, 10021",Pediatric Gastroenterology and Nutrition,NY,10021
+622 W 168th St # 83,,New York,/physician/dr-ming-ming-xu-g5v54,0,dr-ming-ming-xu-g5v54,"Dr. Ming-Ming Xu, MD",,0,"622 W 168th St # 83, New York, NY, 10032",,NY,10032
+5645 Main St,43,Flushing,/physician/dr-anthony-porto-yqcvm,0,dr-anthony-porto-yqcvm,"Dr. Anthony Porto, MD",,4,"5645 Main St, Flushing, NY, 11355",NewYork-Presbyterian Queens,NY,11355
+5645 Main St,,Flushing,/physician/dr-melissa-rose-gdh7p,0,dr-melissa-rose-gdh7p,"Dr. Melissa Rose, MD",,1,"5645 Main St, Flushing, NY, 11355",NewYork-Presbyterian Queens,NY,11355
+5516 Main St,74,Flushing,/physician/dr-robert-harooni-ykg6n,0,dr-robert-harooni-ykg6n,"Dr. Robert Harooni, MD",,1,"5516 Main St, Flushing, NY, 11355",Advanced Gastroenterology,NY,11355
+1 Gustave L Levy Pl,,New York,/physician/dr-natalie-ciomek-g6r9k,0,dr-natalie-ciomek-g6r9k,"Dr. Natalie Ciomek, MD",,7,"1 Gustave L Levy Pl, New York, NY, 10029",Mount Sinai Medical Center,NY,10029
+2211 Emmons Ave,,Brooklyn,/physician/dr-mila-tempel-g72s5,0,dr-mila-tempel-g72s5,"Dr. Mila Tempel, DO",,1,"2211 Emmons Ave, Brooklyn, NY, 11235",Brooklyn Gastroenterology and Endoscopy Associates,NY,11235
+622 W 168th St PH 17,49,New York,/physician/dr-esi-sama-lamouse-smith-yb8vj,0,dr-esi-sama-lamouse-smith-yb8vj,"Dr. Esi Sama Lamouse-Smith, MD",,1,"622 W 168th St PH 17, New York, NY, 10032",Presbyterian Hospital Building (PH),NY,10032
+8242 Kew Gardens Rd,73,Kew Gardens,/physician/dr-peter-herz-396qh,0,dr-peter-herz-396qh,"Dr. Peter Herz, MD",,1,"8242 Kew Gardens Rd, Kew Gardens, NY, 11415",GSTRNTRLGY & INTERNAL MEDICINE,NY,11415
+3959 Broadway # 7-726,39,New York,/physician/dr-jennifer-vittorio-37bpm,0,dr-jennifer-vittorio-37bpm,"Dr. Jennifer Vittorio, MD",30,1,"3959 Broadway # 7-726, New York, NY, 10032",Columbia University Medical Center Surgery,NY,10032
+475 Seaview Ave,,Staten Island,/providers/christine-boumitri-c7msz,0,christine-boumitri-c7msz,"Dr. Christine Boumitri, MD",,5,"475 Seaview Ave, Staten Island, NY, 10305",STATEN ISLAND UNIVERSITY HOSPITAL,NY,10305
+7901 Broadway,,Elmhurst,/physician/dr-jianlin-xie-y3fbr,0,dr-jianlin-xie-y3fbr,"Dr. Jianlin Xie, MD",,0,"7901 Broadway, Elmhurst, NY, 11373",Elmhurst Hospital Center Gastro,NY,11373
+3459 Broadway,43,New York,/physician/dr-peri-millman-35wbf,0,dr-peri-millman-35wbf,"Dr. Peri Millman, MD",,1,"3459 Broadway, New York, NY, 10031",,NY,10031
+10 Plaza St E Ste 1A,68,Brooklyn,/physician/dr-jody-tutino-yvkd5,0,dr-jody-tutino-yvkd5,"Dr. Jody Tutino, MD",,1,"10 Plaza St E Ste 1A, Brooklyn, NY, 11238","JODY M L TUTINO, MD",NY,11238
+150 55th St,,Brooklyn,/physician/dr-mel-ona-gdj9m,0,dr-mel-ona-gdj9m,"Dr. Mel Ona, MD",,0,"150 55th St, Brooklyn, NY, 11220",LUTHERAN MEDICAL CENTER,NY,11220
+505 E 70th St Rm HT553,43,New York,/physician/dr-aliza-solomon-x59f7,0,dr-aliza-solomon-x59f7,"Dr. Aliza Solomon, DO",28,8,"505 E 70th St Rm HT553, New York, NY, 10021",Pediatric Primary Care,NY,10021
+800 Poly Pl,,Brooklyn,/physician/dr-james-araujo-gcwl7,0,dr-james-araujo-gcwl7,"Dr. James Araujo, MD",,0,"800 Poly Pl, Brooklyn, NY, 11209",VETERANS AFFAIRS NEW YORK HARBOR HEALTHCARE SYSTEM,NY,11209
+17 E 102nd St Fl 5,,New York,/physician/dr-pascale-white-gf3mp,0,dr-pascale-white-gf3mp,"Dr. Pascale White, MD",,0,"17 E 102nd St Fl 5, New York, NY, 10029",Mount Sinai Gastroenterology,NY,10029
+8622 Bay Pkwy Ste 1,,Brooklyn,/physician/dr-neal-carlin-xylj7t3,0,dr-neal-carlin-xylj7t3,"Dr. Neal Carlin, MD",,1,"8622 Bay Pkwy Ste 1, Brooklyn, NY, 11214",All Medical Care,NY,11214
+17 E 102nd St,35,New York,/physician/dr-richa-shukla-g534b,0,dr-richa-shukla-g534b,"Dr. Richa Shukla, MD",,0,"17 E 102nd St, New York, NY, 10029",New York,NY,10029
+1545 Atlantic Ave,75,Brooklyn,/physician/dr-gerald-posner-x4xt2,0,dr-gerald-posner-x4xt2,"Dr. Gerald Posner, MD",,0,"1545 Atlantic Ave, Brooklyn, NY, 11213",Fulton Medical Plaza,NY,11213
+232 E 30th St,58,New York,/physician/dr-manuel-martinez-xmgjg,0,dr-manuel-martinez-xmgjg,"Dr. Manuel Martinez, MD",,0,"232 E 30th St, New York, NY, 10016",Concorde Medical Group,NY,10016
+185 S Orange Ave,,Newark,/providers/phoenix-fung-y5b483z,0,phoenix-fung-y5b483z,"Dr. Phoenix Fung, MD",,0,"185 S Orange Ave, Newark, NJ, 07103",,NJ,07103
+1305 York Ave Fl 4,35,New York,/physician/dr-fouad-otaki-gds6f,0,dr-fouad-otaki-gds6f,"Dr. Fouad Otaki, MD",,0,"1305 York Ave Fl 4, New York, NY, 10021",Weill Cornell Digestive and Liver Diseases,NY,10021
+139 Haven Ave,62,New York,/physician/dr-francisco-bautista-xmvcx,0,dr-francisco-bautista-xmvcx,"Dr. Francisco Bautista, MD",,0,"139 Haven Ave, New York, NY, 10032",,NY,10032
+704 Degraw St Apt 2,,Brooklyn,/physician/dr-dennis-demeria-xymjc77,0,dr-dennis-demeria-xymjc77,"Dr. Dennis Demeria, MD",,0,"704 Degraw St Apt 2, Brooklyn, NY, 11217",,NY,11217
+800 Poly Pl,,Brooklyn,/physician/dr-dimitrios-georgostathis-g4yqg,0,dr-dimitrios-georgostathis-g4yqg,"Dr. Dimitrios Georgostathis, MD",,0,"800 Poly Pl, Brooklyn, NY, 11209",Brooklyn VA Hospital Pulmonolgy,NY,11209
+9422 59th Ave Ste E-1,43,Elmhurst,/physician/dr-nicole-jordan-3f85c,0,dr-nicole-jordan-3f85c,"Dr. Nicole Jordan, MD",,5,"9422 59th Ave Ste E-1, Elmhurst, NY, 11373",BABU S BANGARU MD,NY,11373
+51 W 51st St Ste 310,64,New York,/physician/dr-amy-defelice-yd4lc,0,dr-amy-defelice-yd4lc,"Dr. Amy Defelice, MD",16,10,"51 W 51st St Ste 310, New York, NY, 10019",Columbia Doctors Midtown,NY,10019
+100 E 77th St,,New York,/physician/dr-jean-atallah-gdc6g,0,dr-jean-atallah-gdc6g,"Dr. Jean Atallah, MD",,0,"100 E 77th St, New York, NY, 10075",Lenox Hill Hospital Hsptlst Grp,NY,10075
+1275 York Ave,,New York,/physician/dr-elliott-birnstein-w5w9q,0,dr-elliott-birnstein-w5w9q,"Dr. Elliott Birnstein, MD",,0,"1275 York Ave, New York, NY, 10065",Memorial Sloan Kettering Cancer,NY,10065
+149 Congress St,65,Brooklyn,/physician/dr-michael-lampert-3657f,0,dr-michael-lampert-3657f,"Dr. Michael Lampert, MD",,0,"149 Congress St, Brooklyn, NY, 11201",MICHAEL A LAMPERT MD,NY,11201
+1 Gustave L Levy Pl,33,New York,/physician/dr-adiba-azad-xylq3y7,0,dr-adiba-azad-xylq3y7,"Dr. Adiba Azad, MD",,0,"1 Gustave L Levy Pl, New York, NY, 10029",Mount Sinai Med Ctr Hsptlsts,NY,10029
+90 Bergen St,57,Newark,/physician/dr-iona-monteiro-373ny,0,dr-iona-monteiro-373ny,"Dr. Iona Monteiro, MD",,0,"90 Bergen St, Newark, NJ, 07103",,NJ,07103
+161 Fort Washington Ave # 862,65,New York,/physician/dr-harold-frucht-xy89v,0,dr-harold-frucht-xy89v,"Dr. Harold Frucht, MD",,2,"161 Fort Washington Ave # 862, New York, NY, 10032",Columbia Presbyterian Hospital GAS,NY,10032
+160 E 32nd St Fl L3,47,New York,/physician/dr-melanie-greifer-37tdp,0,dr-melanie-greifer-37tdp,"Dr. Melanie Greifer, MD",,5,"160 E 32nd St Fl L3, New York, NY, 10016",,NY,10016
+948 48th St,,Brooklyn,/physician/dr-graciela-wetzler-x6v6b,0,dr-graciela-wetzler-x6v6b,"Dr. Graciela Wetzler, MD",,5,"948 48th St, Brooklyn, NY, 11219",Pediatric Faculty Practice,NY,11219
+214 Avenue P,52,Brooklyn,/physician/dr-zhanna-gutnik-ymvfw,0,dr-zhanna-gutnik-ymvfw,"Dr. Zhanna Gutnik, MD",,0,"214 Avenue P, Brooklyn, NY, 11204",DIGESTIVE DISEASES DIAGNOSTIC & TREATMENT CENTER LLC,NY,11204
+1 Hanson Pl Ste 1202,63,Brooklyn,/physician/dr-jahid-ahamed-226yx,0,dr-jahid-ahamed-226yx,"Dr. Jahid Ahamed, MD",,0,"1 Hanson Pl Ste 1202, Brooklyn, NY, 11243",HANSON PHYSICIAN ASSOCIATES,NY,11243
+800 Poly Pl,,Brooklyn,/providers/yekaterina-ilyasova-xylgk3n,0,yekaterina-ilyasova-xylgk3n,"Yekaterina Ilyasova, NP",,0,"800 Poly Pl, Brooklyn, NY, 11209",BROOKLYN VA SECTION OF GASTRO,NY,11209
+17 E 102nd St Fl 5,78,New York,/physician/dr-david-sachar-24m2r,0,dr-david-sachar-24m2r,"Dr. David Sachar, MD",,2,"17 E 102nd St Fl 5, New York, NY, 10029",Mount Sinai Gastroenterology,NY,10029
+5 E 98th St Fl 10,55,New York,/physician/dr-nanci-pittman-2wkbn,0,dr-nanci-pittman-2wkbn,"Dr. Nanci Pittman, MD",,18,"5 E 98th St Fl 10, New York, NY, 10029",Mount Sinai Med Ctr Pdtrc Gstrn,NY,10029
+960 50th St,,Brooklyn,/physician/dr-vivian-tang-yndbl,0,dr-vivian-tang-yndbl,"Dr. Vivian Tang, MD",,2,"960 50th St, Brooklyn, NY, 11219",Ridgewood Valley Pediatric Dentistry,NY,11219
+505 E 70th St Fl 3,36,New York,/physician/dr-elaine-barfield-gdykm,0,dr-elaine-barfield-gdykm,"Dr. Elaine Barfield, MD",15,2,"505 E 70th St Fl 3, New York, NY, 10021",Pediatric Gastroenterology and Nutrition,NY,10021
+160 E 32nd St Fl 2nd,55,New York,/physician/dr-abha-kaistha-ylntq,0,dr-abha-kaistha-ylntq,"Abha Kaistha, MB",,4,"160 E 32nd St Fl 2nd, New York, NY, 10016",MEDICAL,NY,10016
+969 Park Ave Ste 1E,83,New York,/physician/dr-michael-bayer-xlhv3,0,dr-michael-bayer-xlhv3,"Dr. Michael Bayer, MD",,2,"969 Park Ave Ste 1E, New York, NY, 10028",Michael Bayer MD,NY,10028
+80 Central Park W Ste B,81,New York,/physician/dr-charles-gerson-y6bwd,0,dr-charles-gerson-y6bwd,"Dr. Charles Gerson, MD",,4,"80 Central Park W Ste B, New York, NY, 10023","CHARLES D GERSON, MD",NY,10023
+160 E 32nd St Ste L,55,New York,/physician/dr-libia-moy-y7gh4,0,dr-libia-moy-y7gh4,"Dr. Libia Moy, MD",,13,"160 E 32nd St Ste L, New York, NY, 10016",NEW YORK UNIVERSITY FINK,NY,10016
+800 Poly Pl,,Brooklyn,/physician/dr-eliezer-weiss-gbnx8,0,dr-eliezer-weiss-gbnx8,"Dr. Eliezer Weiss, MD",,0,"800 Poly Pl, Brooklyn, NY, 11209",Brooklyn VA Hospital Pulmonolgy,NY,11209
+10 Union Sq E Frnt 2J2H,,New York,/physician/dr-jiliu-xu-x2msc,0,dr-jiliu-xu-x2msc,"Dr. Jiliu Xu, MD",,0,"10 Union Sq E Frnt 2J2H, New York, NY, 10003",Mount Sinai Union Square,NY,10003
+10 Union Sq E Frnt 2G,88,New York,/physician/dr-alvin-gelb-xtdq3,0,dr-alvin-gelb-xtdq3,"Dr. Alvin Gelb, MD",,0,"10 Union Sq E Frnt 2G, New York, NY, 10003",BETH ISRAEL MEDICAL CENTER,NY,10003
+9709 101st Ave,67,Ozone Park,/physician/dr-bhupendra-dudhia-yhnm3,0,dr-bhupendra-dudhia-yhnm3,"Dr. Bhupendra Dudhia, MD",,1,"9709 101st Ave, Ozone Park, NY, 11416",Ozone Park Medical Group,NY,11416
+185 Canal St Frnt 6,65,New York,/physician/dr-richard-ng-x443p,0,dr-richard-ng-x443p,"Dr. Richard Ng, DO",,1,"185 Canal St Frnt 6, New York, NY, 10013",RICHARD YIN-HON NG DO,NY,10013
+4 WORLD FINANCIAL CTR STE 3,64,New York,/physician/dr-terri-apfelbaum-xp4g8,0,dr-terri-apfelbaum-xp4g8,"Dr. Terri Apfelbaum, MD",,0,"4 WORLD FINANCIAL CTR STE 3, New York, NY, 10080",MERRILL LYNCH HEALTH CARE SERVICES,NY,10080
+17 E 102nd St,,New York,/providers/yasmin-hernandez-zcsxe,0,yasmin-hernandez-zcsxe,"Dr. Yasmin Hernandez, MD",,0,"17 E 102nd St, New York, NY, 10029",New York,NY,10029
+1 Gustave L Levy Pl,33,New York,/providers/sarah-lieber-y9scg7z,0,sarah-lieber-y9scg7z,"Dr. Sarah Lieber, MD",,0,"1 Gustave L Levy Pl, New York, NY, 10029",,NY,10029
+1 Gustave L Levy Pl,,New York,/physician/dr-zane-gallinger-xyn6g4v,0,dr-zane-gallinger-xyn6g4v,"Dr. Zane Gallinger, MD",,0,"1 Gustave L Levy Pl, New York, NY, 10029",MOUNT SINAI HOSPITAL,NY,10029
+1 Gustave L Levy Pl Fl 12,,New York,/physician/dr-mitchell-liverant-gf6kp,0,dr-mitchell-liverant-gf6kp,"Dr. Mitchell Liverant, MD",,0,"1 Gustave L Levy Pl Fl 12, New York, NY, 10029",Mount Sinai Med Ctr Hsptlsts,NY,10029
+2510 30th Ave,70,Long Island City,/physician/dr-pradyuman-dave-yy7gs,0,dr-pradyuman-dave-yy7gs,"Dr. Pradyuman Dave, MD",,0,"2510 30th Ave, Long Island City, NY, 11102",Long Island City Office,NY,11102
+1332 44th St,63,Brooklyn,/physician/dr-zachary-lockerman-3jl8f,0,dr-zachary-lockerman-3jl8f,"Dr. Zachary Lockerman, MD",,0,"1332 44th St, Brooklyn, NY, 11219",Boro Park Gastroenterology Ass,NY,11219
+948 48th St,,Brooklyn,/physician/dr-steven-shamah-gfjyn,0,dr-steven-shamah-gfjyn,"Dr. Steven Shamah, MD",,0,"948 48th St, Brooklyn, NY, 11219",Maimonides Adult Primary Care Center,NY,11219
+150 55th St,71,Brooklyn,/physician/dr-george-martin-2dyv4,0,dr-george-martin-2dyv4,"Dr. George Martin, MD",,0,"150 55th St, Brooklyn, NY, 11220",LUTHERAN MEDICAL CENTER,NY,11220
+160 W 73rd St Apt 1G,,New York,/physician/dr-david-fudman-gch54,0,dr-david-fudman-gch54,"Dr. David Fudman, MD",,0,"160 W 73rd St Apt 1G, New York, NY, 10023",,NY,10023
+135 E 71st St PH,81,New York,/physician/dr-albert-waitman-277g7,0,dr-albert-waitman-277g7,"Dr. Albert Waitman, MD",,0,"135 E 71st St PH, New York, NY, 10021",,NY,10021
+1275 York Ave,46,New York,/providers/makoto-nishimura-xynvx5t,0,makoto-nishimura-xynvx5t,"Dr. Makoto Nishimura, MD",,0,"1275 York Ave, New York, NY, 10065",Memorial Sloan Kettering Cancer Center,NY,10065
+35 Sutton Pl,84,New York,/physician/dr-howard-adler-xn2v6,0,dr-howard-adler-xn2v6,"Dr. Howard Adler, MD",,0,"35 Sutton Pl, New York, NY, 10022",Howard Adler MD,NY,10022
+330 E 38th St Apt 40I,,New York,/providers/amit-sachdev-w3pts,0,amit-sachdev-w3pts,"Dr. Amit Sachdev, MD",,0,"330 E 38th St Apt 40I, New York, NY, 10016",,NY,10016
+240 E 38th St Fl 23,,New York,/providers/bianca-scanlon-xynkmd8,0,bianca-scanlon-xynkmd8,Bianca Scanlon,,0,"240 E 38th St Fl 23, New York, NY, 10016",NYU LANGONE HOSPITAL CENTER,NY,10016
+550 1st Ave,,New York,/providers/giulio-quarta-cc9gz,0,giulio-quarta-cc9gz,"Dr. Giulio Quarta, MD",,0,"550 1st Ave, New York, NY, 10016",NEW YORK MEDICAL CENTER,NY,10016
+550 1st Ave,33,New York,/physician/dr-marianna-papademetriou-g59k7,0,dr-marianna-papademetriou-g59k7,"Dr. Marianna Papademetriou, MD",,0,"550 1st Ave, New York, NY, 10016",,NY,10016
+550 1st Ave,,New York,/physician/dr-waseem-ahmed-xylh5cb,0,dr-waseem-ahmed-xylh5cb,"Dr. Waseem Ahmed, MD",,0,"550 1st Ave, New York, NY, 10016",NEW YORK MEDICAL CENTER,NY,10016
+462 1st Ave,48,New York,/physician/dr-fritz-francois-x3fgh,0,dr-fritz-francois-x3fgh,"Dr. Fritz Francois, MD",,0,"462 1st Ave, New York, NY, 10016",BELLEVUE HOSPITAL CENTER,NY,10016
+462 1st Ave,,New York,/physician/dr-cindy-huang-2dr2g,0,dr-cindy-huang-2dr2g,"Dr. Cindy Huang, MD",,0,"462 1st Ave, New York, NY, 10016",Bellevue Pediatric Psychiatry,NY,10016
+335 Court St,75,Brooklyn,/physician/dr-albert-ciancimino-34dby,0,dr-albert-ciancimino-34dby,"Dr. Albert Ciancimino, MD",,0,"335 Court St, Brooklyn, NY, 11231",,NY,11231
+240 Willoughby St Ste 2,,Brooklyn,/providers/denzil-etienne-c9kgz,0,denzil-etienne-c9kgz,"Dr. Denzil Etienne, MD",,0,"240 Willoughby St Ste 2, Brooklyn, NY, 11201",Brooklyn Hospital Ctr Cardiolgy,NY,11201
+423 E 23rd St,84,New York,/physician/dr-morton-bender-gh5b8,0,dr-morton-bender-gh5b8,"Dr. Morton Bender, MD",,0,"423 E 23rd St, New York, NY, 10010",VETERANS AFFAIRS MEDICAL CENTER,NY,10010
+350 E 17th St,,New York,/physician/dr-matthew-kutner-g94qh,0,dr-matthew-kutner-g94qh,"Dr. Matthew Kutner, DO",,0,"350 E 17th St, New York, NY, 10003",,NY,10003
+550 1st Ave,,New York,/providers/vineet-syan-e4b2z,0,vineet-syan-e4b2z,"Dr. Vineet Rolston, MD",,0,"550 1st Ave, New York, NY, 10016",NYU LANGONE MEDICAL CENTER,NY,10016
+550 1st Ave,,New York,/physician/dr-sam-serouya-g744l,0,dr-sam-serouya-g744l,"Dr. Sam Serouya, MD",,0,"550 1st Ave, New York, NY, 10016",NEW YORK MEDICAL CENTER,NY,10016
+1 Gustave L Levy Pl Fl 12,,New York,/physician/dr-michelle-lee-gd72d,0,dr-michelle-lee-gd72d,"Dr. Michelle Lee, MD",,0,"1 Gustave L Levy Pl Fl 12, New York, NY, 10029",Mount Sinai Med Ctr Hsptlsts,NY,10029
+462 1st Ave,52,New York,/physician/dr-michael-poles-2y5lp,0,dr-michael-poles-2y5lp,"Dr. Michael Poles, MD",,0,"462 1st Ave, New York, NY, 10016",BELLEVUE HOSPITAL CENTER,NY,10016
+17 E 102nd St,,New York,/physician/dr-tatyana-kushner-g822v,0,dr-tatyana-kushner-g822v,"Dr. Tatyana Kushner, MD",,0,"17 E 102nd St, New York, NY, 10029",Mount Sinai Liver Medicine,NY,10029
+139 Centre St Ste 609,42,New York,/physician/dr-michael-lipp-3yr94,0,dr-michael-lipp-3yr94,"Dr. Michael Lipp, MD",,0,"139 Centre St Ste 609, New York, NY, 10013",ANTHONY J NG MD,NY,10013
+800 Poly Pl,,Brooklyn,/physician/dr-ayesha-zahiruddin-ggckp,0,dr-ayesha-zahiruddin-ggckp,"Dr. Ayesha Zahiruddin, MD",,0,"800 Poly Pl, Brooklyn, NY, 11209",LIMITED TO OFFICIAL GOVERNMENT DUTIES ON,NY,11209
+129 Saint Nicholas Ave,,Brooklyn,/physician/dr-john-cota-xynq6yj,0,dr-john-cota-xynq6yj,"John Cota, PA",,0,"129 Saint Nicholas Ave, Brooklyn, NY, 11237",ARYA GASTROENTEROLOGY ASSOCIATES PC,NY,11237
+133 E 73rd St,70,New York,/physician/dr-peter-buchin-xwy9r,0,dr-peter-buchin-xwy9r,"Dr. Peter Buchin, MD",,0,"133 E 73rd St, New York, NY, 10021",,NY,10021
+190 E 72nd St Apt 14D,98,New York,/physician/dr-herman-steinberg-gg25h,0,dr-herman-steinberg-gg25h,"Dr. Herman Steinberg, MD",,0,"190 E 72nd St Apt 14D, New York, NY, 10021",,NY,10021
+505 E 70th St Fl 3,44,New York,/physician/dr-neera-gupta-2dc54,0,dr-neera-gupta-2dc54,"Dr. Neera Gupta, MD",16,0,"505 E 70th St Fl 3, New York, NY, 10021",Pediatric Gastroenterology and Nutrition,NY,10021
+505 E 70th St Fl 3,,New York,/physician/dr-svetlana-sabel-gfc8q,0,dr-svetlana-sabel-gfc8q,"Dr. Svetlana Sabel, MD",,0,"505 E 70th St Fl 3, New York, NY, 10021",Pediatric Gastroenterology and Nutrition,NY,10021
+185 W End Ave,85,New York,/physician/dr-martin-neschis-yktfj,0,dr-martin-neschis-yktfj,"Dr. Martin Neschis, MD",,0,"185 W End Ave, New York, NY, 10023",,NY,10023
+1305 York Ave,,New York,/providers/hey-sook-park-xyn34vm,0,hey-sook-park-xyn34vm,Hey Park,,0,"1305 York Ave, New York, NY, 10021",CORNELL MEDICAL CENTER,NY,10021
+525 E 68th St # STAR8,,New York,/providers/shirley-cohen-zcesu,0,shirley-cohen-zcesu,"Dr. Shirley Cohen, MD",,0,"525 E 68th St # STAR8, New York, NY, 10065",Weill Cornell Medical Center,NY,10065
+525 E 68th St # STAR8,,New York,/providers/kristen-critelli-ckk2z,0,kristen-critelli-ckk2z,"Dr. Kristen Critelli, MD",,0,"525 E 68th St # STAR8, New York, NY, 10065",Weill Cornell Medical Center,NY,10065
+525 E 68th St,34,New York,/physician/dr-nikola-natov-ggb2x,0,dr-nikola-natov-ggb2x,"Dr. Nikola Natov, MD",,0,"525 E 68th St, New York, NY, 10065",NY PRESBYTERIAN HOSPITAL,NY,10065
+525 E 68th St Fl 1st,62,New York,/physician/dr-andrew-dannenberg-yndnm,0,dr-andrew-dannenberg-yndnm,"Dr. Andrew Dannenberg, MD",,0,"525 E 68th St Fl 1st, New York, NY, 10065",THE NEW YORK HOSPITAL,NY,10065
+155 W 68th St Apt 1119,67,New York,/physician/dr-job-hopfan-3vvnx,0,dr-job-hopfan-3vvnx,"Dr. Job Hopfan, MD",,0,"155 W 68th St Apt 1119, New York, NY, 10023",,NY,10023
+400 E 69th St,,New York,/physician/dr-thomas-hahambis-3ng5k,0,dr-thomas-hahambis-3ng5k,"Thomas Hahambis, PA",,0,"400 E 69th St, New York, NY, 10021",,NY,10021
+1275 York Ave,,New York,/providers/david-faleck-c97ez,0,david-faleck-c97ez,"Dr. David Faleck, MD",,0,"1275 York Ave, New York, NY, 10065",Memorial Sloan-Kettering Cancer Center,NY,10065
+1275 York Ave,,New York,/physician/dr-paul-belletrutti-2xbn3,0,dr-paul-belletrutti-2xbn3,"Dr. Paul Belletrutti, MD",,0,"1275 York Ave, New York, NY, 10065",MEMORIAL SLOAN-KETTERING CANCER CENTER,NY,10065
+546 Eastern Pkwy,70,Brooklyn,/physician/dr-hulya-levendoglu-xs9gm,0,dr-hulya-levendoglu-xs9gm,"Dr. Hulya Levendoglu, MD",,0,"546 Eastern Pkwy, Brooklyn, NY, 11225",ADVANTAGECARE PHYSICIANS,NY,11225
+1233 York Ave Apt 15P,,New York,/physician/dr-john-wong-y9rkpwz,0,dr-john-wong-y9rkpwz,"Dr. John Wong, MD",,0,"1233 York Ave Apt 15P, New York, NY, 10065",,NY,10065
+1000 10th Ave Ste 3A15,,New York,/physician/dr-priya-simoes-ggv23,0,dr-priya-simoes-ggv23,"Dr. Priya Simoes, MD",,0,"1000 10th Ave Ste 3A15, New York, NY, 10019",Icahn School of Medicine at Mount Sinai St. Luke s-Roosevelt Hospital Center,NY,10019
+27 8th Ave,,Brooklyn,/physician/dr-alfred-ingegno-w3ks5,0,dr-alfred-ingegno-w3ks5,"Dr. Alfred Ingegno, MD",,0,"27 8th Ave, Brooklyn, NY, 11217",DERMATOLOGY CENTER,NY,11217
+20 8th Ave,81,Brooklyn,/physician/dr-asrael-bamberger-ysj7p,0,dr-asrael-bamberger-ysj7p,"Dr. Asrael Bamberger, MD",,0,"20 8th Ave, Brooklyn, NY, 11217","EMIL BACCASH, MD",NY,11217
+529 W 42nd St Apt 6K,61,New York,/physician/dr-veronica-prego-3qtdg,0,dr-veronica-prego-3qtdg,"Dr. Veronica Prego, MD",,0,"529 W 42nd St Apt 6K, New York, NY, 10036",,NY,10036
+550 Summit Ave,,Jersey City,/physician/dr-alaa-salah-eldin-xc24h,0,dr-alaa-salah-eldin-xc24h,"Dr. Alaa Salah Eldin, MD",,0,"550 Summit Ave, Jersey City, NJ, 07306",,NJ,07306
+330 E 33rd St Apt 19A,68,New York,/physician/dr-barton-cobert-xxb9n,0,dr-barton-cobert-xxb9n,"Dr. Barton Cobert, MD",,0,"330 E 33rd St Apt 19A, New York, NY, 10016",,NY,10016
+550 1st Ave,,New York,/physician/dr-nicholas-hoerter-xylp75t,0,dr-nicholas-hoerter-xylp75t,"Dr. Nicholas Hoerter, MD",,0,"550 1st Ave, New York, NY, 10016",NEW YORK MEDICAL CENTER,NY,10016
+550 1st Ave,,New York,/providers/priyanka-chugh-abrlz,0,priyanka-chugh-abrlz,"Dr. Priyanka Chugh, MD",,0,"550 1st Ave, New York, NY, 10016",,NY,10016
+550 1st Ave,,New York,/physician/dr-joseph-kingsbery-y9ptcgz,0,dr-joseph-kingsbery-y9ptcgz,"Dr. Joseph Kingsbery, MD",,0,"550 1st Ave, New York, NY, 10016",NEW YORK MEDICAL CENTER,NY,10016
+550 1st Ave,76,New York,/physician/dr-david-musher-y6pvj,0,dr-david-musher-y6pvj,"Dr. David Musher, MD",,0,"550 1st Ave, New York, NY, 10016",NYU LANGONE MEDICAL CENTER,NY,10016
+161 Madison Ave,68,New York,/physician/dr-stephen-holt-y4hs2,0,dr-stephen-holt-y4hs2,"Dr. Stephen Holt, MD",,0,"161 Madison Ave, New York, NY, 10016",THE SALERNO CENTER,NY,10016
+530 1st Ave,66,New York,/physician/dr-alexander-gorovets-w82fq,0,dr-alexander-gorovets-w82fq,"Dr. Alexander Gorovets, MD",,0,"530 1st Ave, New York, NY, 10016",NEW YORK STATE TISCH MEDICAL CENTER,NY,10016
+530 1st Ave Ste 9Q,79,New York,/physician/dr-robert-glickman-gd9g9,0,dr-robert-glickman-gd9g9,"Dr. Robert Glickman, MD",,0,"530 1st Ave Ste 9Q, New York, NY, 10016",NEW YORK UNIVERSITY FACULTY PRACTICE,NY,10016
+462 1st Ave,,New York,/physician/dr-rabia-ali-gdk2j,0,dr-rabia-ali-gdk2j,"Dr. Rabia De Latour, MD",,0,"462 1st Ave, New York, NY, 10016",LIMITED TO OFFICIAL GOVERNMENT DUTIES ON,NY,10016
+121 Dekalb Ave,,Brooklyn,/physician/dr-muhammad-khan-xylrrn4,0,dr-muhammad-khan-xylrrn4,"Dr. Muhammad Khan, MD",,0,"121 Dekalb Ave, Brooklyn, NY, 11201",BROOKLYN HOSPITAL CENTER,NY,11201
+423 E 23rd St,64,New York,/physician/dr-elizabeth-weinshel-2c9dk,0,dr-elizabeth-weinshel-2c9dk,"Dr. Elizabeth Weinshel, MD",,0,"423 E 23rd St, New York, NY, 10010",VETERANS AFFAIRS MEDICAL CENTER,NY,10010
+96 Schermerhorn St Apt 1F,76,Brooklyn,/physician/dr-john-daly-3x65d,0,dr-john-daly-3x65d,"Dr. John Daly, MD",,0,"96 Schermerhorn St Apt 1F, Brooklyn, NY, 11201",,NY,11201
+4 Irving Pl,,New York,/physician/dr-saverio-franco-wc9sm,0,dr-saverio-franco-wc9sm,"Dr. Saverio Franco, MD",,0,"4 Irving Pl, New York, NY, 10003",,NY,10003
+7901 Broadway,,Elmhurst,/providers/sumair-ahmad-zcrlu,0,sumair-ahmad-zcrlu,"Dr. Sumair Ahmad, MD",,0,"7901 Broadway, Elmhurst, NY, 11373",Queens Nephrology Associates,NY,11373
+17 E 102nd St Fl 5,58,New York,/physician/dr-eric-lemmer-2lhfw,0,dr-eric-lemmer-2lhfw,"Dr. Eric Lemmer, MD",,0,"17 E 102nd St Fl 5, New York, NY, 10029",Mount Sinai Gastroenterology,NY,10029
+17 E 102nd St Fl 5,60,New York,/physician/dr-patricia-lopez-36pxd,0,dr-patricia-lopez-36pxd,"Dr. Patricia Lopez, MD",,0,"17 E 102nd St Fl 5, New York, NY, 10029",Mount Sinai Gastroenterology,NY,10029
+1 Gustave L Levy Pl,,New York,/physician/dr-emily-schonfeld-cao9z,0,dr-emily-schonfeld-cao9z,"Dr. Emily Schonfeld, MD",,0,"1 Gustave L Levy Pl, New York, NY, 10029",MOUNT SINAI HOSPITAL,NY,10029
+1 Gustave L Levy Pl,38,New York,/physician/dr-shari-sheflin-findling-y76ym,0,dr-shari-sheflin-findling-y76ym,"Dr. Shari Sheflin-Findling, DO",,0,"1 Gustave L Levy Pl, New York, NY, 10029",MOUNT SINAI HOSPITAL,NY,10029
+1 Gustave L Levy Pl,,New York,/physician/dr-julius-rosenberg-w8wdt,0,dr-julius-rosenberg-w8wdt,"Dr. Julius Rosenberg, MD",,0,"1 Gustave L Levy Pl, New York, NY, 10029",MOUNT SINAI HOSPITAL,NY,10029
+1 Gustave L Levy Pl,90,New York,/physician/dr-nathaniel-cohen-wf42q,0,dr-nathaniel-cohen-wf42q,"Dr. Nathaniel Cohen, MD",,0,"1 Gustave L Levy Pl, New York, NY, 10029",MOUNT SINAI HOSPITAL,NY,10029
+1 Gustave L Levy Pl Ste 1118,,New York,/providers/hersh-shroff-xyls8c6,0,hersh-shroff-xyls8c6,"Dr. Hersh Shroff, MD",,0,"1 Gustave L Levy Pl Ste 1118, New York, NY, 10029",,NY,10029
+1 Gustave L Levy Pl,,New York,/providers/tushar-shukla-xypx5h4,0,tushar-shukla-xypx5h4,"Dr. Tushar Shukla, MD",,0,"1 Gustave L Levy Pl, New York, NY, 10029",MOUNT SINAI HOSPITAL,NY,10029
+1 Gustave L Levy Pl # 1512,,New York,/physician/dr-sunpreet-kaur-gfp6g,0,dr-sunpreet-kaur-gfp6g,"Dr. Sunpreet Kaur, MD",,0,"1 Gustave L Levy Pl # 1512, New York, NY, 10029",MOUNT SINAI SCHOOL OF MEDICINE,NY,10029
+5 E 98th St Fl 10,36,New York,/physician/dr-joanne-lai-22lmn,0,dr-joanne-lai-22lmn,"Dr. Joanne Lai, MD",,0,"5 E 98th St Fl 10, New York, NY, 10029",Mount Sinai Med Ctr Pdtrc Gstrn,NY,10029
+1425 Madison Ave Rm 1170-C,63,New York,/physician/dr-scott-friedman-x4956,0,dr-scott-friedman-x4956,"Dr. Scott Friedman, MD",,0,"1425 Madison Ave Rm 1170-C, New York, NY, 10029",MOUNT SINAI SCHOOL OF MEDICINE,NY,10029
+1425 Madison Ave # 1123,50,New York,/physician/dr-efsevia-albanis-35cl5,0,dr-efsevia-albanis-35cl5,"Dr. Efsevia Albanis, MD",,0,"1425 Madison Ave # 1123, New York, NY, 10029",,NY,10029
+1158 5th Ave,80,New York,/physician/dr-george-weingarten-323x2,0,dr-george-weingarten-323x2,"Dr. George Weingarten, MD",,0,"1158 5th Ave, New York, NY, 10029",STEINBERGER & MOORE,NY,10029
+332 E 95th St Apt 1,,New York,/physician/dr-ragesh-thandassery-xyny3mm,0,dr-ragesh-thandassery-xyny3mm,"Dr. Ragesh Thandassery, MD",,0,"332 E 95th St Apt 1, New York, NY, 10128",,NY,10128
+15 E 91st St,87,New York,/physician/dr-robert-palmer-2c8by,0,dr-robert-palmer-2c8by,"Dr. Robert Palmer, MD",,0,"15 E 91st St, New York, NY, 10128",,NY,10128
+295 Central Park W,84,New York,/physician/dr-frankliin-davidson-3wqyv,0,dr-frankliin-davidson-3wqyv,"Dr. Franklin Davidson, MD",,0,"295 Central Park W, New York, NY, 10024","ARTHUR SINKMAN, MD",NY,10024
+1112 Park Ave,79,New York,/physician/dr-salvatore-vernace-3lxys,0,dr-salvatore-vernace-3lxys,"Dr. Salvatore Vernace, MD",,0,"1112 Park Ave, New York, NY, 10128","SALVATORE J VERNACE, MD",NY,10128
+166 E 88th St Apt 1A,62,New York,/physician/dr-mark-gromisch-2x8r3,0,dr-mark-gromisch-2x8r3,"Dr. Mark Gromisch, MD",,0,"166 E 88th St Apt 1A, New York, NY, 10128",William E Pullano MD,NY,10128
+1060 5th Ave # 1A,91,New York,/physician/dr-j-werther-2ktcv,0,dr-j-werther-2ktcv,"Dr. J Werther, MD",,0,"1060 5th Ave # 1A, New York, NY, 10128",J Lawrence Werther MD,NY,10128
+960 50th St,,Brooklyn,/physician/dr-vikas-uppal-gh2df,0,dr-vikas-uppal-gh2df,"Dr. Vikas Uppal, MD",,0,"960 50th St, Brooklyn, NY, 11219",Ridgewood Valley Pediatric Dentistry,NY,11219
+960 50th St,35,Brooklyn,/physician/dr-madhura-phadke-gg3cq,0,dr-madhura-phadke-gg3cq,"Dr. Madhura Phadke, MD",,1,"960 50th St, Brooklyn, NY, 11219",Ridgewood Valley Pediatric Dentistry,NY,11219
+960 50th St,43,Brooklyn,/physician/dr-rishi-gupta-gdxm2,0,dr-rishi-gupta-gdxm2,"Rishi Gupta, MB",,0,"960 50th St, Brooklyn, NY, 11219",Ridgewood Valley Pediatric Dentistry,NY,11219
+960 50th St,,Brooklyn,/providers/osman-ahmad-crs5z,0,osman-ahmad-crs5z,"Dr. Osman Ahmad, MD",,0,"960 50th St, Brooklyn, NY, 11219",Ridgewood Valley Pediatric Dentistry,NY,11219
+450 Clarkson Ave # 49,,Brooklyn,/providers/emilia-shin-78smz,0,emilia-shin-78smz,"Dr. Emilia Shin, MD",,0,"450 Clarkson Ave # 49, Brooklyn, NY, 11203",,NY,11203
+450 Clarkson Ave # 1243,29,Brooklyn,/physician/dr-umran-senyer-xym8f4g,0,dr-umran-senyer-xym8f4g,"Dr. Umran Senyer, MD",,0,"450 Clarkson Ave # 1243, Brooklyn, NY, 11203",UNIVERSITY HOSPITAL OF BROOKLYN,NY,11203
+450 Clarkson Ave,,Brooklyn,/physician/dr-katherine-lawson-gdw99,0,dr-katherine-lawson-gdw99,"Dr. Katherine Vaidy, MD",,0,"450 Clarkson Ave, Brooklyn, NY, 11203",SUNY DOWNSTATE MEDICAL CENTER UNIVERSITY HOSPITAL OF BROOKLYN,NY,11203
+450 Clarkson Ave Ste A,82,Brooklyn,/physician/dr-swaminath-iyer-yk5nb,0,dr-swaminath-iyer-yk5nb,"Swaminath Iyer, MB",,0,"450 Clarkson Ave Ste A, Brooklyn, NY, 11203",SUNY-DOWNSTATE MED CTR DEPT MEDICINE,NY,11203
+450 Clarkson Ave,74,Brooklyn,/physician/dr-stanley-fisher-y5pj2,0,dr-stanley-fisher-y5pj2,"Dr. Stanley Fisher, MD",,1,"450 Clarkson Ave, Brooklyn, NY, 11203",Department of Pediatrics,NY,11203
+451 Clarkson Ave,,Brooklyn,/physician/dr-ava-anklesaria-g3bwc,0,dr-ava-anklesaria-g3bwc,Ava Anklesaria,,0,"451 Clarkson Ave, Brooklyn, NY, 11203",KINGS COUNTY HOSPITAL CENTER,NY,11203
+451 Clarkson Ave,,Brooklyn,/physician/dr-gemma-rolle-gcnbj,0,dr-gemma-rolle-gcnbj,"Dr. Gemma Rolle, MD",,0,"451 Clarkson Ave, Brooklyn, NY, 11203",KINGS COUNTY HOSPITAL CENTER,NY,11203
+390 W End Ave,89,New York,/physician/dr-david-chalfin-xjjft,0,dr-david-chalfin-xjjft,"Dr. David Chalfin, MD",,0,"390 W End Ave, New York, NY, 10024",,NY,10024
+935 Park Ave,73,New York,/physician/dr-ernest-horowitz-29hfp,0,dr-ernest-horowitz-29hfp,"Dr. Ernest Horowitz, MD",,0,"935 Park Ave, New York, NY, 10028",,NY,10028
+515 E 79th St Apt 5D,78,New York,/physician/dr-steven-diamond-xym2n75,0,dr-steven-diamond-xym2n75,"Dr. Steven Diamond, MD",,0,"515 E 79th St Apt 5D, New York, NY, 10075",DRS LAWRENCE ROTH & STEVEN DIAMOND,NY,10075
+475 Seaview Ave,36,Staten Island,/physician/dr-iskandar-barakat-gdpbr,0,dr-iskandar-barakat-gdpbr,"Dr. Iskandar Barakat, MD",,0,"475 Seaview Ave, Staten Island, NY, 10305",Staten Island University Hospital,NY,10305
+150 Bergen St,,Newark,/providers/jason-ross-cfaoz,0,jason-ross-cfaoz,"Dr. Jason Ross, MD",,0,"150 Bergen St, Newark, NJ, 07103",UNIVERSITY HOSPITAL,NJ,07103
+150 Bergen St,,Newark,/physician/dr-rishabh-gulati-xyljdws,0,dr-rishabh-gulati-xyljdws,"Dr. Rishabh Gulati, MD",,0,"150 Bergen St, Newark, NJ, 07103",UNIVERSITY HOSPITAL,NJ,07103
+622 W 168th St Ste 401,,New York,/providers/jordan-axelrad-ci55z,0,jordan-axelrad-ci55z,"Dr. Jordan Axelrad, MD",,0,"622 W 168th St Ste 401, New York, NY, 10032",COLUMBIA PRESBYTERIAN MED CTR,NY,10032
+622 W 168th St,,New York,/providers/domnique-bailey-c9urz,0,domnique-bailey-c9urz,"Dr. Dominique Bailey, MD",,0,"622 W 168th St, New York, NY, 10032",NEW YORK PRESBYTERIAN HOSPITAL,NY,10032
+622 W 168th St,65,New York,/physician/dr-david-brenner-2q3j6,0,dr-david-brenner-2q3j6,"Dr. David Brenner, MD",,0,"622 W 168th St, New York, NY, 10032",Columbia Presbyterian Medical EMR,NY,10032
+161 Fort Washington Ave,,New York,/physician/dr-george-hennig-w2wpj,0,dr-george-hennig-w2wpj,"Dr. George Hennig, MD",,0,"161 Fort Washington Ave, New York, NY, 10032",LEVINE RICHARD U MD PC,NY,10032
+161 Fort Washington Ave Ste A62,,New York,/physician/dr-peter-stevens-w5bnk,0,dr-peter-stevens-w5bnk,"Dr. Peter Stevens, MD",,0,"161 Fort Washington Ave Ste A62, New York, NY, 10032",Digestive & Liver Disease,NY,10032
+161 Fort Washington Ave,88,New York,/physician/dr-joseph-sweeting-x5bss,0,dr-joseph-sweeting-x5bss,"Dr. Joseph Sweeting, MD",,0,"161 Fort Washington Ave, New York, NY, 10032",LEVINE RICHARD U MD PC,NY,10032
+3959 Broadway,,New York,/providers/andrew-wehrman-c486z,0,andrew-wehrman-c486z,"Dr. Andrew Wehrman, MD",,0,"3959 Broadway, New York, NY, 10032",MORGAN STANLEY CHILDREN'S HOSPITAL,NY,10032
+3959 Broadway Fl 7th,,New York,/physician/dr-arunjot-singh-gb9f9,0,dr-arunjot-singh-gb9f9,"Dr. Arunjot Singh, MD",,0,"3959 Broadway Fl 7th, New York, NY, 10032",BABIES HOSPITAL SOUTH DPO,NY,10032
+3959 Broadway Fl 7th,,New York,/physician/dr-julie-khlevner-ggmdw,0,dr-julie-khlevner-ggmdw,"Dr. Julie Khlevner, MD",,0,"3959 Broadway Fl 7th, New York, NY, 10032",BABIES HOSPITAL SOUTH DPO,NY,10032
+185 S Orange Ave,,Newark,/physician/dr-oleg-shulik-gdmgr,0,dr-oleg-shulik-gdmgr,"Dr. Oleg Shulik, MD",,0,"185 S Orange Ave, Newark, NJ, 07103",,NJ,07103
+1500 Palisade Ave Apt 23C,87,Fort Lee,/physician/dr-newton-scherl-yqlwy,0,dr-newton-scherl-yqlwy,"Dr. Newton Scherl, MD",,0,"1500 Palisade Ave Apt 23C, Fort Lee, NJ, 07024",,NJ,07024
+622 W 168th St # 8,,New York,/providers/rita-abdelmessih-cvxyz,0,rita-abdelmessih-cvxyz,"Dr. Rita Abdelmessih, MD",,0,"622 W 168th St # 8, New York, NY, 10032",,NY,10032
+622 W 168th St Rm 205,,New York,/providers/akinbowale-oyalowo-4y63z,0,akinbowale-oyalowo-4y63z,"Dr. Akinbowale Oyalowo, MD",,0,"622 W 168th St Rm 205, New York, NY, 10032",Associates In Internal Medicine,NY,10032
+177 Fort Washington Ave,35,New York,/physician/dr-irun-bhan-gd6bt,0,dr-irun-bhan-gd6bt,"Dr. Irun Bhan, MD",,0,"177 Fort Washington Ave, New York, NY, 10032",INTERNAL MEDICINE,NY,10032
+5 Little Clove Rd,61,Staten Island,/physician/dr-bonnie-robinson-x47w2,0,dr-bonnie-robinson-x47w2,"Dr. Bonnie Robinson, MD",,0,"5 Little Clove Rd, Staten Island, NY, 10301",Digestive Liver Disease Center,NY,10301
+234 E 149th St,,Bronx,/physician/dr-saurabh-talathi-xyllrdn,0,dr-saurabh-talathi-xyllrdn,"Dr. Saurabh Talathi, MD",,0,"234 E 149th St, Bronx, NY, 10451",LINCOLN MEDICAL AND MENTAL HEALTH CENTER,NY,10451
+234 E 149th St,,Bronx,/providers/sandra-camacho-xylssc5,0,sandra-camacho-xylssc5,"Dr. Sandra Camacho, MD",,0,"234 E 149th St, Bronx, NY, 10451",LINCOLN MEDICAL AND MENTAL HEALTH CENTER,NY,10451
+2737 3rd Ave,77,Bronx,/physician/dr-simeon-carvajal-3966t,0,dr-simeon-carvajal-3966t,"Dr. Simeon Carvajal, MD",,0,"2737 3rd Ave, Bronx, NY, 10451",Bronx Care At 3Rd Avenue,NY,10451
+6860 Austin St Ste 10,48,Forest Hills,/physician/dr-boris-cusid-3944f,0,dr-boris-cusid-3944f,"Dr. Boris Cusid, MD",,0,"6860 Austin St Ste 10, Forest Hills, NY, 11375",Amerimed Physicians Group,NY,11375
+10201 66th Rd,,Forest Hills,/providers/waseem-amjad-xyln7cr,0,waseem-amjad-xyln7cr,"Dr. Waseem Amjad, MD",,0,"10201 66th Rd, Forest Hills, NY, 11375",FOREST HILLS HOSPITAL,NY,11375
+1815 E 22nd St,62,Brooklyn,/physician/dr-aaron-cynamon-gcfpx,0,dr-aaron-cynamon-gcfpx,"Dr. Aaron Cynamon, MD",,0,"1815 E 22nd St, Brooklyn, NY, 11229",AARON CYNAMON PRACTICE,NY,11229
+9610 Metropolitan Ave,64,Forest Hills,/physician/dr-donald-nicolardi-xb648,0,dr-donald-nicolardi-xb648,"Dr. Donald Nicolardi, MD",,0,"9610 Metropolitan Ave, Forest Hills, NY, 11375",Advantage Care Physicians Group,NY,11375
+506 Malcolm X Blvd,,New York,/physician/dr-cynthia-krauss-xtk3d,0,dr-cynthia-krauss-xtk3d,Cynthia Krauss,,0,"506 Malcolm X Blvd, New York, NY, 10037",,NY,10037
+2186 5th Ave Apt 15P,67,New York,/physician/dr-linda-rock-w7f7c,0,dr-linda-rock-w7f7c,"Dr. Linda Rock, MD",,0,"2186 5th Ave Apt 15P, New York, NY, 10037",,NY,10037
+470 Malcolm X Blvd Apt 1E,56,New York,/physician/dr-jay-cowan-xpp8g,0,dr-jay-cowan-xpp8g,"Dr. Jay Cowan, MD",,0,"470 Malcolm X Blvd Apt 1E, New York, NY, 10037",JAY C COWAN MD LLC,NY,10037
+355 Bard Ave,68,Staten Island,/physician/dr-pankaj-patel-33sgn,0,dr-pankaj-patel-33sgn,"Dr. Pankaj Patel, MD",,0,"355 Bard Ave, Staten Island, NY, 10310",EMERGENCY MEDICINE PHYSICIANS,NY,10310
+5000 Avenue K,68,Brooklyn,/physician/dr-joshua-feibusch-yccl4,0,dr-joshua-feibusch-yccl4,"Dr. Joshua Feibusch, MD",,0,"5000 Avenue K, Brooklyn, NY, 11234",,NY,11234
+800 Poly Pl # 111C,88,Brooklyn,/physician/dr-vlado-simko-297vg,0,dr-vlado-simko-297vg,"Dr. Vlado Simko, MD",,0,"800 Poly Pl # 111C, Brooklyn, NY, 11209",BROOKLYN VA SECTION OF GASTRO,NY,11209
+800 Poly Pl # 111C,67,Brooklyn,/physician/dr-gerald-fruchter-y23t5,0,dr-gerald-fruchter-y23t5,"Dr. Gerald Fruchter, MD",,0,"800 Poly Pl # 111C, Brooklyn, NY, 11209",BROOKLYN VA SECTION OF GASTRO,NY,11209
+1855 Flatbush Ave,69,Brooklyn,/physician/dr-dembala-sharma-2pglv,0,dr-dembala-sharma-2pglv,"Dr. Dembala Sharma, MD",,0,"1855 Flatbush Ave, Brooklyn, NY, 11210",,NY,11210
+3131 Kings Hwy Ste C11,58,Brooklyn,/physician/dr-elie-abadie-xx3l2,0,dr-elie-abadie-xx3l2,"Dr. Elie Abadie, MD",,0,"3131 Kings Hwy Ste C11, Brooklyn, NY, 11234",Kings Highway Orthopaedic Assoc,NY,11234
+7901 Broadway Ste A1,,Elmhurst,/physician/dr-ishan-patel-y9vg9wz,0,dr-ishan-patel-y9vg9wz,"Dr. Ishan Patel, MD",,1,"7901 Broadway Ste A1, Elmhurst, NY, 11373",Elmhurst Office,NY,11373
+475 Seaview Ave,,Staten Island,/physician/dr-daniel-miller-gd2wv,0,dr-daniel-miller-gd2wv,"Dr. Daniel Miller, MD",,0,"475 Seaview Ave, Staten Island, NY, 10305",Staten Island University Hospital,NY,10305
+13630 Maple Ave Ste 1D,88,Flushing,/physician/dr-sang-pahk-xv6pv,0,dr-sang-pahk-xv6pv,"Dr. Sang Pahk, MD",,0,"13630 Maple Ave Ste 1D, Flushing, NY, 11355",PAHK SANG KEE MD,NY,11355
+5514 Main St,85,Flushing,/physician/dr-leonard-kresch-37wyn,0,dr-leonard-kresch-37wyn,"Dr. Leonard Kresch, MD",,0,"5514 Main St, Flushing, NY, 11355","BERGER, BARBARA J MD",NY,11355
+3049 Ocean Pkwy,66,Brooklyn,/physician/dr-alexander-gorovets-x8jb2,0,dr-alexander-gorovets-x8jb2,"Dr. Alexander Gorovets, MD",,0,"3049 Ocean Pkwy, Brooklyn, NY, 11235",,NY,11235
+57 Dover St,87,Brooklyn,/physician/dr-salvatore-agostino-2cvst,0,dr-salvatore-agostino-2cvst,"Dr. Salvatore Agostino, MD",,0,"57 Dover St, Brooklyn, NY, 11235",,NY,11235
+13347 Sanford Ave Ste 1C,67,Flushing,/physician/dr-che-nan-chuang-282vb,0,dr-che-nan-chuang-282vb,"Dr. Che Chuang, MD",,0,"13347 Sanford Ave Ste 1C, Flushing, NY, 11355",CHUANG CHE NAN MD OFFICE,NY,11355
+2285 Victory Blvd,68,Staten Island,/physician/dr-jeffrey-shaps-xn6dy,0,dr-jeffrey-shaps-xn6dy,"Dr. Jeffrey Shaps, MD",,0,"2285 Victory Blvd, Staten Island, NY, 10314",Elias Purow MD,NY,10314
+1 Gustave L Levy Pl,41,New York,/physician/dr-vera-denmark-gf9tw,0,dr-vera-denmark-gf9tw,"Dr. Vera Denmark, MD",,19,"1 Gustave L Levy Pl, New York, NY, 10029",MOUNT SINAI HOSPITAL,NY,10029
+1067 5th Ave,62,New York,/physician/dr-blair-lewis-2gfpg,0,dr-blair-lewis-2gfpg,"Dr. Blair Lewis, MD",,26,"1067 5th Ave, New York, NY, 10128",Blair S Lewis MD PC,NY,10128
+51 W 51st St,38,New York,/physician/dr-daniela-jodorkovsky-2vw32,0,dr-daniela-jodorkovsky-2vw32,"Dr. Daniela Jodorkovsky, MD",,9,"51 W 51st St, New York, NY, 10019",Columbia Doctors Midtown,NY,10019
+2211 Emmons Ave,55,Brooklyn,/physician/dr-scott-tenner-2lw8s,0,dr-scott-tenner-2lw8s,"Dr. Scott Tenner, MD",,46,"2211 Emmons Ave, Brooklyn, NY, 11235",Brooklyn Gastroenterology and Endoscopy Associates,NY,11235
+9712 63rd Dr Ste 1D,57,Rego Park,/physician/dr-steven-batash-xm5hg,0,dr-steven-batash-xm5hg,"Dr. Steven Batash, MD",,25,"9712 63rd Dr Ste 1D, Rego Park, NY, 11374",Steven Batash MD PC,NY,11374
+233 Broadway Rm 840,43,New York,/physician/dr-lauren-schwartz-2khgv,0,dr-lauren-schwartz-2khgv,"Dr. Lauren Schwartz, MD",,2,"233 Broadway Rm 840, New York, NY, 10279",Concorde Medical Group,NY,10279
+59 W 12th St Apt 1D,64,New York,/physician/dr-hal-freiman-2q4f2,0,dr-hal-freiman-2q4f2,"Dr. Hal Freiman, MD",,5,"59 W 12th St Apt 1D, New York, NY, 10011",Hal J Freiman MD,NY,10011
+161 Fort Washington Ave # 853,59,New York,/physician/dr-david-markowitz-xqsbc,0,dr-david-markowitz-xqsbc,"Dr. David Markowitz, MD",6,17,"161 Fort Washington Ave # 853, New York, NY, 10032",Columbia University Medical Center Division of Digestive & Liver Diseases,NY,10032
+232 E 30th St,61,New York,/physician/dr-alex-sherman-3kxvj,0,dr-alex-sherman-3kxvj,"Dr. Alex Sherman, MD",,11,"232 E 30th St, New York, NY, 10016",Concorde Medical Group,NY,10016
+535 5th Ave Rm 611,39,New York,/physician/dr-valerie-antoine-gustave-gglnw,0,dr-valerie-antoine-gustave-gglnw,"Dr. Valerie Antoine-Gustave, MD",,11,"535 5th Ave Rm 611, New York, NY, 10017",GOTHAM MEDICAL ASSOCIATES,NY,10017
+480 2nd Ave,65,New York,/physician/dr-alan-raymond-2bgll,0,dr-alan-raymond-2bgll,"Dr. Alan Raymond, MD",,30,"480 2nd Ave, New York, NY, 10016",NYU Gastroenterology Associates,NY,10016
+233 Broadway Rm 840,44,New York,/physician/dr-inessa-khaykis-x8mjy,0,dr-inessa-khaykis-x8mjy,"Dr. Inessa Khaykis, MD",,18,"233 Broadway Rm 840, New York, NY, 10279",Concorde Medical Group,NY,10279
+10440 Queens Blvd Ste 1F,61,Forest Hills,/physician/dr-alan-sandberg-3g98b,0,dr-alan-sandberg-3g98b,"Dr. Alan Sandberg, MD",,35,"10440 Queens Blvd Ste 1F, Forest Hills, NY, 11375",Digestive Disease Care,NY,11375
+7601 4th Ave,67,Brooklyn,/physician/dr-harry-demeo-xvspd,0,dr-harry-demeo-xvspd,"Dr. Harry De Meo, MD",,20,"7601 4th Ave, Brooklyn, NY, 11209",Bay Ridge Gastroenterology PLLC,NY,11209
+10840 Queens Blvd,59,Forest Hills,/physician/dr-azeem-khan-y4mrg,0,dr-azeem-khan-y4mrg,"Dr. Azeem Khan, MD",,57,"10840 Queens Blvd, Forest Hills, NY, 11375",Forest Hills Gastroenterology,NY,11375
+10 Union Sq E # Pacc,64,New York,/physician/dr-ira-jacobson-2lcyt,0,dr-ira-jacobson-2lcyt,"Dr. Ira Jacobson, MD",,10,"10 Union Sq E # Pacc, New York, NY, 10003",,NY,10003
+55 Greene Ave Ste Llb,64,Brooklyn,/physician/dr-adnan-khdair-3c9pw,0,dr-adnan-khdair-3c9pw,"Dr. Adnan Khdair, MD",,8,"55 Greene Ave Ste Llb, Brooklyn, NY, 11238",Sunrise Medical Group,NY,11238
+20 W 20th St Ste 703,53,New York,/physician/dr-babak-mohajer-24k8w,0,dr-babak-mohajer-24k8w,"Dr. Babak Mohajer, MD",,16,"20 W 20th St Ste 703, New York, NY, 10011","Dr. Babak Mohajer, MD",NY,10011
+121 E 60th St,57,New York,/physician/dr-edward-goldberg-3xknc,0,dr-edward-goldberg-3xknc,"Dr. Edward Goldberg, MD",,33,"121 E 60th St, New York, NY, 10022",Edward S Goldberg MD,NY,10022
+1315 York Ave # Mezzanine,54,New York,/physician/dr-adam-steinlauf-2m95g,0,dr-adam-steinlauf-2m95g,"Dr. Adam Steinlauf, MD",,17,"1315 York Ave # Mezzanine, New York, NY, 10021",Jill Roberts Center for InflammatoryBowel Disease,NY,10021
+535 5th Ave Rm 611,36,New York,/physician/dr-michael-glick-g5nl2,0,dr-michael-glick-g5nl2,"Dr. Michael Glick, MD",,23,"535 5th Ave Rm 611, New York, NY, 10017",GOTHAM MEDICAL ASSOCIATES,NY,10017
+1305 York Ave Fl 4,43,New York,/physician/dr-carl-crawford-gd2y2,0,dr-carl-crawford-gd2y2,"Dr. Carl Crawford Jr, MD",13,10,"1305 York Ave Fl 4, New York, NY, 10021",Weill Cornell Digestive and Liver Diseases,NY,10021
+2829 Ocean Pkwy,57,Brooklyn,/physician/dr-gary-gorodokin-xn72q,0,dr-gary-gorodokin-xn72q,"Dr. Gary Gorodokin, MD",17,112,"2829 Ocean Pkwy, Brooklyn, NY, 11235",Platinum Wellness Center,NY,11235
+10440 Queens Blvd Ste 1F,44,Forest Hills,/physician/dr-nilesh-mehta-ysy9j,0,dr-nilesh-mehta-ysy9j,"Dr. Nilesh Mehta, MD",,57,"10440 Queens Blvd Ste 1F, Forest Hills, NY, 11375",Digestive Disease Care,NY,11375
+132 E 76th St Ofc 2G,42,New York,/physician/dr-mylan-satchi-gfbxp,0,dr-mylan-satchi-gfbxp,"Dr. Mylan Satchi, MD",,7,"132 E 76th St Ofc 2G, New York, NY, 10021","The Endoscopy Suite- Dr. Mylan Satchi, MD",NY,10021
+10 Plaza St E,41,Brooklyn,/physician/dr-pierre-hindy-gfk7y,0,dr-pierre-hindy-gfk7y,"Dr. Pierre Hindy, MD",,13,"10 Plaza St E, Brooklyn, NY, 11238",Gastroenterology Associates of Brooklyn,NY,11238
+60 E 56th St Fl 7,35,New York,/physician/dr-martin-wolff-x78sw,0,dr-martin-wolff-x78sw,"Dr. Martin Wolff, MD",,3,"60 E 56th St Fl 7, New York, NY, 10022",GOTHAM MEDICAL ASSOCIATES,NY,10022
+1305 York Ave Fl 4,55,New York,/physician/dr-robert-brown-xl2qh,0,dr-robert-brown-xl2qh,"Dr. Robert Brown Jr, MD",13,11,"1305 York Ave Fl 4, New York, NY, 10021",Weill Cornell Digestive and Liver Diseases,NY,10021
+7517 Metropolitan Ave Metrowell Health Center,56,Middle Village,/physician/dr-vijaypal-arya-x9xrf,0,dr-vijaypal-arya-x9xrf,"Dr. Vijaypal Arya, MD",,69,"7517 Metropolitan Ave Metrowell Health Center, Middle Village, NY, 11379",Vijaypal Arya Gastroenterology PC,NY,11379
+6845 Main St,44,Flushing,/physician/dr-preeti-mehta-y4dkp,0,dr-preeti-mehta-y4dkp,"Dr. Preeti Mehta, MD",,77,"6845 Main St, Flushing, NY, 11367",Digestive Disease Care,NY,11367
+16 E 52nd St Ste 403,62,New York,/physician/dr-daniel-adler-2475s,0,dr-daniel-adler-2475s,"Dr. Daniel Adler, MD",,15,"16 E 52nd St Ste 403, New York, NY, 10022",DANIEL J ADLER MD,NY,10022
+240 E 38th St Fl 23,45,New York,/physician/dr-brian-bosworth-3fc9h,0,dr-brian-bosworth-3fc9h,"Dr. Brian Bosworth, MD",,13,"240 E 38th St Fl 23, New York, NY, 10016","NYU Langone Medical Center, New York, NY",NY,10016
+535 5th Ave Rm 611,44,New York,/physician/dr-julie-foont-328bq,0,dr-julie-foont-328bq,"Dr. Julie Foont, MD",,13,"535 5th Ave Rm 611, New York, NY, 10017",Gotham Gastroenterology,NY,10017
+345 E 37th St Rm 304,54,New York,/physician/dr-daniel-alpert-yx358,0,dr-daniel-alpert-yx358,"Dr. Daniel Alpert, MD",7,158,"345 E 37th St Rm 304, New York, NY, 10016","Daniel J Alpert, MD, PLLC",NY,10016
+210 E 47th St Apt 1A,52,New York,/physician/dr-jeffrey-crespin-xtpdh,0,dr-jeffrey-crespin-xtpdh,"Dr. Jeffrey Crespin, MD",29,84,"210 E 47th St Apt 1A, New York, NY, 10017","Jeffrey S. Crespin, MD",NY,10017
+4402 Francis Lewis Blvd # A,40,Bayside,/physician/dr-ari-bunim-xwsym,1,dr-ari-bunim-xwsym,"Dr. Ari Bunim, MD",16,1,"4402 Francis Lewis Blvd # A, Bayside, NY, 11361",NewYork-Presbyterian Medical Group Queens,NY,11361
+7241 Grand Ave,40,Maspeth,/physician/dr-suma-kamath-2m9pd,1,dr-suma-kamath-2m9pd,"Dr. Suma Kamath, MD",17,22,"7241 Grand Ave, Maspeth, NY, 11378",NewYork-Presbyterian Queens,NY,11378
+7241 Grand Ave,45,Maspeth,/physician/dr-aaron-turkish-3x8mb,1,dr-aaron-turkish-3x8mb,"Dr. Aaron Turkish, MD",17,0,"7241 Grand Ave, Maspeth, NY, 11378",NewYork-Presbyterian Queens,NY,11378
+130 Brighton Beach Ave Ste 3,59,Brooklyn,/physician/dr-steven-tawil-2xqph,0,dr-steven-tawil-2xqph,"Dr. Steven Tawil, MD",,11,"130 Brighton Beach Ave Ste 3, Brooklyn, NY, 11235",Shapiro Goldman Tawil & Dubroff,NY,11235
+708 W 171st St Apt A,79,New York,/physician/dr-rafaeel-ortiz-2td29,0,dr-rafaeel-ortiz-2td29,"Dr. Rafael Ortiz, MD",,1,"708 W 171st St Apt A, New York, NY, 10032","RAFAEL A ORTIZ, M.D.",NY,10032
+1315 York Ave Fl 1,,New York,/physician/dr-ravi-sharaf-388ny,0,dr-ravi-sharaf-388ny,"Dr. Ravi Sharaf, MD",,2,"1315 York Ave Fl 1, New York, NY, 10021","Weill Cornell Medicine, Jay Monahan Center for Gastrointestinal Health",NY,10021
+311 E 79th St Ste 2A,49,New York,/physician/dr-brian-landzberg-xqwfb,0,dr-brian-landzberg-xqwfb,"Dr. Brian Landzberg, MD",,17,"311 E 79th St Ste 2A, New York, NY, 10075",,NY,10075
+240 Willoughby St Ste 4B,53,Brooklyn,/physician/dr-mahesh-krishnaiah-3fmyc,0,dr-mahesh-krishnaiah-3fmyc,"Dr. Mahesh Krishnaiah, MD",,2,"240 Willoughby St Ste 4B, Brooklyn, NY, 11201",Anand MD,NY,11201
+161 Avenue of the Americas Fl 13,,New York,/physician/dr-ilan-weisberg-y2yv8,0,dr-ilan-weisberg-y2yv8,"Dr. Ilan Weisberg, MD",,78,"161 Avenue of the Americas Fl 13, New York, NY, 10013",,NY,10013
+1305 York Ave,43,New York,/physician/dr-sonia-yoon-g6wbw,0,dr-sonia-yoon-g6wbw,"Dr. Sonia Yoon, MD",,4,"1305 York Ave, New York, NY, 10021",WEILL CORNELL MEDICAL COLLEGE OF GASTROENTEROLOGY,NY,10021
+1060 5th Ave,86,New York,/physician/dr-franklin-klion-2flkj,0,dr-franklin-klion-2flkj,"Dr. Franklin Klion, MD",,13,"1060 5th Ave, New York, NY, 10128",Franklin M Klion MD,NY,10128
+17 E 102nd St Fl 5,51,New York,/physician/dr-priya-grewal-y6jsx,0,dr-priya-grewal-y6jsx,"Dr. Priya Grewal, MD",,11,"17 E 102nd St Fl 5, New York, NY, 10029",Mount Sinai Gastroenterology,NY,10029
+7136 110th St Ste 1G,62,Forest Hills,/physician/dr-arnold-weg-xpspv,0,dr-arnold-weg-xpspv,"Dr. Arnold Weg, MD",,36,"7136 110th St Ste 1G, Forest Hills, NY, 11375",Arnold L Weg MD,NY,11375
+217 Grand St Ste 7,55,New York,/physician/dr-rene-eng-x2t2n,0,dr-rene-eng-x2t2n,"Dr. Rene Eng, MD",,10,"217 Grand St Ste 7, New York, NY, 10013",Rene M Eng MD,NY,10013
+1630 E 14th St Fl 2,60,Brooklyn,/physician/dr-gary-gettenberg-398l5,0,dr-gary-gettenberg-398l5,"Dr. Gary Gettenberg, MD",,17,"1630 E 14th St Fl 2, Brooklyn, NY, 11229",Brooklyn Gastroenterology,NY,11229
+452 77th St,65,Brooklyn,/physician/dr-eliot-zimbalist-xdwq5,0,dr-eliot-zimbalist-xdwq5,"Dr. Eliot Zimbalist, MD",,19,"452 77th St, Brooklyn, NY, 11209",ZIMBALIST ELLIOT MD,NY,11209
+245 E 35th St Ofc 3,69,New York,/physician/dr-harris-bearnot-y4w63,0,dr-harris-bearnot-y4w63,"Dr. Harris Bearnot, MD",,8,"245 E 35th St Ofc 3, New York, NY, 10016",UNIVERSITY OF NEW YORK MEDICAL CENTER,NY,10016
+1150 5th Ave Ste 1B,50,New York,/physician/dr-peter-legnani-32l7r,0,dr-peter-legnani-32l7r,"Dr. Peter Legnani, MD",,27,"1150 5th Ave Ste 1B, New York, NY, 10128",Kornbluth Legnani & George Mds,NY,10128
+2747 Crescent St Ste 206,62,Astoria,/physician/dr-emanuel-kouroupos-xh3dp,0,dr-emanuel-kouroupos-xh3dp,"Dr. Emanuel Kouroupos, MD",,12,"2747 Crescent St Ste 206, Astoria, NY, 11102",Emanuel L Kouroupos MD,NY,11102
+10721 Queens Blvd Ste 4,41,Forest Hills,/physician/dr-albert-shalomov-xh7tg,0,dr-albert-shalomov-xh7tg,"Dr. Albert Shalomov, MD",,29,"10721 Queens Blvd Ste 4, Forest Hills, NY, 11375",Gastroenterology & Liver disease P.C.,NY,11375
+16450 Crossbay Blvd,55,Howard Beach,/physician/dr-frank-gerardi-x6nqd,0,dr-frank-gerardi-x6nqd,"Dr. Frank Gerardi, MD",,11,"16450 Crossbay Blvd, Howard Beach, NY, 11414",Howard Beach Gastroenterology,NY,11414
+311 E 79th St # 2A,49,New York,/physician/dr-kenneth-miller-2q585,0,dr-kenneth-miller-2q585,"Dr. Kenneth Miller, MD",,21,"311 E 79th St # 2A, New York, NY, 10075",New York Gastroenterolgy Assocs,NY,10075
+1305 York Ave,49,New York,/physician/dr-christine-frissora-rodeo-yhls2,0,dr-christine-frissora-rodeo-yhls2,"Dr. Christine Frissora-Rodeo, MD",,52,"1305 York Ave, New York, NY, 10021",Ira M Jacobson MD,NY,10021
+139 Centre St # 609/611,48,New York,/physician/dr-anthony-ng-yc9hx,0,dr-anthony-ng-yc9hx,"Dr. Anthony Ng, MD",,7,"139 Centre St # 609/611, New York, NY, 10013",GI Health,NY,10013
+10816 72nd Ave Ste 2,45,Forest Hills,/physician/dr-samuel-davidoff-3d2rt,0,dr-samuel-davidoff-3d2rt,"Dr. Samuel Davidoff, MD",,8,"10816 72nd Ave Ste 2, Forest Hills, NY, 11375",GASTROENTEROLOGY AND NUTRITION. PC,NY,11375
+3 E 83rd St,54,New York,/physician/dr-peter-distler-xybmc,0,dr-peter-distler-xybmc,"Dr. Peter Distler, MD",,25,"3 E 83rd St, New York, NY, 10028",Peter M Distler PLLC,NY,10028
+17 E 102nd St Fl 5,40,New York,/physician/dr-aimee-lucas-2npkg,0,dr-aimee-lucas-2npkg,"Dr. Aimee Lucas, MD",,2,"17 E 102nd St Fl 5, New York, NY, 10029",Mount Sinai Gastroenterology,NY,10029
+100 E 77th St,,New York,/physician/dr-raja-taunk-gfys9,0,dr-raja-taunk-gfys9,"Dr. Raja Taunk, MD",,7,"100 E 77th St, New York, NY, 10075",New York Office,NY,10075
+10440 Queens Blvd Ste 1F,33,Forest Hills,/physician/dr-merajur-rahman-gf2hc,0,dr-merajur-rahman-gf2hc,"Dr. Merajur Rahman, MD",,5,"10440 Queens Blvd Ste 1F, Forest Hills, NY, 11375",Digestive Disease Care,NY,11375
+535 5th Ave Fl 5,64,New York,/physician/dr-michael-krumholz-xrn5w,0,dr-michael-krumholz-xrn5w,"Dr. Michael Krumholz, MD",,10,"535 5th Ave Fl 5, New York, NY, 10017",MANHATTAN ENDOSCOPY CENTER LLC,NY,10017
+51 W 51st St,41,New York,/physician/dr-benjamin-lebwohl-34xxr,0,dr-benjamin-lebwohl-34xxr,"Dr. Benjamin Lebwohl, MD",19,3,"51 W 51st St, New York, NY, 10019",Columbia Doctors Midtown,NY,10019
+1317 3rd Ave Fl 7,45,New York,/physician/dr-jennifer-bonheur-3h6by,0,dr-jennifer-bonheur-3h6by,"Dr. Jennifer Bonheur, MD",17,19,"1317 3rd Ave Fl 7, New York, NY, 10021","Jennifer Bonheur, MD",NY,10021
+5514 Main St,54,Flushing,/physician/dr-kaumudi-somnay-27byy,0,dr-kaumudi-somnay-27byy,"Dr. Kaumudi Somnay, MD",,2,"5514 Main St, Flushing, NY, 11355","Kaumudi Somnay, M.D.",NY,11355
+1958 Ocean Ave # Level,47,Brooklyn,/physician/dr-yitzchak-moshenyat-xlnjb,0,dr-yitzchak-moshenyat-xlnjb,"Dr. Yitzchak Moshenyat, MD",,13,"1958 Ocean Ave # Level, Brooklyn, NY, 11230",Advanced Medical Group PC,NY,11230
+121 E 60th St Apt 9B,56,New York,/physician/dr-lawrence-herman-y82cn,0,dr-lawrence-herman-y82cn,"Dr. Lawrence Herman, MD",,66,"121 E 60th St Apt 9B, New York, NY, 10022",Medical Associates Of Manhattan,NY,10022
+525 E 68th St,44,New York,/physician/dr-tamas-gonda-2tn32,0,dr-tamas-gonda-2tn32,"Dr. Tamas Gonda, MD",17,3,"525 E 68th St, New York, NY, 10065",Columbia University Medical Center Division of Digestive & Liver Diseases,NY,10065
+232 E 30th St,56,New York,/physician/dr-scott-weber-y82lk,0,dr-scott-weber-y82lk,"Dr. Scott Weber, MD",,26,"232 E 30th St, New York, NY, 10016",Concorde Medical Group,NY,10016
+620 Essex St,64,Harrison,/physician/dr-andre-fedida-27vgb,0,dr-andre-fedida-27vgb,"Dr. Andre Fedida, MD",,11,"620 Essex St, Harrison, NJ, 07029",GI Services,NJ,07029
+240 E 38th St Fl 23,38,New York,/physician/dr-lauren-khanna-gg7vr,0,dr-lauren-khanna-gg7vr,"Dr. Lauren Khanna, MD",,3,"240 E 38th St Fl 23, New York, NY, 10016",NYU LANGONE HOSPITAL CENTER,NY,10016
+560 Bay Ridge Pkwy,63,Brooklyn,/physician/dr-paul-piccione-3fcn2,0,dr-paul-piccione-3fcn2,"Dr. Paul Piccione, MD",,9,"560 Bay Ridge Pkwy, Brooklyn, NY, 11209",Gastrointestinal & Liver Disease Specialists,NY,11209
+530 1st Ave # HCC4J,44,New York,/physician/dr-james-park-2mrxt,0,dr-james-park-2mrxt,"Dr. James Park, MD",,13,"530 1st Ave # HCC4J, New York, NY, 10016",,NY,10016
+137 5th Ave Fl 7,52,New York,/physician/dr-hon-ming-eng-3cc63,0,dr-hon-ming-eng-3cc63,"Dr. Hon-Ming Eng, MD",,20,"137 5th Ave Fl 7, New York, NY, 10010",Greater NY Gastroenterology P.C.,NY,10010
+1630 E 14th St Fl 2,42,Brooklyn,/physician/dr-jesse-vozick-3kbg7,0,dr-jesse-vozick-3kbg7,"Dr. Jesse Vozick, MD",,9,"1630 E 14th St Fl 2, Brooklyn, NY, 11229",Brooklyn Gastroenterology,NY,11229
+902 Quentin Rd Ste 701,,Brooklyn,/physician/dr-nison-badalov-3c38x,0,dr-nison-badalov-3c38x,"Dr. Nison Badalov, MD",,22,"902 Quentin Rd Ste 701, Brooklyn, NY, 11223",Gastroenterology Associates of Brooklyn,NY,11223
+1283 York Ave Fl 9,41,New York,/physician/dr-vinita-jacob-yw7lk,0,dr-vinita-jacob-yw7lk,"Dr. Vinita Jacob, MD",16,15,"1283 York Ave Fl 9, New York, NY, 10065",Jill Roberts Center for InflammatoryBowel Disease,NY,10065
+3131 Kings Hwy,60,Brooklyn,/physician/dr-jeffrey-gamss-x34dt,0,dr-jeffrey-gamss-x34dt,"Dr. Jeffrey Gamss, MD",,13,"3131 Kings Hwy, Brooklyn, NY, 11234",,NY,11234
+161 Fort Washington Ave # 8-852A,60,New York,/physician/dr-francis-gress-y4skx,0,dr-francis-gress-y4skx,"Dr. Francis Gress, MD",,6,"161 Fort Washington Ave # 8-852A, New York, NY, 10032",,NY,10032
+317 E 34th St Fl 7,59,New York,/physician/dr-kenneth-pearlman-223n4,0,dr-kenneth-pearlman-223n4,"Dr. Kenneth Pearlman, MD",,12,"317 E 34th St Fl 7, New York, NY, 10016",CareMount Medical,NY,10016
+10440 Queens Blvd Ste 1F,44,Forest Hills,/physician/dr-biju-abraham-yxldk,0,dr-biju-abraham-yxldk,"Dr. Biju Abraham, DO",,11,"10440 Queens Blvd Ste 1F, Forest Hills, NY, 11375",Digestive Disease Care,NY,11375
+180 Fort Washington Ave,78,New York,/physician/dr-charles-lightdale-2tdgl,0,dr-charles-lightdale-2tdgl,"Dr. Charles Lightdale, MD",,8,"180 Fort Washington Ave, New York, NY, 10032",Columbia University Medical Center Division of Digestive & Liver Diseases,NY,10032
+3621 Glenwood Rd,62,Brooklyn,/physician/dr-michel-jose-charles-26t4s,0,dr-michel-jose-charles-26t4s,"Dr. Michel-Jose Charles, MD",,3,"3621 Glenwood Rd, Brooklyn, NY, 11210",Greater Brooklyn Gastroenterology Care,NY,11210
+51 W 51st St Ste 360,68,New York,/physician/dr-arthur-magun-yb5jc,0,dr-arthur-magun-yb5jc,"Dr. Arthur Magun, MD",6,8,"51 W 51st St Ste 360, New York, NY, 10019",Columbia Doctors Midtown,NY,10019
+156 William St Fl 12,56,New York,/physician/dr-forrest-manheimer-3d2gq,0,dr-forrest-manheimer-3d2gq,"Dr. Forrest Manheimer, MD",14,20,"156 William St Fl 12, New York, NY, 10038",Weill Cornell Gastroenterology and Hepatology,NY,10038
+829 57th St Fl 2,52,Brooklyn,/physician/dr-kelly-chin-xhs7d,0,dr-kelly-chin-xhs7d,"Dr. Kelly Chin, MD",,11,"829 57th St Fl 2, Brooklyn, NY, 11220",Kelly Chin MD,NY,11220
+50 Court St,59,Brooklyn,/physician/dr-irwin-grosman-2vys2,0,dr-irwin-grosman-2vys2,"Dr. Irwin Grosman, MD",23,14,"50 Court St, Brooklyn, NY, 11201",NewYork-Presbyterian Medical Group Brooklyn,NY,11201
+132 E 76th St Ofc 2A,58,New York,/physician/dr-alexander-chun-y2j6p,0,dr-alexander-chun-y2j6p,"Dr. Alexander Chun, MD",,11,"132 E 76th St Ofc 2A, New York, NY, 10021",Chun & Warman Mds,NY,10021
+245 E 35th St,61,New York,/physician/dr-ian-lustbader-x3fws,0,dr-ian-lustbader-x3fws,"Dr. Ian Lustbader, MD",,15,"245 E 35th St, New York, NY, 10016",New York Office,NY,10016
+180 Fort Washington Ave # 936,63,New York,/physician/dr-suzanne-lewis-33fsg,0,dr-suzanne-lewis-33fsg,"Dr. Suzanne Lewis, MD",5,7,"180 Fort Washington Ave # 936, New York, NY, 10032",Celiac Disease Center,NY,10032
+2211 Emmons Ave,,Brooklyn,/physician/dr-jack-braha-y8k78,0,dr-jack-braha-y8k78,"Dr. Jack Braha, DO",,6,"2211 Emmons Ave, Brooklyn, NY, 11235",Brooklyn Gastro/Endoscpy PLLC,NY,11235
+1305 York Ave,41,New York,/physician/dr-brian-turner-2hrg3,0,dr-brian-turner-2hrg3,"Dr. Brian Turner, MD",,7,"1305 York Ave, New York, NY, 10021",,NY,10021
+100 E 77th St Fl 2,,New York,/physician/dr-david-robbins-yctxd,0,dr-david-robbins-yctxd,"Dr. David Robbins, MD",,11,"100 E 77th St Fl 2, New York, NY, 10075",Lenox Hill Hospital GAS,NY,10075
+1317 3rd Ave Fl 7,55,New York,/physician/dr-eric-morgenstern-yfwrn,0,dr-eric-morgenstern-yfwrn,"Dr. Eric Morgenstern, MD",,11,"1317 3rd Ave Fl 7, New York, NY, 10021",Jennifer L. Bonheur,NY,10021
+622 W 168th St Fl 14,42,New York,/physician/dr-elizabeth-verna-yv3jn,0,dr-elizabeth-verna-yv3jn,"Dr. Elizabeth Verna, MD",24,3,"622 W 168th St Fl 14, New York, NY, 10032",Columbia Presbyterian Medical Center Department of Surgery,NY,10032
+240 E 38th St Fl 23,53,New York,/physician/dr-jonathan-rosenberg-2py6b,0,dr-jonathan-rosenberg-2py6b,"Dr. Jonathan Rosenberg, MD",,7,"240 E 38th St Fl 23, New York, NY, 10016",NYU LANGONE HOSPITAL CENTER,NY,10016
+71 Union Ave Ste 201,52,Rutherford,/physician/dr-frank-ruiz-3dbvh,0,dr-frank-ruiz-3dbvh,"Dr. Frank Ruiz, MD",,12,"71 Union Ave Ste 201, Rutherford, NJ, 07070",Gastroenterology Associates of New Jersey,NJ,07070
+123 William St Rm 1500,,New York,/physician/dr-neal-joseph-g6py2,0,dr-neal-joseph-g6py2,"Dr. Neal Joseph, MD",,5,"123 William St Rm 1500, New York, NY, 10038",GOTHAM MEDICAL ASSOCIATES,NY,10038
+161 Fort Washington Ave # 862,49,New York,/physician/dr-john-poneros-339dp,0,dr-john-poneros-339dp,"Dr. John Poneros, MD",18,10,"161 Fort Washington Ave # 862, New York, NY, 10032",COLUMBIA UNIVERSITY MEDICAL CENTER,NY,10032
+350 E 17th St Fl 17th,,New York,/physician/dr-david-hudesman-xygky,0,dr-david-hudesman-xygky,"Dr. David Hudesman, MD",,12,"350 E 17th St Fl 17th, New York, NY, 10003",FLORIDA 17TH FLORIDA 17TH,NY,10003
+60 E 56th St Fl 7,51,New York,/physician/dr-paulo-pacheco-y6jlv,0,dr-paulo-pacheco-y6jlv,"Dr. Paulo Pacheco, MD",,19,"60 E 56th St Fl 7, New York, NY, 10022",GOTHAM MEDICAL ASSOCIATES,NY,10022
+2647 Coney Island Ave,54,Brooklyn,/physician/dr-inna-gordin-22n3q,0,dr-inna-gordin-22n3q,"Dr. Inna Gordin, MD",,3,"2647 Coney Island Ave, Brooklyn, NY, 11223",INNA GORDIN MD,NY,11223
+98 E Broadway,46,New York,/physician/dr-chun-wong-34cg2,0,dr-chun-wong-34cg2,"Dr. Chun Wong, MD",,2,"98 E Broadway, New York, NY, 10002",Total Chinatown Gastroenterolgy,NY,10002
+5 E 98th St Fl 11,43,New York,/physician/dr-ashish-atreja-xs9wq,0,dr-ashish-atreja-xs9wq,"Dr. Ashish Atreja, MD",,1,"5 E 98th St Fl 11, New York, NY, 10029",MOUNT SINAI FACULTY PRACTICE ASSOCIATES,NY,10029
+202 Spring St Fl 2,58,New York,/physician/dr-murray-orbuch-2dgk5,0,dr-murray-orbuch-2dgk5,"Dr. Murray Orbuch, MD",,3,"202 Spring St Fl 2, New York, NY, 10012",,NY,10012
+132 E 76th St Ofc 2G,55,New York,/physician/dr-jusuf-zlatanic-ykwck,0,dr-jusuf-zlatanic-ykwck,"Dr. Jusuf Zlatanic, MD",,21,"132 E 76th St Ofc 2G, New York, NY, 10021","The Endoscopy Suite- Dr. Mylan Satchi, MD",NY,10021
+1645 E 19th St,61,Brooklyn,/physician/dr-abdo-balikcioglu-y7syw,0,dr-abdo-balikcioglu-y7syw,"Dr. Abdo Balikcioglu, MD",,2,"1645 E 19th St, Brooklyn, NY, 11229",,NY,11229
+142 Palisade Ave Ste 201,56,Jersey City,/physician/dr-jeffrey-raskin-yqjq7,0,dr-jeffrey-raskin-yqjq7,"Dr. Jeffrey Raskin, MD",,12,"142 Palisade Ave Ste 201, Jersey City, NJ, 07306",Gastroenterology Medical Assocs,NJ,07306
+215 E 68th St # 8,65,New York,/physician/dr-arthur-heller-yd3vm,0,dr-arthur-heller-yd3vm,"Dr. Arthur Heller, MD",,59,"215 E 68th St # 8, New York, NY, 10065","Arthur D. Heller, MD",NY,10065
+11129 Queens Blvd,48,Forest Hills,/physician/dr-boris-chusid-xbccd,0,dr-boris-chusid-xbccd,"Dr. Boris Chusid, MD",,5,"11129 Queens Blvd, Forest Hills, NY, 11375","MEDEX DIAGNOSTIC & TREATMENT CENTER, LLC",NY,11375
+920 Park Ave # Ground,37,New York,/physician/dr-steven-naymagon-xkpvh,0,dr-steven-naymagon-xkpvh,"Dr. Steven Naymagon, MD",,3,"920 Park Ave # Ground, New York, NY, 10028","Peter H. Rubin MD & Steven Naymagon, MD",NY,10028
+71 Union Ave Ste 201,63,Rutherford,/physician/dr-joseph-roth-xc4k7,0,dr-joseph-roth-xc4k7,"Dr. Joseph Roth, MD",,21,"71 Union Ave Ste 201, Rutherford, NJ, 07070","Roth,Ruiz,Zierer Rutherford",NJ,07070
+166 Clinton St,69,Brooklyn,/physician/dr-toomas-sorra-xhdfs,0,dr-toomas-sorra-xhdfs,"Dr. Toomas Sorra, MD",,51,"166 Clinton St, Brooklyn, NY, 11201",Toomas M Sorra MD,NY,11201
+1630 E 14th St Fl 2,51,Brooklyn,/physician/dr-joseph-durzieh-2rk5r,0,dr-joseph-durzieh-2rk5r,"Dr. Joseph Durzieh, MD",,11,"1630 E 14th St Fl 2, Brooklyn, NY, 11229",Brooklyn Gastroenterology,NY,11229
+560 Bay Ridge Pkwy,61,Brooklyn,/physician/dr-antonio-palagiano-3xpdp,0,dr-antonio-palagiano-3xpdp,"Dr. Antonio Palagiano, MD",,9,"560 Bay Ridge Pkwy, Brooklyn, NY, 11209",Gastrointestinal & Liver Disease Specialists,NY,11209
+17 E 102nd St Fl 5,,New York,/physician/dr-ari-grinspan-gc26q,0,dr-ari-grinspan-gc26q,"Dr. Ari Grinspan, MD",,5,"17 E 102nd St Fl 5, New York, NY, 10029",Mount Sinai Gastroenterology,NY,10029
+60 Gramercy Park N Apt 1B,60,New York,/physician/dr-lawrence-ottaviano-yrq5h,0,dr-lawrence-ottaviano-yrq5h,"Dr. Lawrence Ottaviano, MD",,12,"60 Gramercy Park N Apt 1B, New York, NY, 10010",Gramercy Park Med Assocs,NY,10010
+110 E 55th St Fl 17,65,New York,/physician/dr-albert-harary-3gy8g,0,dr-albert-harary-3gy8g,"Dr. Albert Harary, MD",,14,"110 E 55th St Fl 17, New York, NY, 10022",ALBERT M HARARY MD,NY,10022
+7911 41st Ave Apt A108,40,Elmhurst,/physician/dr-igal-khorshidi-xnl3j,0,dr-igal-khorshidi-xnl3j,"Dr. Igal Khorshidi, MD",,31,"7911 41st Ave Apt A108, Elmhurst, NY, 11373",New York Gastroenterology & Endoscopy,NY,11373
+180 Fort Washington Ave # 936,71,New York,/physician/dr-peter-green-2yy54,0,dr-peter-green-2yy54,"Dr. Peter Green, MD",2,10,"180 Fort Washington Ave # 936, New York, NY, 10032",Celiac Disease Center,NY,10032
+8714 5th Ave,,Brooklyn,/physician/dr-anju-malieckal-3n8q9,0,dr-anju-malieckal-3n8q9,"Dr. Anju Malieckal, MD",,1,"8714 5th Ave, Brooklyn, NY, 11209",Medical Arts Pavillion,NY,11209
+7801 Myrtle Ave,65,Glendale,/physician/dr-bradley-rieders-3jld5,0,dr-bradley-rieders-3jld5,"Dr. Bradley Rieders, MD",,10,"7801 Myrtle Ave, Glendale, NY, 11385",,NY,11385
+1283 York Ave Fl 9,41,New York,/physician/dr-dana-lukin-gfkgf,0,dr-dana-lukin-gfkgf,"Dr. Dana Lukin, MD",13,1,"1283 York Ave Fl 9, New York, NY, 10065",Jill Roberts Center for InflammatoryBowel Disease,NY,10065
+2211 Emmons Ave,37,Brooklyn,/physician/dr-sofia-novak-x55vd,0,dr-sofia-novak-x55vd,"Dr. Sofia Novak, MD",,2,"2211 Emmons Ave, Brooklyn, NY, 11235",Brooklyn Gastro/Endoscpy PLLC,NY,11235
+1225 Foster Ave,61,Brooklyn,/physician/dr-gulam-khan-ypw53,0,dr-gulam-khan-ypw53,"Dr. Gulam Khan, MD",,7,"1225 Foster Ave, Brooklyn, NY, 11230",Foster Family Medical Center,NY,11230
+311 E 79th St # 2A,38,New York,/physician/dr-jay-desai-ggg63,0,dr-jay-desai-ggg63,"Dr. Jay Desai, MD",,3,"311 E 79th St # 2A, New York, NY, 10075",New York Gastroenterolgy Assocs,NY,10075
+210 E 73rd St Ste 1C,66,New York,/physician/dr-hillel-hammerman-3d6xn,0,dr-hillel-hammerman-3d6xn,"Dr. Hillel Hammerman, MD",,26,"210 E 73rd St Ste 1C, New York, NY, 10021",Hillel S Hammerman MD,NY,10021
+6010 Bay Pkwy Ste 804,54,Brooklyn,/physician/dr-robert-kodsi-y2bwy,0,dr-robert-kodsi-y2bwy,"Dr. Robert Kodsi, MD",,29,"6010 Bay Pkwy Ste 804, Brooklyn, NY, 11204","Baroukh and Robert E Kodsi, MD PC",NY,11204
+2325 31st St Ste 700,47,Long Island City,/physician/dr-sabino-augello-ywghf,0,dr-sabino-augello-ywghf,"Dr. Sabino Augello, MD",,15,"2325 31st St Ste 700, Long Island City, NY, 11105",,NY,11105
+235 E 22nd St,56,New York,/physician/dr-mengkao-tseng-3g5dh,0,dr-mengkao-tseng-3g5dh,"Dr. Mengkao Tseng, MD",,6,"235 E 22nd St, New York, NY, 10010",MENGKAO TSENG MD,NY,10010
+450 Clarkson Ave,38,Brooklyn,/physician/dr-sakina-farhat-ggvsc,0,dr-sakina-farhat-ggvsc,"Dr. Sakina Farhat, MD",,8,"450 Clarkson Ave, Brooklyn, NY, 11203",,NY,11203
+2315 86th St,41,Brooklyn,/physician/dr-po-cheng-chu-g7g7v,0,dr-po-cheng-chu-g7g7v,"Dr. PoCheng Chu, MD",,2,"2315 86th St, Brooklyn, NY, 11214",Brooklyn Gastroenterology and Hepatology,NY,11214
+4721 Fort Hamilton Pkwy Fl 1,,Brooklyn,/physician/dr-yuriy-tsirlin-37pmc,0,dr-yuriy-tsirlin-37pmc,"Dr. Yuriy Tsirlin, MD",,2,"4721 Fort Hamilton Pkwy Fl 1, Brooklyn, NY, 11219",Maimonides Division of Gastroenterology,NY,11219
+120 E 79th St Ofc 1C,64,New York,/physician/dr-makoto-iwahara-ybhrg,0,dr-makoto-iwahara-ybhrg,"Dr. Makoto Iwahara, MD",,8,"120 E 79th St Ofc 1C, New York, NY, 10075",,NY,10075
+1 Gustave L Levy Pl # 1118,35,New York,/physician/dr-neil-parikh-gf467,0,dr-neil-parikh-gf467,"Dr. Neil Parikh, MD",,1,"1 Gustave L Levy Pl # 1118, New York, NY, 10029",HEMATOLOGY ONCOLOGY,NY,10029
+1060 Park Ave Apt 1G,71,New York,/physician/dr-michael-schmerin-2r9p4,0,dr-michael-schmerin-2r9p4,"Dr. Michael Schmerin, MD",,19,"1060 Park Ave Apt 1G, New York, NY, 10128",SCHMERIN MICHAEL MD OFFICE,NY,10128
+1901 1st Ave,40,New York,/physician/dr-melissa-kang-xtw47,0,dr-melissa-kang-xtw47,"Dr. Melissa Kang, MD",,2,"1901 1st Ave, New York, NY, 10029",METROPOLITAN HOSPITAL CENTER DEPARTMENT OF MEDICINE,NY,10029
+237 Bay Ridge Pkwy,66,Brooklyn,/physician/dr-maher-almoudarres-xjlyp,0,dr-maher-almoudarres-xjlyp,"Dr. Maher Almoudarres, MD",,14,"237 Bay Ridge Pkwy, Brooklyn, NY, 11209",ALMOUDARRES MAHER MD,NY,11209
+60 W 68th St Apt 1B,52,New York,/physician/dr-leslie-seecoomar-x7dk3,0,dr-leslie-seecoomar-x7dk3,"Dr. Leslie Seecoomar, MD",,10,"60 W 68th St Apt 1B, New York, NY, 10023",Leslie F Seecoomar MD,NY,10023
+240 Willoughby St Apt 4B,67,Brooklyn,/physician/dr-suryanarayan-anand-ytg2c,0,dr-suryanarayan-anand-ytg2c,"Dr. Suryanarayan Anand, MD",,3,"240 Willoughby St Apt 4B, Brooklyn, NY, 11201",,NY,11201
+51 E 25th St # 401,39,New York,/physician/dr-kathlynn-caguiat-gdg78,0,dr-kathlynn-caguiat-gdg78,"Dr. Kathlynn Caguiat, MD",,5,"51 E 25th St # 401, New York, NY, 10010",Manhattan Gastroenterology,NY,10010
+129 Saint Nicholas Ave Fl 1,52,Brooklyn,/physician/dr-adam-moskowitz-y84qw,0,dr-adam-moskowitz-y84qw,"Dr. Adam Moskowitz, MD",,1,"129 Saint Nicholas Ave Fl 1, Brooklyn, NY, 11237",Arya Gastroenterology Assocs,NY,11237
+1883 Eastern Pkwy,,Brooklyn,/physician/dr-cynthia-quainoo-ggd54,0,dr-cynthia-quainoo-ggd54,"Dr. Cynthia Quainoo, MD",,24,"1883 Eastern Pkwy, Brooklyn, NY, 11233",OBH Division of Gastroenterology,NY,11233
+8545 Eliot Ave,60,Rego Park,/physician/dr-dan-cimponeriu-xqfb3,0,dr-dan-cimponeriu-xqfb3,"Dr. Dan Cimponeriu, MD",,12,"8545 Eliot Ave, Rego Park, NY, 11374",Greater New York Gastroenterlgy,NY,11374
+620 Columbus Ave,63,New York,/physician/dr-barry-jaffin-33t24,0,dr-barry-jaffin-33t24,"Dr. Barry Jaffin, MD",,12,"620 Columbus Ave, New York, NY, 10024",Westside Gastroenterology,NY,10024
+11203 Queens Blvd Ste 207,60,Forest Hills,/physician/dr-daniel-wasserman-xt54q,0,dr-daniel-wasserman-xt54q,"Dr. Daniel Wasserman, MD",,3,"11203 Queens Blvd Ste 207, Forest Hills, NY, 11375",Rosman & Wasserman LLP,NY,11375
+311 E 79th St # 2A,59,New York,/physician/dr-james-aisenberg-xy953,0,dr-james-aisenberg-xy953,"Dr. James Aisenberg, MD",,13,"311 E 79th St # 2A, New York, NY, 10075",New York Gastroenterolgy Assocs,NY,10075
+314 W 14th St Fl 1,57,New York,/physician/dr-carl-guillaume-2dfyq,0,dr-carl-guillaume-2dfyq,"Dr. Carl Guillaume, MD",,4,"314 W 14th St Fl 1, New York, NY, 10014","Medical Associates, PC",NY,10014
+160 E 72nd St,64,New York,/physician/dr-james-lax-35rgr,0,dr-james-lax-35rgr,"Dr. James Lax, MD",9,16,"160 E 72nd St, New York, NY, 10021","Weill Cornell Medicine - James Lax, MD",NY,10021
+1305 York Ave Fl 4,39,New York,/physician/dr-reem-sharaiha-3g5rj,0,dr-reem-sharaiha-3g5rj,"Dr. Reem Sharaiha, MD",26,14,"1305 York Ave Fl 4, New York, NY, 10021",Weill Cornell Digestive and Liver Diseases,NY,10021
+2 5th Ave Ste 7,60,New York,/physician/dr-david-feldman-2pkqq,0,dr-david-feldman-2pkqq,"Dr. David Feldman, MD",,23,"2 5th Ave Ste 7, New York, NY, 10011",David M Feldman MD,NY,10011
+5610 7th Ave,37,Brooklyn,/physician/dr-wallace-wang-gfddl,0,dr-wallace-wang-gfddl,"Dr. Wallace Wang, MD",,4,"5610 7th Ave, Brooklyn, NY, 11220",Downtown Gastroenterology Associates- Brooklyn,NY,11220
+57 W 57th St Ste 1107,62,New York,/physician/dr-james-palma-3kgpy,0,dr-james-palma-3kgpy,"Dr. James Palma, MD",,9,"57 W 57th St Ste 1107, New York, NY, 10019",J P Gastroenterology,NY,10019
+620 Columbus Ave,57,New York,/physician/dr-anthony-weiss-ylxj5,0,dr-anthony-weiss-ylxj5,"Dr. Anthony Weiss, MD",,10,"620 Columbus Ave, New York, NY, 10024",Westside Gastroenterology,NY,10024
+791 Park Ave,63,New York,/physician/dr-robert-meltzer-26sll,0,dr-robert-meltzer-26sll,"Dr. Robert Meltzer, MD",,2,"791 Park Ave, New York, NY, 10021",Robert Meltzer MD,NY,10021
+232 E 30th St,80,New York,/physician/dr-jerome-breslaw-ypph7,0,dr-jerome-breslaw-ypph7,"Dr. Jerome Breslaw, MD",,10,"232 E 30th St, New York, NY, 10016",Concorde Medical Group,NY,10016
+161 Fort Washington Ave # 937,78,New York,/physician/dr-jeffrey-stein-yv5hh,0,dr-jeffrey-stein-yv5hh,"Dr. Jeffrey Stein, MD",,4,"161 Fort Washington Ave # 937, New York, NY, 10032",Columbia University Dept. of Medicine,NY,10032
+8340 Woodhaven Blvd,,Glendale,/physician/dr-charles-oliner-gg9g6,0,dr-charles-oliner-gg9g6,"Dr. Charles Oliner, MD",,3,"8340 Woodhaven Blvd, Glendale, NY, 11385",EMU HEALTH,NY,11385
+101 Broadway,70,Brooklyn,/physician/dr-jacob-walfish-yjrty,0,dr-jacob-walfish-yjrty,"Dr. Jacob Walfish, MD",,6,"101 Broadway, Brooklyn, NY, 11249",NYU Medical Williamsburg,NY,11249
+1555 Center Ave,50,Fort Lee,/physician/dr-samuel-bae-ywlkt,0,dr-samuel-bae-ywlkt,"Dr. Samuel Bae, MD",,21,"1555 Center Ave, Fort Lee, NJ, 07024",Regional Gastrointestinal Consultants,NJ,07024
+13620 38th Ave Ste 6F,54,Flushing,/physician/dr-michael-li-y6rv8,0,dr-michael-li-y6rv8,"Dr. Michael Li, MD",,9,"13620 38th Ave Ste 6F, Flushing, NY, 11354",Michael Y Li MD,NY,11354
+121 E 60th St Apt 9B,73,New York,/physician/dr-dov-grant-264ct,0,dr-dov-grant-264ct,"Dr. Dov Grant, MD",,10,"121 E 60th St Apt 9B, New York, NY, 10022",Medical Associates Of Manhattan,NY,10022
+205 E 76th St Fl M2,52,New York,/physician/dr-michael-ammirati-2h5xq,0,dr-michael-ammirati-2h5xq,"Dr. Michael Ammirati, MD",,35,"205 E 76th St Fl M2, New York, NY, 10021",Schwarz and Ammirati Medical Assocs,NY,10021
+156 William St Fl 12,74,New York,/physician/dr-robert-burakoff-y5fg6,0,dr-robert-burakoff-y5fg6,"Dr. Robert Burakoff, MD",,9,"156 William St Fl 12, New York, NY, 10038",Weill Cornell Gastroenterology and Hepatology,NY,10038
+311 E 79th St # 2A,43,New York,/physician/dr-neville-bamji-29c57,0,dr-neville-bamji-29c57,"Dr. Neville Bamji, MD",,17,"311 E 79th St # 2A, New York, NY, 10075",New York Gastroenterolgy Assocs,NY,10075
+14243 Booth Memorial Ave,71,Flushing,/physician/dr-michel-nussbaum-xq4ld,0,dr-michel-nussbaum-xq4ld,"Dr. Michel Nussbaum, MD",,16,"14243 Booth Memorial Ave, Flushing, NY, 11355","Michel E. Nussbaum, M.D.",NY,11355
+90 8th Ave,70,Brooklyn,/physician/dr-barry-maizel-2hd65,0,dr-barry-maizel-2hd65,"Dr. Barry Maizel, MD",,3,"90 8th Ave, Brooklyn, NY, 11215","BARRY MAIZEL, MD",NY,11215
+535 5th Ave Rm 611,,New York,/physician/dr-sonja-olsen-yklq4,0,dr-sonja-olsen-yklq4,"Dr. Sonja Olsen, MD",,19,"535 5th Ave Rm 611, New York, NY, 10017",GOTHAM MEDICAL ASSOCIATES,NY,10017
+983 Park Ave # 1D,,New York,/physician/dr-shawn-khodadadian-2pbg3,0,dr-shawn-khodadadian-2pbg3,"Dr. Shawn Khodadadian, MD",,40,"983 Park Ave # 1D, New York, NY, 10028",Manhattan Gastroenterology,NY,10028
+11 Ralph Pl Ste 302,53,Staten Island,/physician/dr-kiranpreet-parmar-xhk4d,0,dr-kiranpreet-parmar-xhk4d,"Dr. Kiranpreet Parmar, MD",,13,"11 Ralph Pl Ste 302, Staten Island, NY, 10304",GI Medical Services,NY,10304
+1 Brookdale Plz Ste 337,36,Brooklyn,/physician/dr-niket-sonpal-gf3rc,0,dr-niket-sonpal-gf3rc,"Dr. Niket Sonpal, MD",,23,"1 Brookdale Plz Ste 337, Brooklyn, NY, 11212",OBH Division of Gastroenterology,NY,11212
+800A 5th Ave Ste 206,60,New York,/physician/dr-anthony-borcich-xystb,0,dr-anthony-borcich-xystb,"Dr. Anthony Borcich, MD",,9,"800A 5th Ave Ste 206, New York, NY, 10065","Anthony S. Borcich, M.D., P.C.",NY,10065
+17 E 102nd St Fl 7,41,New York,/providers/behnam-saberi-gg6r5,0,behnam-saberi-gg6r5,"Dr. Behnam Saberi, MD",,2,"17 E 102nd St Fl 7, New York, NY, 10029",Mount Sinai Medical Center,NY,10029
+1060 Broad St,65,Newark,/physician/dr-rajan-shah-xk9d3,0,dr-rajan-shah-xk9d3,"Dr. Rajan Shah, MD",,2,"1060 Broad St, Newark, NJ, 07102",,NJ,07102
+71 Union Ave Ste 201,56,Rutherford,/physician/dr-kenneth-zierer-2gp5f,0,dr-kenneth-zierer-2gp5f,"Dr. Kenneth Zierer, MD",,18,"71 Union Ave Ste 201, Rutherford, NJ, 07070",Gastroenterology Associates of New Jersey,NJ,07070
+1 Gustave L Levy Pl,38,New York,/physician/dr-jeremy-matloff-gdc9f,0,dr-jeremy-matloff-gdc9f,"Dr. Jeremy Matloff, MD",,6,"1 Gustave L Levy Pl, New York, NY, 10029",,NY,10029
+1275 York Ave,61,New York,/physician/dr-hans-gerdes-3dn5f,0,dr-hans-gerdes-3dn5f,"Dr. Hans Gerdes, MD",,5,"1275 York Ave, New York, NY, 10065",MEMORIAL GASTROENTEROLOGY GROUP,NY,10065
+232 E 30th St,54,New York,/physician/dr-jonathan-cohen-xgmw6,0,dr-jonathan-cohen-xgmw6,"Dr. Jonathan Cohen, MD",,13,"232 E 30th St, New York, NY, 10016",Concorde Medical Group,NY,10016
+161 Fort Washington Ave # 862,43,New York,/physician/dr-david-lee-yl2m7,0,dr-david-lee-yl2m7,"Dr. David Lee, MD",17,7,"161 Fort Washington Ave # 862, New York, NY, 10032",MEDICINE DIGESTIVE & LIVER DISEASES,NY,10032
+305 2nd Ave Ste 3,57,New York,/physician/dr-franklin-kasmin-3krk7,0,dr-franklin-kasmin-3krk7,"Dr. Franklin Kasmin, MD",,8,"305 2nd Ave Ste 3, New York, NY, 10003",Jerome H Siegel MD PC,NY,10003
+8622 Bay Pkwy Ste 1,73,Brooklyn,/physician/dr-alexander-brodsky-3bs3p,0,dr-alexander-brodsky-3bs3p,"Dr. Alexander Brodsky, MD",,14,"8622 Bay Pkwy Ste 1, Brooklyn, NY, 11214",All Medical Care,NY,11214
+205 E 76th St Fl M2,50,New York,/physician/dr-samuel-schwarz-xby47,0,dr-samuel-schwarz-xby47,"Dr. Samuel Schwarz, MD",,15,"205 E 76th St Fl M2, New York, NY, 10021",Schwarz and Ammirati Medical Assocs,NY,10021
+902 Quentin Rd Ste 701,,Brooklyn,/physician/dr-kayane-hanna-g5frk,0,dr-kayane-hanna-g5frk,"Dr. Kayane Hanna-Hindy, MD",,24,"902 Quentin Rd Ste 701, Brooklyn, NY, 11223",Gastroenterology Associates of Brooklyn,NY,11223
+60 Gramercy Park N Apt 1B,76,New York,/physician/dr-herbert-dyrszka-3jxb4,0,dr-herbert-dyrszka-3jxb4,"Dr. Herbert Dyrszka, MD",,3,"60 Gramercy Park N Apt 1B, New York, NY, 10010",Gramercy Park Med Assocs,NY,10010
+600 Pavonia Ave Ste F,64,Jersey City,/physician/dr-paul-stoopack-2v96k,0,dr-paul-stoopack-2v96k,"Dr. Paul Stoopack, MD",,12,"600 Pavonia Ave Ste F, Jersey City, NJ, 07306",Paul M Stoopack MD,NJ,07306
+902 Quentin Rd Ste 701,,Brooklyn,/physician/dr-ian-wall-2xgtb,0,dr-ian-wall-2xgtb,"Dr. Ian Wall, DO",,11,"902 Quentin Rd Ste 701, Brooklyn, NY, 11223",Gastroenterology Associates of Brooklyn,NY,11223
+161 Madison Ave Rm 10SW,43,New York,/physician/dr-gil-ascunce-396gk,0,dr-gil-ascunce-396gk,"Dr. Gil Ascunce, MD",,7,"161 Madison Ave Rm 10SW, New York, NY, 10016","Gil I. ASCUNCE, MD",NY,10016
+240 Willoughby St Ste 4B,45,Brooklyn,/physician/dr-sushil-duddempudi-28jss,0,dr-sushil-duddempudi-28jss,"Dr. Sushil Duddempudi, MD",,2,"240 Willoughby St Ste 4B, Brooklyn, NY, 11201",Anand MD,NY,11201
+594 Broadway,61,New York,/physician/dr-todd-linden-y6vsv,0,dr-todd-linden-y6vsv,"Dr. Todd Linden, MD",,9,"594 Broadway, New York, NY, 10012",,NY,10012
+132 E 76th St Ofc 2A,50,New York,/physician/dr-jonathan-warman-3kf54,0,dr-jonathan-warman-3kf54,"Dr. Jonathan Warman, MD",,12,"132 E 76th St Ofc 2A, New York, NY, 10021",Chun & Warman Mds,NY,10021
+161 Fort Washington Ave # 862,46,New York,/physician/dr-julian-abrams-ytr62,1,dr-julian-abrams-ytr62,"Dr. Julian Abrams, MD",16,2,"161 Fort Washington Ave # 862, New York, NY, 10032",CUMC Herbert Irving Pavilion,NY,10032
+535 5th Ave Rm 611,53,New York,/physician/dr-peter-kim-33lhd,0,dr-peter-kim-33lhd,"Dr. Peter Kim, MD",,20,"535 5th Ave Rm 611, New York, NY, 10017",Gotham Gastroenterology,NY,10017
+330 Grand St Ste 100,,Hoboken,/physician/dr-taruna-bhatia-gb6nj,0,dr-taruna-bhatia-gb6nj,"Dr. Taruna Bhatia, MD",,3,"330 Grand St Ste 100, Hoboken, NJ, 07030",Surgical Associates Hudson Cty,NJ,07030
+232 E 30th St,75,New York,/physician/dr-charles-friedlander-2glps,0,dr-charles-friedlander-2glps,"Dr. Charles Friedlander, MD",,8,"232 E 30th St, New York, NY, 10016",Concorde Medical Group,NY,10016
+6010 Bay Pkwy,74,Brooklyn,/physician/dr-kadirawelpil-iswara-xfqcj,0,dr-kadirawelpil-iswara-xfqcj,"Dr. Kadirawelpillai Iswara, MD",,19,"6010 Bay Pkwy, Brooklyn, NY, 11204",,NY,11204
+268 Martin Luther King Jr Blvd,55,Newark,/physician/dr-jennifer-brown-2s54p,0,dr-jennifer-brown-2s54p,"Dr. Jennifer Brown, DO",,23,"268 Martin Luther King Jr Blvd, Newark, NJ, 07102",GI Services,NJ,07102
+129 Saint Nicholas Ave Fl 1,,Brooklyn,/physician/dr-nan-sandar-x4j7n,0,dr-nan-sandar-x4j7n,"Dr. Nan Sandar, MD",,1,"129 Saint Nicholas Ave Fl 1, Brooklyn, NY, 11237",Arya Gastroenterology Assocs,NY,11237
+60 E 56th St Fl 7th,63,New York,/physician/dr-carl-mcdougall-xl9v7,0,dr-carl-mcdougall-xl9v7,"Dr. Carl McDougall, MD",,12,"60 E 56th St Fl 7th, New York, NY, 10022",MANHATTAN GASTROINTESTINAL ASSOCIATES,NY,10022
+355 W 52nd St Fl 6,,New York,/physician/dr-sophie-balzora-gf49l,0,dr-sophie-balzora-gf49l,"Dr. Sophie Balzora, MD",,16,"355 W 52nd St Fl 6, New York, NY, 10019",,NY,10019
+2211 Emmons Ave,48,Brooklyn,/physician/dr-robin-baradarian-28273,0,dr-robin-baradarian-28273,"Dr. Robin Baradarian, MD",,28,"2211 Emmons Ave, Brooklyn, NY, 11235",Brooklyn Gastro/Endoscpy PLLC,NY,11235
+920 Park Ave,73,New York,/physician/dr-peter-rubin-xrl3k,0,dr-peter-rubin-xrl3k,"Dr. Peter Rubin, MD",,14,"920 Park Ave, New York, NY, 10028",PETER H RUBIN MD,NY,10028
+6946 Grand Ave,65,Maspeth,/physician/dr-armand-asadourian-yyvhl,0,dr-armand-asadourian-yyvhl,"Dr. Armand Asadourian, MD",,11,"6946 Grand Ave, Maspeth, NY, 11378",Armand Varujan Asadourian MD,NY,11378
+902 Quentin Rd Ste 701,40,Brooklyn,/physician/dr-rabin-rahmani-x7v9m,0,dr-rabin-rahmani-x7v9m,"Dr. Rabin Rahmani, MD",,10,"902 Quentin Rd Ste 701, Brooklyn, NY, 11223",Gastroenterology Associates of Brooklyn,NY,11223
+1224 8th Ave,67,Brooklyn,/physician/dr-asim-malik-2dydf,0,dr-asim-malik-2dydf,"Dr. Asim Malik, MD",,11,"1224 8th Ave, Brooklyn, NY, 11215",Asim R Malik MD,NY,11215
+13511 40th Rd Ste 3A,59,Flushing,/physician/dr-king-chen-hon-2mkk6,0,dr-king-chen-hon-2mkk6,"Dr. King-Chen Hon, MD",,6,"13511 40th Rd Ste 3A, Flushing, NY, 11354",King C Hon MD,NY,11354
+663 Palisade Ave Ste 101,61,Cliffside Park,/physician/dr-susan-fishbein-xk7q8,0,dr-susan-fishbein-xk7q8,"Dr. Susan Fishbein, MD",,7,"663 Palisade Ave Ste 101, Cliffside Park, NJ, 07010",Emergimed LLC,NJ,07010
+3601 31st Ave,58,Astoria,/physician/dr-george-surla-y78c9,0,dr-george-surla-y78c9,"Dr. George Surla, MD",,15,"3601 31st Ave, Astoria, NY, 11106",Greater New York Gastro LLC,NY,11106
+13259 41st Rd Ste 1A-1B,59,Flushing,/physician/dr-jackson-kuan-24fgj,0,dr-jackson-kuan-24fgj,"Dr. Jackson Kuan, MD",,7,"13259 41st Rd Ste 1A-1B, Flushing, NY, 11355",Jackson H Kuan MD LLC,NY,11355
+1305 York Ave,47,New York,/physician/dr-rebekah-gross-3fndv,0,dr-rebekah-gross-3fndv,"Dr. Rebekah Gross, MD",,9,"1305 York Ave, New York, NY, 10021",Ira M Jacobson MD,NY,10021
+210 E 86th St Rm 201,64,New York,/physician/dr-paul-basuk-23bjf,0,dr-paul-basuk-23bjf,"Dr. Paul Basuk, MD",,17,"210 E 86th St Rm 201, New York, NY, 10028",Paul M Basuk MD,NY,10028
+240 E 38th St Fl 23,,New York,/physician/dr-abraham-khan-gb84t,0,dr-abraham-khan-gb84t,"Dr. Abraham Khan, MD",,3,"240 E 38th St Fl 23, New York, NY, 10016",NYU LANGONE HOSPITAL CENTER,NY,10016
+1049 Park Ave Ste 1C,48,New York,/physician/dr-peter-chang-xc4c6,0,dr-peter-chang-xc4c6,"Dr. Peter Chang, MD",,27,"1049 Park Ave Ste 1C, New York, NY, 10028",Peter K Chang MD,NY,10028
+201 E 65th St,68,New York,/physician/dr-bruce-yaffe-xxhs3,0,dr-bruce-yaffe-xxhs3,"Dr. Bruce Yaffe, MD",,35,"201 E 65th St, New York, NY, 10065",Yaffe Ruden and Associates,NY,10065
+430 E 20th St,68,New York,/physician/dr-martin-rosen-x8rkc,0,dr-martin-rosen-x8rkc,"Dr. Martin Rosen, MD",,10,"430 E 20th St, New York, NY, 10009",Stuyvesant Med Div Prohlth Asso,NY,10009
+2202 65th St Fl 2,52,Brooklyn,/physician/dr-jane-vlodov-levitt-3xybp,0,dr-jane-vlodov-levitt-3xybp,"Dr. Jane Vlodov-Levitt, MD",,14,"2202 65th St Fl 2, Brooklyn, NY, 11204",JANE LEVITT VLODOV MD,NY,11204
+17 E 102nd St Fl 5,42,New York,/physician/dr-elana-maser-3j2x4,0,dr-elana-maser-3j2x4,"Dr. Elana Maser, MD",,4,"17 E 102nd St Fl 5, New York, NY, 10029",Mount Sinai Gastroenterology,NY,10029
+347 E 37th St Fl 2,51,New York,/physician/dr-mark-lemert-xskr2,0,dr-mark-lemert-xskr2,"Dr. Mark Lemert, MD",,16,"347 E 37th St Fl 2, New York, NY, 10016",CareMount Medical,NY,10016
+111 Central Ave,64,Newark,/physician/dr-joseph-depasquale-xt446,0,dr-joseph-depasquale-xt446,"Dr. Joseph Depasquale, MD",,12,"111 Central Ave, Newark, NJ, 07102",Essex Gastroenterology Asscos,NJ,07102
+232 E 30th St,82,New York,/physician/dr-hillel-tobias-xx87j,0,dr-hillel-tobias-xx87j,"Dr. Hillel Tobias, MD",,15,"232 E 30th St, New York, NY, 10016",Concorde Medical Group,NY,10016
+110 E 59th St,73,New York,/physician/dr-myron-goldberg-x3sy7,0,dr-myron-goldberg-x3sy7,"Dr. Myron Goldberg, MD",,8,"110 E 59th St, New York, NY, 10022",Myron D Goldberg MD,NY,10022
+111 E 88th St Ste 1A,58,New York,/physician/dr-jeffrey-loria-yh3v8,0,dr-jeffrey-loria-yh3v8,"Dr. Jeffrey Loria, MD",,21,"111 E 88th St Ste 1A, New York, NY, 10128",,NY,10128
+13633 37th Ave Ste 7,51,Flushing,/physician/dr-alan-yao-x5qxh,0,dr-alan-yao-x5qxh,"Dr. Alan Yao, MD",,21,"13633 37th Ave Ste 7, Flushing, NY, 11354",,NY,11354
+2725 John F Kennedy Blvd,59,Jersey City,/physician/dr-wayne-siegel-xdw2m,0,dr-wayne-siegel-xdw2m,"Dr. Wayne Siegel, MD",,18,"2725 John F Kennedy Blvd, Jersey City, NJ, 07306",,NJ,07306
+2952 Brighton 3rd St Ste 102,54,Brooklyn,/physician/dr-sam-weissman-2cvtq,0,dr-sam-weissman-2cvtq,"Dr. Sam Weissman, MD",,16,"2952 Brighton 3rd St Ste 102, Brooklyn, NY, 11235",Samaritan M Weissman MD,NY,11235
+15702 Crossbay Blvd Ste 204,67,Howard Beach,/physician/dr-chaim-anfang-36p9v,0,dr-chaim-anfang-36p9v,"Dr. Chaim Anfang, MD",,9,"15702 Crossbay Blvd Ste 204, Howard Beach, NY, 11414",Associates In Gastroenterology,NY,11414
+2985 Quentin Rd,62,Brooklyn,/physician/dr-alvin-leb-xrb2b,0,dr-alvin-leb-xrb2b,"Dr. Alvin Leb, MD",,12,"2985 Quentin Rd, Brooklyn, NY, 11229",Alvin D Leb MD,NY,11229
+1112 Park Ave,72,New York,/physician/dr-lawrence-cohen-3fk8s,0,dr-lawrence-cohen-3fk8s,"Dr. Lawrence Cohen, MD",,17,"1112 Park Ave, New York, NY, 10128","Lawrence B. Cohen, MD, PC",NY,10128
+129 Wadsworth Ave Apt 4,43,New York,/physician/dr-lincoln-hernandez-x426x,0,dr-lincoln-hernandez-x426x,"Dr. Lincoln Hernandez, MD",,11,"129 Wadsworth Ave Apt 4, New York, NY, 10033",Wadsworth Medical Group,NY,10033
+17 E 102nd St Fl 5,65,New York,/physician/dr-steven-itzkowitz-2r7gh,0,dr-steven-itzkowitz-2r7gh,"Dr. Steven Itzkowitz, MD",,6,"17 E 102nd St Fl 5, New York, NY, 10029",Mount Sinai Gastroenterology,NY,10029
+14222 Booth Memorial Ave,51,Flushing,/physician/dr-frank-palumbo-xsb5k,0,dr-frank-palumbo-xsb5k,"Dr. Frank Palumbo, MD",,13,"14222 Booth Memorial Ave, Flushing, NY, 11355",Frank M. Palumbo MD PC,NY,11355
+228 W 82nd St,52,New York,/physician/dr-ira-breite-26bkw,0,dr-ira-breite-26bkw,"Dr. Ira Breite, MD",,9,"228 W 82nd St, New York, NY, 10024",WESTSIDE MEDICAL ASSOCIATES,NY,10024
+1517 Voorhies Ave,,Brooklyn,/physician/dr-alexander-brun-gf8tn,0,dr-alexander-brun-gf8tn,"Dr. Alexander Brun, MD",,1,"1517 Voorhies Ave, Brooklyn, NY, 11235",SHAKMOVICH ALEXANDER MD PC,NY,11235
+1317 3rd Ave,60,New York,/physician/dr-audrey-woolrich-yp9q7,0,dr-audrey-woolrich-yp9q7,"Dr. Audrey Woolrich, MD",,9,"1317 3rd Ave, New York, NY, 10021",,NY,10021
+115 Nassau Ave,42,Brooklyn,/physician/dr-jonathan-erber-x7vvt,0,dr-jonathan-erber-x7vvt,"Dr. Jonathan Erber, MD",,17,"115 Nassau Ave, Brooklyn, NY, 11222",Dr. William Erber and Dr. Jonathan Erber,NY,11222
+534 Avenue E Ste 1C,59,Bayonne,/physician/dr-john-hahn-2nldb,0,dr-john-hahn-2nldb,"Dr. John Hahn, MD",,13,"534 Avenue E Ste 1C, Bayonne, NJ, 07002",JOHN C HAHN MD,NJ,07002
+80 5th Ave Rm 1605,59,New York,/physician/dr-anthony-starpoli-y82xh,0,dr-anthony-starpoli-y82xh,"Dr. Anthony Starpoli, MD",,21,"80 5th Ave Rm 1605, New York, NY, 10011",Greenwich Village Gastro,NY,10011
+115 E 57th St Ste 510,57,New York,/physician/dr-joseph-felder-yjgjl,0,dr-joseph-felder-yjgjl,"Dr. Joseph Felder, MD",,20,"115 E 57th St Ste 510, New York, NY, 10022",BURTON I KORELITZ MD PC,NY,10022
+1765 E 19th St,50,Brooklyn,/physician/dr-oleg-katcher-ydps6,0,dr-oleg-katcher-ydps6,"Dr. Oleg Katcher, MD",,16,"1765 E 19th St, Brooklyn, NY, 11229",Oleg A Katcher MD,NY,11229
+800 Poly Pl,,Brooklyn,/physician/dr-rajesh-ramachandran-gdj2g,0,dr-rajesh-ramachandran-gdj2g,"Dr. Rajesh Ramachandran, MD",,2,"800 Poly Pl, Brooklyn, NY, 11209",Brooklyn VA Hospital Pulmonolgy,NY,11209
+161 Fort Washington Ave Ste A62,44,New York,/physician/dr-arun-swaminath-xryp4,0,dr-arun-swaminath-xryp4,"Dr. Arun Swaminath, MD",,5,"161 Fort Washington Ave Ste A62, New York, NY, 10032",Digestive & Liver Disease,NY,10032
+622 W 168th St Fl 14,41,New York,/physician/dr-julia-wattacheril-ghy6h,0,dr-julia-wattacheril-ghy6h,"Dr. Julia Wattacheril, MD",23,4,"622 W 168th St Fl 14, New York, NY, 10032",Columbia Presbyterian Medical Center Department of Surgery,NY,10032
+1315 York Ave # Ground,65,New York,/physician/dr-philip-katz-xyxy2,0,dr-philip-katz-xyxy2,"Dr. Philip Katz, MD",15,4,"1315 York Ave # Ground, New York, NY, 10021",Weill Cornell Gastroenterology,NY,10021
+4902 Queens Blvd,68,Woodside,/physician/dr-upadhyaya-paddu-ykbv6,0,dr-upadhyaya-paddu-ykbv6,"Dr. Padmanabh Paddu, MD",,3,"4902 Queens Blvd, Woodside, NY, 11377",Paddu & Associates Medical LLP,NY,11377
+115 E 57th St Ste 510,92,New York,/physician/dr-burton-korelitz-y2g2w,0,dr-burton-korelitz-y2g2w,"Dr. Burton Korelitz, MD",,8,"115 E 57th St Ste 510, New York, NY, 10022",BURTON I KORELITZ MD PC,NY,10022
+10816 72nd Ave Ste 2,,Forest Hills,/physician/dr-yuriy-israel-g6k6j,0,dr-yuriy-israel-g6k6j,"Dr. Yuriy Israel, MD",,2,"10816 72nd Ave Ste 2, Forest Hills, NY, 11375",GASTROENTEROLOGY AND NUTRITION. PC,NY,11375
+142 Joralemon St Ste 14D,66,Brooklyn,/physician/dr-rami-atallah-xq6r5,0,dr-rami-atallah-xq6r5,"Dr. Rami Atallah, MD",,8,"142 Joralemon St Ste 14D, Brooklyn, NY, 11201",Rami Atallah Krikellas Mds,NY,11201
+610 Washington Blvd,58,Jersey City,/physician/dr-yatinder-bains-xclvl,0,dr-yatinder-bains-xclvl,"Dr. Yatinder Bains, MD",,8,"610 Washington Blvd, Jersey City, NJ, 07310",Mehul N Shah MD,NJ,07310
+1470 Madison Ave Fl 6th,40,New York,/physician/dr-reza-akhtar-yfltv,0,dr-reza-akhtar-yfltv,"Dr. Reza Akhtar, MD",,3,"1470 Madison Ave Fl 6th, New York, NY, 10029",BX 1072,NY,10029
+1275 York Ave,75,New York,/physician/dr-moshe-shike-yf4dv,0,dr-moshe-shike-yf4dv,"Dr. Moshe Shike, MD",,4,"1275 York Ave, New York, NY, 10065",MEMORIAL GASTROENTEROLOGY GROUP,NY,10065
+160 E 34th St Fl 9,54,New York,/physician/dr-eileen-janec-2qc5v,0,dr-eileen-janec-2qc5v,"Dr. Eileen Janec, MD",,6,"160 E 34th St Fl 9, New York, NY, 10016",NYU Gastroenterology Associates,NY,10016
+222 W 14th St,59,New York,/physician/dr-armand-cacciarelli-yqprd,0,dr-armand-cacciarelli-yqprd,"Dr. Armand Cacciarelli, MD",,18,"222 W 14th St, New York, NY, 10011",,NY,10011
+166 E 88th St Apt 1A,70,New York,/physician/dr-william-pullano-ytygy,0,dr-william-pullano-ytygy,"Dr. William Pullano, MD",,23,"166 E 88th St Apt 1A, New York, NY, 10128",William E Pullano MD,NY,10128
+650 Park Ave,86,New York,/physician/dr-jerome-waye-2ljb4,0,dr-jerome-waye-2ljb4,"Dr. Jerome Waye, MD",,7,"650 Park Ave, New York, NY, 10065","Jerome Waye, MD",NY,10065
+263 7th Ave,74,Brooklyn,/physician/dr-maurice-cerulli-yq7k7,0,dr-maurice-cerulli-yq7k7,"Dr. Maurice Cerulli, MD",,2,"263 7th Ave, Brooklyn, NY, 11215",,NY,11215
+38 Meadowlands Pkwy,,Secaucus,/physician/dr-konika-bose-3n8sh,0,dr-konika-bose-3n8sh,"Dr. Konika Bose, MD",,4,"38 Meadowlands Pkwy, Secaucus, NJ, 07094",Riverside Medical Group,NJ,07094
+8615 Queens Blvd,55,Elmhurst,/physician/dr-anil-sharma-2vyp9,0,dr-anil-sharma-2vyp9,"Dr. Anil Sharma, MD",,1,"8615 Queens Blvd, Elmhurst, NY, 11373",,NY,11373
+120 E 86th St,51,New York,/physician/dr-charles-saha-x3m6d,0,dr-charles-saha-x3m6d,"Dr. Charles Saha, MD",,12,"120 E 86th St, New York, NY, 10028",Park Ave Medical Professionals,NY,10028
+207 E 84th St,55,New York,/physician/dr-elena-nascimbeni-ferran-3ckg7,0,dr-elena-nascimbeni-ferran-3ckg7,"Dr. Elena Ferran, MD",,4,"207 E 84th St, New York, NY, 10028",NYU Center For Womans Health,NY,10028
+240 E 38th St Fl 23,,New York,/physician/dr-grigoriy-gurvits-3lkpy,0,dr-grigoriy-gurvits-3lkpy,"Dr. Grigoriy Gurvits, MD",,6,"240 E 38th St Fl 23, New York, NY, 10016",NYU LANGONE HOSPITAL CENTER,NY,10016
+1 Gustave L Levy Pl,,New York,/physician/dr-pruthvi-patel-yd4xs,0,dr-pruthvi-patel-yd4xs,"Dr. Pruthvi Patel, MD",,7,"1 Gustave L Levy Pl, New York, NY, 10029",MOUNT SINAI HOSPITAL,NY,10029
+1315 York Ave # Mezzanine,66,New York,/physician/dr-ellen-scherl-y7xmb,1,dr-ellen-scherl-y7xmb,"Dr. Ellen Scherl, MD",6,51,"1315 York Ave # Mezzanine, New York, NY, 10021",Jill Roberts Center for InflammatoryBowel Disease,NY,10021
+156 William St Fl 12,39,New York,/physician/dr-david-wan-2jl8k,1,dr-david-wan-2jl8k,"Dr. David Wan, MD",20,5,"156 William St Fl 12, New York, NY, 10038",Weill Cornell Gastroenterology and Hepatology,NY,10038
+7116 Grand Ave,57,Maspeth,/physician/dr-miguel-cintron-y892c,0,dr-miguel-cintron-y892c,"Dr. Miguel Cintron Jr, MD",,5,"7116 Grand Ave, Maspeth, NY, 11378",Miguel A Cintron MD PC,NY,11378
+1332 44th St,62,Brooklyn,/physician/dr-elliott-fuhrer-3y3pw,0,dr-elliott-fuhrer-3y3pw,"Dr. Elliott Fuhrer, MD",,5,"1332 44th St, Brooklyn, NY, 11219",Boro Park Gastroenterology Ass,NY,11219
+4802 10th Ave,67,Brooklyn,/physician/dr-ira-mayer-274c2,0,dr-ira-mayer-274c2,"Dr. Ira Mayer, MD",,4,"4802 10th Ave, Brooklyn, NY, 11219",Ira Edward Mayer MD,NY,11219
+1275 York Ave,49,New York,/physician/dr-mark-schattner-xxbhy,0,dr-mark-schattner-xxbhy,"Dr. Mark Schattner, MD",,8,"1275 York Ave, New York, NY, 10065",MEMORIAL GASTROENTEROLOGY GROUP,NY,10065
+14015 Sanford Ave,70,Flushing,/physician/dr-alan-lesman-yl7y9,0,dr-alan-lesman-yl7y9,"Dr. Alan Lesman, MD",,2,"14015 Sanford Ave, Flushing, NY, 11355",Advantage Care Physicians,NY,11355
+41 Elizabeth St # 507,35,New York,/physician/dr-catherine-lucero-gc3mk,0,dr-catherine-lucero-gc3mk,"Dr. Catherine Lucero, MD",15,2,"41 Elizabeth St # 507, New York, NY, 10013",Weill Cornell Medicine,NY,10013
+555 Madison Ave Frnt 2,53,New York,/physician/dr-paul-glassman-ywh9s,0,dr-paul-glassman-ywh9s,"Dr. Paul Glassman, MD",,16,"555 Madison Ave Frnt 2, New York, NY, 10022",Jonathan David LaPook MD,NY,10022
+2035 Ralph Ave # A2,66,Brooklyn,/physician/dr-sam-moskowitz-xcgh6,0,dr-sam-moskowitz-xcgh6,"Dr. Sam Moskowitz, MD",,13,"2035 Ralph Ave # A2, Brooklyn, NY, 11234",Moskowitz MD,NY,11234
+535 5th Ave Fl 5,72,New York,/physician/dr-gregory-haber-yk636,0,dr-gregory-haber-yk636,"Dr. Gregory Haber, MD",,17,"535 5th Ave Fl 5, New York, NY, 10017",MANHATTAN ENDOSCOPY CENTER LLC,NY,10017
+129 Slosson Ave,65,Staten Island,/physician/dr-jeffrey-kalman-3gs5s,0,dr-jeffrey-kalman-3gs5s,"Dr. Jeffrey Kalman, MD",,20,"129 Slosson Ave, Staten Island, NY, 10314",Staten Island Gastroenterology,NY,10314
+1020 Park Ave,61,New York,/physician/dr-moshe-rubin-ywtfm,0,dr-moshe-rubin-ywtfm,"Dr. Moshe Rubin, MD",,13,"1020 Park Ave, New York, NY, 10028",NewYork-Presbyterian Queens,NY,10028
+310 E 24th St,,New York,/physician/dr-andrew-korman-ggxtq,0,dr-andrew-korman-ggxtq,"Dr. Andrew Korman, MD",,2,"310 E 24th St, New York, NY, 10010",,NY,10010
+1049 Park Ave Ste 1C,44,New York,/physician/dr-ron-palmon-x6v5x,0,dr-ron-palmon-x6v5x,"Dr. Ron Palmon, MD",,11,"1049 Park Ave Ste 1C, New York, NY, 10028",Peter K Chang MD,NY,10028
+475 Seaview Ave,57,Staten Island,/physician/dr-stephen-mulrooney-yx3ms,0,dr-stephen-mulrooney-yx3ms,"Dr. Stephen Mulrooney, MD",,3,"475 Seaview Ave, Staten Island, NY, 10305",Staten Island University Hospital,NY,10305
+350 W 58th St,55,New York,/physician/dr-a-lawrence-attia-x7wf5,0,dr-a-lawrence-attia-x7wf5,"Dr. A Lawrence Attia, MD",,23,"350 W 58th St, New York, NY, 10019",ALBERT A ATTIA MD,NY,10019
+457 Alter Ave,50,Staten Island,/physician/dr-pretam-rampersaud-25qh7,0,dr-pretam-rampersaud-25qh7,"Dr. Pretam Rampersaud, MD",,18,"457 Alter Ave, Staten Island, NY, 10305",,NY,10305
+51 E 25th St # 401,,New York,/physician/dr-donald-tsynman-xdj4s,0,dr-donald-tsynman-xdj4s,"Dr. Donald Tsynman, MD",,38,"51 E 25th St # 401, New York, NY, 10010",Manhattan Gastroenterology,NY,10010
+59 W 12th St Apt 1D,75,New York,/physician/dr-nicholas-gualtieri-yt4nk,0,dr-nicholas-gualtieri-yt4nk,"Dr. Nicholas Gualtieri, MD",,16,"59 W 12th St Apt 1D, New York, NY, 10011",Hal J Freiman MD,NY,10011
+10913 Jamaica Ave,43,Richmond Hill,/physician/dr-ghulamullah-shahzad-yqk77,0,dr-ghulamullah-shahzad-yqk77,"Dr. Ghulamullah Shahzad, MD",,12,"10913 Jamaica Ave, Richmond Hill, NY, 11418",QUEENS HOSPITAL CENTER,NY,11418
+1305 York Ave,37,New York,/physician/dr-sonal-kumar-x4dbt,0,dr-sonal-kumar-x4dbt,"Dr. Sonal Kumar, MD",15,7,"1305 York Ave, New York, NY, 10021",Weill Cornell Digestive and Liver Diseases,NY,10021
+115 Nassau Ave,77,Brooklyn,/physician/dr-william-erber-xp26c,0,dr-william-erber-xp26c,"Dr. William Erber, MD",,5,"115 Nassau Ave, Brooklyn, NY, 11222",Dr. William Erber and Dr. Jonathan Erber,NY,11222
+1315 York Ave # Ground,49,New York,/physician/dr-felice-schnoll-sussman-xqd2p,0,dr-felice-schnoll-sussman-xqd2p,"Dr. Felice Schnoll-Sussman, MD",7,18,"1315 York Ave # Ground, New York, NY, 10021",Weill Cornell Gastroenterology,NY,10021
+29 Washington Sq W Apt 1C,78,New York,/physician/dr-james-robilotti-xg3gf,0,dr-james-robilotti-xg3gf,"Dr. James Robilotti Jr, MD",,14,"29 Washington Sq W Apt 1C, New York, NY, 10011",James G Robilotti MD,NY,10011
+10 Union Sq E,56,New York,/physician/dr-brett-bernstein-3dj4h,0,dr-brett-bernstein-3dj4h,"Dr. Brett Bernstein, MD",,9,"10 Union Sq E, New York, NY, 10003",Mount Sinai Beth Israel,NY,10003
+18 Oliver St Fl 2,51,Newark,/physician/dr-domenica-barritta-xvr5w,0,dr-domenica-barritta-xvr5w,"Dr. Domenica Barritta, MD",,16,"18 Oliver St Fl 2, Newark, NJ, 07102",New Jersey Gastroenterology LLC,NJ,07102
+274 Madison Ave,65,New York,/physician/dr-michael-faust-ypvyv,0,dr-michael-faust-ypvyv,"Dr. Michael Faust, MD",,21,"274 Madison Ave, New York, NY, 10016",CORINTHIANS MEDICAL ASSOCIATES,NY,10016
+5516 Main St,,Flushing,/physician/dr-david-beyda-gfdms,0,dr-david-beyda-gfdms,"Dr. David Beyda, MD",,8,"5516 Main St, Flushing, NY, 11355",Advanced Gastroenterology,NY,11355
+296 7th Ave,59,Brooklyn,/physician/dr-ofem-ajah-3kgkh,0,dr-ofem-ajah-3kgkh,"Dr. Ofem Ajah, MD",12,1,"296 7th Ave, Brooklyn, NY, 11215",NewYork-Presbyterian Medical Group Brooklyn,NY,11215
+21 E 22nd St,,New York,/physician/dr-michael-zelenetz-xy4qx,0,dr-michael-zelenetz-xy4qx,"Dr. Michael Zelenetz, MD",,4,"21 E 22nd St, New York, NY, 10010",Advantage Care Physicians,NY,10010
+2285 Victory Blvd,39,Staten Island,/physician/dr-jeffrey-abergel-3g7m6,0,dr-jeffrey-abergel-3g7m6,"Dr. Jeffrey Abergel, MD",,2,"2285 Victory Blvd, Staten Island, NY, 10314",Elias Purow MD,NY,10314
+161 Fort Washington Ave # 212,57,New York,/physician/dr-richard-rosenberg-2wsy5,0,dr-richard-rosenberg-2wsy5,"Dr. Richard Rosenberg, MD",,4,"161 Fort Washington Ave # 212, New York, NY, 10032",,NY,10032
+200 W 57th St Fl 15,53,New York,/physician/dr-vicenta-caceres-ylcgs,0,dr-vicenta-caceres-ylcgs,"Dr. Vicenta Caceres, MD",,11,"200 W 57th St Fl 15, New York, NY, 10019","De Lopez , MD [Gastroenterologist]",NY,10019
+9226 Kennedy Blvd Ste A,54,North Bergen,/physician/dr-peter-caride-xf5f2,0,dr-peter-caride-xf5f2,"Dr. Peter Caride, MD",,11,"9226 Kennedy Blvd Ste A, North Bergen, NJ, 07047",Peter Caride MD LLC,NJ,07047
+1901 1st Ave # 11-B,,New York,/physician/dr-virendra-tewari-x9kj5,0,dr-virendra-tewari-x9kj5,"Dr. Virendra Tewari, MD",,1,"1901 1st Ave # 11-B, New York, NY, 10029",Weill Cornell Digestive and Liver Diseases,NY,10029
+350 W 58th St,85,New York,/physician/dr-albert-attia-xffjq,0,dr-albert-attia-xffjq,"Dr. Albert Attia, MD",,2,"350 W 58th St, New York, NY, 10019",ALBERT A ATTIA MD,NY,10019
+860 Grand Concourse Apt 1K,63,Bronx,/physician/dr-prospere-remy-yvq5m,0,dr-prospere-remy-yvq5m,"Dr. Prospere Remy, MD",,3,"860 Grand Concourse Apt 1K, Bronx, NY, 10451",Concourse Inc,NY,10451
+506 6th St,58,Brooklyn,/physician/dr-vincent-notar-francesco-ykdbq,0,dr-vincent-notar-francesco-ykdbq,"Dr. Vincent Notar-Francesco, MD",,4,"506 6th St, Brooklyn, NY, 11215",NewYork-Methodist Hospital,NY,11215
+101 E 78th St,71,New York,/physician/dr-harold-bornstein-y45w4,0,dr-harold-bornstein-y45w4,"Dr. Harold Bornstein, MD",,35,"101 E 78th St, New York, NY, 10075",Bornstein and Bornstein Mds,NY,10075
+1305 York Ave Fl 4,34,New York,/physician/dr-saurabh-mukewar-gdjs5,0,dr-saurabh-mukewar-gdjs5,"Dr. Saurabh Mukewar, MD",,1,"1305 York Ave Fl 4, New York, NY, 10021",Weill Cornell Medicine,NY,10021
+350 Kennedy Blvd,67,Bayonne,/physician/dr-jay-zelinski-xwyk4,0,dr-jay-zelinski-xwyk4,"Dr. Jay Zelinski, DO",,11,"350 Kennedy Blvd, Bayonne, NJ, 07002",Jay M Zelinski DO Phd PC,NJ,07002
+200 W 57th St Fl 15,53,New York,/physician/dr-sain-sain-lu-xc5r3,0,dr-sain-sain-lu-xc5r3,"Dr. Sain Sain Lu, MD",,19,"200 W 57th St Fl 15, New York, NY, 10019","De Lopez , MD [Gastroenterologist]",NY,10019
+2797 Ocean Pkwy,44,Brooklyn,/physician/dr-alexander-shapsis-32d7x,0,dr-alexander-shapsis-32d7x,"Dr. Alexander Shapsis, MD",,19,"2797 Ocean Pkwy, Brooklyn, NY, 11235",Atlantic Gastroenterology,NY,11235
+240 E 38th St Fl 23,56,New York,/physician/dr-mark-pochapin-xp9yw,0,dr-mark-pochapin-xp9yw,"Dr. Mark Pochapin, MD",,7,"240 E 38th St Fl 23, New York, NY, 10016",NYU LANGONE HOSPITAL CENTER,NY,10016
+4 E 88th St Ste 1A,54,New York,/physician/dr-jan-shim-27yqj,0,dr-jan-shim-27yqj,"Dr. Jan Shim, MD",,7,"4 E 88th St Ste 1A, New York, NY, 10128",Jan J Shim MD,NY,10128
+425 W 59th St # 8A,50,New York,/physician/dr-edward-lung-xhq3x,0,dr-edward-lung-xhq3x,"Dr. Edward Lung, MD",,8,"425 W 59th St # 8A, New York, NY, 10019",University Medical Practice Assocs,NY,10019
+635 Madison Ave Fl 17,63,New York,/physician/dr-robert-cooper-y2y8j,0,dr-robert-cooper-y2y8j,"Dr. Robert Cooper, MD",,20,"635 Madison Ave Fl 17, New York, NY, 10022",Paul F Miskovitz MD,NY,10022
+160 E 32nd St Ste L3,72,New York,/physician/dr-joseph-levy-x72ct,0,dr-joseph-levy-x72ct,"Dr. Joseph Levy, MD",,11,"160 E 32nd St Ste L3, New York, NY, 10016",NYU Langome Med Ctr Fink Ctr,NY,10016
+7906 4th Ave Apt A1,70,Brooklyn,/physician/dr-george-rezk-37lq2,0,dr-george-rezk-37lq2,"Dr. George Rezk, MD",,4,"7906 4th Ave Apt A1, Brooklyn, NY, 11209",George J Rezk MD,NY,11209
+11045 Queens Blvd Ste 103,63,Forest Hills,/physician/dr-h-schnall-xghcv,0,dr-h-schnall-xghcv,"Dr. H Schnall, MD",,10,"11045 Queens Blvd Ste 103, Forest Hills, NY, 11375",ALAN H SCHNALL MD,NY,11375
+800 Poly Pl,,Brooklyn,/physician/dr-zachary-marwil-ghkk2,0,dr-zachary-marwil-ghkk2,"Dr. Zachary Marwil, MD",,5,"800 Poly Pl, Brooklyn, NY, 11209",,NY,11209
+5 Little Clove Rd,67,Staten Island,/physician/dr-divyang-parikh-35yl5,0,dr-divyang-parikh-35yl5,"Dr. Divyang Parikh, MD",,28,"5 Little Clove Rd, Staten Island, NY, 10301",Digestive Liver Disease Center,NY,10301
+68 E 86th St,55,New York,/physician/dr-leon-kavaler-ybqdk,0,dr-leon-kavaler-ybqdk,"Dr. Leon Kavaler, MD",,18,"68 E 86th St, New York, NY, 10028",Kavaler Perlow & Kavaler Mds PC,NY,10028
+180 Fort Washington Ave # 9-936,38,New York,/physician/dr-suneeta-krishnareddy-y4tqd,0,dr-suneeta-krishnareddy-y4tqd,"Dr. Suneeta Krishnareddy, MD",17,3,"180 Fort Washington Ave # 9-936, New York, NY, 10032",Columbia University Medical Center Division of Digestive & Liver Diseases,NY,10032
+310 E 72nd St,44,New York,/physician/dr-gil-weitzman-yk25x,0,dr-gil-weitzman-yk25x,"Dr. Gil Weitzman, MD",,21,"310 E 72nd St, New York, NY, 10021","Gil Weitzman, MD",NY,10021
+1150 5th Ave Ste 1B,59,New York,/physician/dr-arthur-kornbluth-y242t,0,dr-arthur-kornbluth-y242t,"Dr. Arthur Kornbluth, MD",,48,"1150 5th Ave Ste 1B, New York, NY, 10128",Kornbluth Legnani & George Mds,NY,10128
+10 Union Sq E Frnt 2,,New York,/physician/dr-petros-benias-gdg8t,0,dr-petros-benias-gdg8t,"Dr. Petros Benias, MD",,6,"10 Union Sq E Frnt 2, New York, NY, 10003",Mount Sinai Union Square,NY,10003
+117 E 65th St,68,New York,/physician/dr-stephen-fochios-3g4px,0,dr-stephen-fochios-3g4px,"Dr. Stephen Fochios, MD",,17,"117 E 65th St, New York, NY, 10065",Lexington Medical Group,NY,10065
+1275 York Ave,57,New York,/physician/dr-arnold-markowitz-xcjcd,0,dr-arnold-markowitz-xcjcd,"Dr. Arnold Markowitz, MD",,5,"1275 York Ave, New York, NY, 10065",MEMORIAL GASTROENTEROLOGY GROUP,NY,10065
+77 Park Ave Ste 1H,73,New York,/physician/dr-richard-dubin-ys28h,0,dr-richard-dubin-ys28h,"Dr. Richard Dubin, MD",,5,"77 Park Ave Ste 1H, New York, NY, 10016",Richard Dubin MD,NY,10016
+10 Union Sq E Frnt 2,,New York,/physician/dr-jahnavi-naik-x3xlj,0,dr-jahnavi-naik-x3xlj,"Dr. Jahnavi Naik, MD",,16,"10 Union Sq E Frnt 2, New York, NY, 10003",Mount Sinai Union Square,NY,10003
+12 E 86th St,65,New York,/physician/dr-simon-lichtiger-xmkkj,0,dr-simon-lichtiger-xmkkj,"Dr. Simon Lichtiger, MD",,19,"12 E 86th St, New York, NY, 10028",LICHTIGER SIMON MD,NY,10028
+6960 108th St Ste 107,45,Forest Hills,/physician/dr-daniel-reich-3ykyh,0,dr-daniel-reich-3ykyh,"Dr. Daniel Reich, MD",,5,"6960 108th St Ste 107, Forest Hills, NY, 11375",,NY,11375
+780 8th Ave Ste 303,48,New York,/physician/dr-andrew-blank-xbpdr,0,dr-andrew-blank-xbpdr,"Dr. Andrew Blank, MD",,12,"780 8th Ave Ste 303, New York, NY, 10036",Mount Sinai Roosevelt,NY,10036
+80 Haven Ave,43,New York,/physician/dr-ugonna-iroku-29mbg,0,dr-ugonna-iroku-29mbg,"Dr. Ugonna Iroku, MD",,10,"80 Haven Ave, New York, NY, 10032",,NY,10032
+145 E 32nd St,69,New York,/physician/dr-ruvan-shein-36c25,0,dr-ruvan-shein-36c25,"Dr. Ruvan Shein, MD",,12,"145 E 32nd St, New York, NY, 10016",Manhattan Internal Medcn Assocs,NY,10016
+1090 Amsterdam Ave # 4C,49,New York,/physician/dr-gabriel-ionescu-39b8q,0,dr-gabriel-ionescu-39b8q,"Dr. Gabriel Ionescu, MD",,6,"1090 Amsterdam Ave # 4C, New York, NY, 10025",University Medical Prac Assocs,NY,10025
+156 William St,42,New York,/physician/dr-susana-gonzalez-263x7,0,dr-susana-gonzalez-263x7,"Dr. Susana Gonzalez, MD",,3,"156 William St, New York, NY, 10038",Weill Cornell Medical College- Lower Manhattan Hospital,NY,10038
+322 W 57th St,69,New York,/physician/dr-rajiv-saxena-23kxw,0,dr-rajiv-saxena-23kxw,"Dr. Rajiv Saxena, MD",,3,"322 W 57th St, New York, NY, 10019",,NY,10019
+6265 Forest Ave,66,Ridgewood,/physician/dr-abul-shahidullah-yqsxf,0,dr-abul-shahidullah-yqsxf,"Dr. Abul Shahidullah, MD",,6,"6265 Forest Ave, Ridgewood, NY, 11385",,NY,11385
+505 E 70th St # 148,35,New York,/physician/dr-stephen-rotman-gf2gc,0,dr-stephen-rotman-gf2gc,"Dr. Stephen Rotman, MD",,1,"505 E 70th St # 148, New York, NY, 10021",WEILL CORNELL INTERNAL MEDICINE ASSOCIATES,NY,10021
+2285 Victory Blvd,72,Staten Island,/physician/dr-elias-purow-2sqxy,0,dr-elias-purow-2sqxy,"Dr. Elias Purow, MD",,6,"2285 Victory Blvd, Staten Island, NY, 10314",Elias Purow MD,NY,10314
+10406 Metropolitan Ave,60,Forest Hills,/physician/dr-kamran-nia-yhthb,0,dr-kamran-nia-yhthb,"Dr. Kamran Nia, MD",,30,"10406 Metropolitan Ave, Forest Hills, NY, 11375","KAMRAN V NIA, M.D. PC",NY,11375
+38 E 32nd St Fl 3,63,New York,/physician/dr-charles-silvera-yvthp,0,dr-charles-silvera-yvthp,"Dr. Charles Silvera, MD",,12,"38 E 32nd St Fl 3, New York, NY, 10016",Horizon Medical Group,NY,10016
+1 Brookdale Plz Ste 337,63,Brooklyn,/physician/dr-cherif-el-younis-x7t3b,0,dr-cherif-el-younis-x7t3b,"Dr. Cherif El Younis, MD",,2,"1 Brookdale Plz Ste 337, Brooklyn, NY, 11212",OBH Division of Gastroenterology,NY,11212
+2335 31st St Ste 300,57,Astoria,/physician/dr-nicholas-roditis-xp2m3,0,dr-nicholas-roditis-xp2m3,"Dr. Nicholas Roditis, MD",,7,"2335 31st St Ste 300, Astoria, NY, 11105",Metropolitan Gastroenterology,NY,11105
+530 1st Ave Ste 9C,65,New York,/physician/dr-bart-kummer-2v6sy,0,dr-bart-kummer-2v6sy,"Dr. Bart Kummer, MD",,21,"530 1st Ave Ste 9C, New York, NY, 10016",Jessie Cheung MD Dermatology and Laser Center,NY,10016
+130 Avenue P,62,Brooklyn,/physician/dr-rakesh-gupta-x5d2t,0,dr-rakesh-gupta-x5d2t,"Dr. Rakesh Gupta, MD",,11,"130 Avenue P, Brooklyn, NY, 11204",Gupta Gastro Associates,NY,11204
+1095 Flatbush Ave,69,Brooklyn,/physician/dr-charles-bigajer-3cnlj,0,dr-charles-bigajer-3cnlj,"Dr. Charles Bigajer, MD",,4,"1095 Flatbush Ave, Brooklyn, NY, 11226",Flatbush Avenue Family Care Center,NY,11226
+235 60th St,76,West New York,/physician/dr-rafael-ramos-ykrlh,0,dr-rafael-ramos-ykrlh,"Dr. Rafael Ramos, MD",,14,"235 60th St, West New York, NJ, 07093",Ramos & Zapiach Mds,NJ,07093
+240 E 38th St Fl 23,65,New York,/physician/dr-morris-traube-yck49,0,dr-morris-traube-yck49,"Dr. Morris Traube, MD",,6,"240 E 38th St Fl 23, New York, NY, 10016",NYU LANGONE HOSPITAL CENTER,NY,10016
+1305 York Ave,39,New York,/physician/dr-manan-shah-xdmsg,0,dr-manan-shah-xdmsg,"Dr. Manan Shah, MD",,20,"1305 York Ave, New York, NY, 10021",WEILL CORNELL MEDICAL COLLEGE OF GASTROENTEROLOGY,NY,10021
+17 E 102nd St Fl 5,,New York,/physician/dr-benjamin-cohen-x74w6,0,dr-benjamin-cohen-x74w6,"Dr. Benjamin Cohen, MD",,2,"17 E 102nd St Fl 5, New York, NY, 10029",Mount Sinai Gastroenterology,NY,10029
+145 E 32nd St,57,New York,/physician/dr-howard-antosofsky-xckwd,0,dr-howard-antosofsky-xckwd,"Dr. Howard Antosofsky, MD",,6,"145 E 32nd St, New York, NY, 10016",Manhattan Internal Medcn Assocs,NY,10016
+115 E 23rd St Fl 10,48,New York,/physician/dr-michael-eng-xmwqp,0,dr-michael-eng-xmwqp,"Dr. Michael Eng, MD",,10,"115 E 23rd St Fl 10, New York, NY, 10010",Michael Eng,NY,10010
+207 Berkeley Pl,70,Brooklyn,/physician/dr-jagdish-gupta-xgvj7,0,dr-jagdish-gupta-xgvj7,"Dr. Jagdish Gupta, MD",,9,"207 Berkeley Pl, Brooklyn, NY, 11217",Jagdish K Gupta MD PC,NY,11217
+608 Schenectady Ave,59,Brooklyn,/physician/dr-muhammad-hasan-yyd72,0,dr-muhammad-hasan-yyd72,"Dr. Muhammad Hasan, MD",,2,"608 Schenectady Ave, Brooklyn, NY, 11203",Muhammad F Hasan MD,NY,11203
+9707 4th Ave,,Brooklyn,/physician/dr-joel-albert-2qhjr,0,dr-joel-albert-2qhjr,"Dr. Joel Albert, MD",,15,"9707 4th Ave, Brooklyn, NY, 11209",Maimonides Division of Gastroenterology,NY,11209
+11 Ralph Pl Ste 302,76,Staten Island,/physician/dr-hsien-liu-2bkwj,0,dr-hsien-liu-2bkwj,"Dr. Hsien Liu, MD",,3,"11 Ralph Pl Ste 302, Staten Island, NY, 10304",HSIEN K LIU MD,NY,10304
+535 5th Ave Fl 5,67,New York,/physician/dr-peter-baiocco-x9xt4,0,dr-peter-baiocco-x9xt4,"Dr. Peter Baiocco, MD",,8,"535 5th Ave Fl 5, New York, NY, 10017",MANHATTAN ENDOSCOPY CENTER LLC,NY,10017
+529 39th St Ste 1,42,Union City,/physician/dr-soo-park-35g36,0,dr-soo-park-35g36,"Dr. Soo Park, MD",,3,"529 39th St Ste 1, Union City, NJ, 07087",Mulkay Cardiology Consultants,NJ,07087
+534 Avenue E Ste A,59,Bayonne,/physician/dr-kovil-ramasamy-yhpsn,0,dr-kovil-ramasamy-yhpsn,"Dr. Kovil Ramasamy, MD",,5,"534 Avenue E Ste A, Bayonne, NJ, 07002",Prakash Prakash & Ramasamy Mds,NJ,07002
+160 E 32nd St Ste L3,63,New York,/physician/dr-jeremiah-levine-y8v6t,0,dr-jeremiah-levine-y8v6t,"Dr. Jeremiah Levine, MD",,7,"160 E 32nd St Ste L3, New York, NY, 10016",NYU Langome Med Ctr Fink Ctr,NY,10016
+1150 5th Ave Ste 1B,56,New York,/physician/dr-james-george-yr2yl,0,dr-james-george-yr2yl,"Dr. James George, MD",,24,"1150 5th Ave Ste 1B, New York, NY, 10128",Kornbluth Legnani & George Mds,NY,10128
+635 Madison Ave Fl 17,69,New York,/physician/dr-paul-miskovitz-2c7fj,0,dr-paul-miskovitz-2c7fj,"Dr. Paul Miskovitz, MD",,8,"635 Madison Ave Fl 17, New York, NY, 10022",Paul F Miskovitz MD,NY,10022
+305 2nd Ave Ste 3,86,New York,/physician/dr-jerome-siegel-xt7ym,0,dr-jerome-siegel-xt7ym,"Dr. Jerome Siegel, MD",,2,"305 2nd Ave Ste 3, New York, NY, 10003",Jerome H Siegel MD PC,NY,10003
+1275 York Ave,,New York,/physician/dr-robin-mendelsohn-ygqb6,0,dr-robin-mendelsohn-ygqb6,"Dr. Robin Mendelsohn, MD",,15,"1275 York Ave, New York, NY, 10065",MEMORIAL GASTROENTEROLOGY GROUP,NY,10065
+1050 Clove Rd,,Staten Island,/physician/dr-keith-dahl-3d558,0,dr-keith-dahl-3d558,"Dr. Keith Dahl, DO",,4,"1050 Clove Rd, Staten Island, NY, 10301",Advantage Care Physicians,NY,10301
+1283 York Ave Fl 9,75,New York,/physician/dr-charles-maltz-y375l,0,dr-charles-maltz-y375l,"Dr. Charles Maltz, MD",15,22,"1283 York Ave Fl 9, New York, NY, 10065",Weill Cornell Digestive and Liver Diseases,NY,10065
+60 E 56th St Fl 7,,New York,/physician/dr-yasmin-metz-yvq8m,0,dr-yasmin-metz-yvq8m,"Dr. Yasmin Metz, MD",,8,"60 E 56th St Fl 7, New York, NY, 10022",GOTHAM MEDICAL ASSOCIATES,NY,10022
+1460 W 5th St Ste M1,52,Brooklyn,/physician/dr-yevgeny-litvak-2w9kv,0,dr-yevgeny-litvak-2w9kv,"Dr. Yevgeny Litvak, MD",,8,"1460 W 5th St Ste M1, Brooklyn, NY, 11204",LITVAK YEVGENY MD,NY,11204
+934 Manhattan Ave Ste A,62,Brooklyn,/physician/dr-karl-bednarek-2nkdx,0,dr-karl-bednarek-2nkdx,"Dr. Karl Bednarek, MD",,8,"934 Manhattan Ave Ste A, Brooklyn, NY, 11222",Weill Cornell Medicine-Manhattan Medical,NY,11222
+155 5th Ave,51,New York,/physician/dr-michael-blechman-x9mk9,0,dr-michael-blechman-x9mk9,"Dr. Michael Blechman, MD",,13,"155 5th Ave, New York, NY, 10010",Union Square Gastroenterology,NY,10010
+142 Palisade Ave Ste 201,56,Jersey City,/physician/dr-harold-tepler-y8sc9,0,dr-harold-tepler-y8sc9,"Dr. Harold Tepler, MD",,6,"142 Palisade Ave Ste 201, Jersey City, NJ, 07306",Gastroenterology Medical Assocs,NJ,07306
+232 E 30th St,,New York,/physician/dr-caterina-oneto-araya-3y6nx,0,dr-caterina-oneto-araya-3y6nx,"Dr. Caterina Oneto Araya, MD",,21,"232 E 30th St, New York, NY, 10016",Concorde Medical Group,NY,10016
+40 W Brighton Ave Ste 104,49,Brooklyn,/physician/dr-irina-berlin-2myn8,0,dr-irina-berlin-2myn8,"Dr. Irina Berlin, MD",,11,"40 W Brighton Ave Ste 104, Brooklyn, NY, 11224",Irina Berlin MD PC,NY,11224
+1974 1st Ave,65,New York,/physician/dr-eric-goldstein-x2ccb,0,dr-eric-goldstein-x2ccb,"Dr. Eric Goldstein, MD",,14,"1974 1st Ave, New York, NY, 10029",,NY,10029
+229 Montowese St,35,Branford,/physician/dr-keri-herzog-gdc5s,0,dr-keri-herzog-gdc5s,"Dr. Keri Herzog, MD",,2,"229 Montowese St, Branford, CT, 06405","Digestive Disease Associates, Branford, CT",CT,06405
+123 W 86th St,66,New York,/physician/dr-elliot-arons-39xhm,0,dr-elliot-arons-39xhm,"Dr. Elliot Arons, MD",,21,"123 W 86th St, New York, NY, 10024",Arons & Blye Mds APC,NY,10024
+156 William St Fl 12,33,New York,/physician/dr-meira-abramowitz-g6wdn,0,dr-meira-abramowitz-g6wdn,"Dr. Meira Abramowitz, MD",15,17,"156 William St Fl 12, New York, NY, 10038",Weill Cornell Gastroenterology and Hepatology,NY,10038
+10 Union Sq E Ste 5-M,,New York,/physician/dr-nancy-lau-x8dm4,0,dr-nancy-lau-x8dm4,"Dr. Nancy Lau, MD",,13,"10 Union Sq E Ste 5-M, New York, NY, 10003","Nancy Lau, MD",NY,10003
+447 Atlantic Ave,43,Brooklyn,/physician/dr-henry-chiu-3g6ks,0,dr-henry-chiu-3g6ks,"Dr. Henry Chiu, MD",,2,"447 Atlantic Ave, Brooklyn, NY, 11217",Advantage Care Physicians,NY,11217
+235 60th St,79,West New York,/physician/dr-leonidas-zapiach-x9nw4,0,dr-leonidas-zapiach-x9nw4,"Dr. Leonidas Zapiach, MD",,16,"235 60th St, West New York, NJ, 07093",Ramos & Zapiach Mds,NJ,07093
+525 E 68th St,,New York,/physician/dr-samantha-nazareth-gfk2x,0,dr-samantha-nazareth-gfk2x,"Dr. Samantha Nazareth, MD",,0,"525 E 68th St, New York, NY, 10065",Lia Logio MD,NY,10065
+622 W 168th St,44,New York,/physician/dr-eva-urtasun-sotil-xxl5v,0,dr-eva-urtasun-sotil-xxl5v,"Dr. Eva Urtasun Sotil, MD",,2,"622 W 168th St, New York, NY, 10032",,NY,10032
+317 E 34th St Fl 5,57,New York,/physician/dr-robert-pfeffer-3fkbq,0,dr-robert-pfeffer-3fkbq,"Dr. Robert Pfeffer, MD",,10,"317 E 34th St Fl 5, New York, NY, 10016",CareMount Medical,NY,10016
+1517 Voorhies Ave,42,Brooklyn,/physician/dr-igor-grosman-2k2dg,0,dr-igor-grosman-2k2dg,"Dr. Igor Grosman, DO",,2,"1517 Voorhies Ave, Brooklyn, NY, 11235",Igor Grosman DO PC,NY,11235
+129 Slosson Ave,57,Staten Island,/physician/dr-constantine-yiachos-239hw,0,dr-constantine-yiachos-239hw,"Dr. Constantine Yiachos, MD",,22,"129 Slosson Ave, Staten Island, NY, 10314",Staten Island Gastroenterology,NY,10314
+390 New York Ave,59,Newark,/physician/dr-renee-cabaleiro-yd2bn,0,dr-renee-cabaleiro-yd2bn,"Dr. Renee Cabaleiro, MD",,4,"390 New York Ave, Newark, NJ, 07105",Lafayette Medical Center LLC,NJ,07105
+530 1st Ave,59,New York,/physician/dr-samuel-sigal-yymk9,0,dr-samuel-sigal-yymk9,"Dr. Samuel Sigal, MD",,14,"530 1st Ave, New York, NY, 10016",NYU Hepatology Associates,NY,10016
+8501 7th Ave,70,Brooklyn,/physician/dr-vincent-rovito-yww64,0,dr-vincent-rovito-yww64,"Dr. Vincent Rovito, MD",,4,"8501 7th Ave, Brooklyn, NY, 11228",Bayridge Endoscopy Services,NY,11228
+9226 Kennedy Blvd Ste A,,North Bergen,/physician/dr-john-sotiriadis-yyd4d,0,dr-john-sotiriadis-yyd4d,"Dr. John Sotiriadis, MD",,8,"9226 Kennedy Blvd Ste A, North Bergen, NJ, 07047",Peter Caride MD LLC,NJ,07047
+129 Saint Nicholas Ave Fl 1,76,Brooklyn,/physician/dr-yashpal-arya-xbryv,0,dr-yashpal-arya-xbryv,"Dr. Yashpal Arya, MD",,6,"129 Saint Nicholas Ave Fl 1, Brooklyn, NY, 11237",Arya Gastroenterology Assocs,NY,11237
+2335 31st St Ste 300,51,Astoria,/physician/dr-barry-obadiah-ycmfl,0,dr-barry-obadiah-ycmfl,"Dr. Barry Obadiah, MD",,6,"2335 31st St Ste 300, Astoria, NY, 11105",Metropolitan Gastroenterology,NY,11105
+68 E 86th St,,New York,/physician/dr-yevgenia-pashinsky-x2j2w,0,dr-yevgenia-pashinsky-x2j2w,"Dr. Yevgenia Pashinsky, MD",,9,"68 E 86th St, New York, NY, 10028",William Perlow MD,NY,10028
+300 Fort Washington Ave Ofc 1,53,New York,/physician/dr-ricardo-pou-yhv8h,0,dr-ricardo-pou-yhv8h,"Dr. Ricardo Pou, MD",,9,"300 Fort Washington Ave Ofc 1, New York, NY, 10032",Ricardo E Pou Md,NY,10032
+1275 York Ave,47,New York,/physician/dr-emmy-ludwig-3365h,0,dr-emmy-ludwig-3365h,"Dr. Emmy Ludwig, MD",,4,"1275 York Ave, New York, NY, 10065",MEMORIAL GASTROENTEROLOGY GROUP,NY,10065
+4721 Fort Hamilton Pkwy Fl 1,,Brooklyn,/physician/dr-jianjun-li-2c95w,0,dr-jianjun-li-2c95w,"Dr. Jianjun Li, MD",,5,"4721 Fort Hamilton Pkwy Fl 1, Brooklyn, NY, 11219",Maimonides Division of Gastroenterology,NY,11219
+14210B Roosevelt Ave Ste P24,48,Flushing,/physician/dr-tong-jing-3cf4y,0,dr-tong-jing-3cf4y,"Dr. Tong Jing, MD",,12,"14210B Roosevelt Ave Ste P24, Flushing, NY, 11354",New York Hospital Queens,NY,11354
+535 5th Ave Rm 611,,New York,/physician/dr-veronika-dubrovskaya-288wh,0,dr-veronika-dubrovskaya-288wh,"Dr. Veronika Dubrovskaya, MD",,7,"535 5th Ave Rm 611, New York, NY, 10017",GOTHAM MEDICAL ASSOCIATES,NY,10017
+407 E 70th St,71,New York,/physician/dr-jerry-nagler-3xbdg,0,dr-jerry-nagler-3xbdg,"Dr. Jerry Nagler, MD",,4,"407 E 70th St, New York, NY, 10021","Jerry Nagler, MD",NY,10021
+305 2nd Ave Ste 3,59,New York,/physician/dr-seth-cohen-y4g4n,0,dr-seth-cohen-y4g4n,"Dr. Seth Cohen, MD",,9,"305 2nd Ave Ste 3, New York, NY, 10003",Jerome H Siegel MD PC,NY,10003
+7901 Broadway,37,Elmhurst,/physician/dr-raghav-bansal-g7g8w,0,dr-raghav-bansal-g7g8w,"Dr. Raghav Bansal, MD",,0,"7901 Broadway, Elmhurst, NY, 11373","Mount Sinai Faculty Prac Grp, Elmhurst, NY",NY,11373
+1636 E 14th St Ste 117,56,Brooklyn,/physician/dr-stephen-haddad-x8c57,0,dr-stephen-haddad-x8c57,"Dr. Stephen Haddad, MD",,6,"1636 E 14th St Ste 117, Brooklyn, NY, 11229",STEPHEN HADDAD MD,NY,11229

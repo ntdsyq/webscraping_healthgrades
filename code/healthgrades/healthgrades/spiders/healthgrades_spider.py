@@ -5,6 +5,7 @@ from scrapy import Spider
 from healthgrades.items import DoctorItem
 from scrapy import Request
 import re
+import numpy as np
 
 class HealthGradesSpider(Spider):
 	name = 'healthgrades_spider'
@@ -25,7 +26,7 @@ class HealthGradesSpider(Spider):
 		#print(all_urls)
 
 		# check if can scrape basic info from the first page
-		for url in all_urls[0:2]:
+		for url in all_urls:
 			yield Request(url = url, callback=self.parse_result_page)
 
 	def parse_result_page(self, response):
@@ -46,8 +47,6 @@ class HealthGradesSpider(Spider):
 				practice = 	rec.xpath('.//div[@class="office-location__address"]/span[not(@class)]/text()').extract_first()
 				num_insurance = rec.xpath('.//div[@class="uCard__insurance"]/div/text()').extract()
 				featured = len(rec.xpath('.//div[@class="featured-call-out"]'))
-				
-				# indicator for if a featured doctor or not
 
 				if len(addr_citystate) >= 5:
 					city = addr_citystate[0]
@@ -66,8 +65,18 @@ class HealthGradesSpider(Spider):
 
 				if num_reviews == "Leave a review":
 					item['num_reviews'] = 0
+					item['rating'] = np.nan
 				else:
-					item['num_reviews'] = int(num_reviews.strip().split(' ')[0])
+					if num_reviews is not None:
+						if len(num_reviews) > 0:
+							item['num_reviews'] = int(num_reviews.strip().split(' ')[0])
+							item['rating'] = float(rating.split(' ')[1])
+						else:
+							item['num_reviews'] = 0
+							item['rating'] = np.nan	
+					else:
+						item['num_reviews'] = 0
+						item['rating'] = np.nan
 
 				if len(age) == 0:
 					item['age'] = None
@@ -84,10 +93,53 @@ class HealthGradesSpider(Spider):
 				if len(num_insurance) > 0:
 					item['num_ins'] = int(num_insurance[2])
 
-				#yield item
+				# yield item
 				# parse individual doctor's page for additional info
 				yield Request(url = 'https://www.healthgrades.com' + detailed_url, meta={'item': item}, callback=self.parse_doctor_page)
 
 	def parse_doctor_page(self, response):
 		item = response.meta['item']
+
+		# rating details for doctor and office & staff
+		if item['num_reviews'] != 0:
+			doc_perf = response.xpath('//div[contains(@class,"c-doctor-performance")]//li')
+
+			# only record if all 4 elements available
+			if len(doc_perf) == 4:
+				doc_rating = [0,0,0,0]
+				for i in range(4):
+					doc_star = doc_perf[i].xpath('./div[@class="star-rating"]/div[@class="filled"]/span/@class').extract()
+					doc_rating[i] = len(doc_star) - 0.5 * ( doc_star[-1] == 'hg3-i hg3-i-star-half')
+				item['doc_rating'] = '|'.join([str(x) for x in doc_rating])
+					
+			staff_perf = response.xpath('//div[contains(@class,"c-staff-performance")]//li')
+			
+			# only record if all 3 elements available - can improve
+			if len(staff_perf) == 3:
+				staff_rating = [0,0,0]
+				for i in range(3):
+					staff_star = staff_perf[i].xpath('./div[@class="star-rating"]/div[@class="filled"]/span/@class').extract()
+					staff_rating[i] = len(staff_star) - 0.5 * ( staff_star[-1] == 'hg3-i hg3-i-star-half')
+				item['staff_rating'] = '|'.join([str(x) for x in staff_rating]) 
+
+		# get gender
+		if item['featured'] == 0:
+			item['gender'] = response.xpath('//span[@data-qa-target = "ProviderDisplayGender"]/text()').extract_first()
+		else:
+			item['gender'] = response.xpath('//span[@data-qa-target = "ProviderDisplayGender"]/text()').extract()[1]
+
+		# education history
+		edu = response.xpath('//section[@class="education-subsection"]//div[@class="education-card"]')
+		keymap = {'Fellowship Hospital':'hosp_fellow', 'Residency Hospital':'hosp_res', 'Medical School': 'hosp_md'}
+		if len(edu) > 0:
+			edu_hist = {}
+			for e in edu:
+				k = e.xpath('.//div[@class="education-completed"]/text()').extract_first()
+				v = e.xpath('.//div[@class="education-name"]/text()').extract_first()
+				if k in ['Fellowship Hospital', 'Residency Hospital', 'Medical School']:
+					edu_hist[keymap[k]] = v
+			if len(edu_hist) > 0:
+				for k in edu_hist:
+					item[k] = edu_hist[k]
+
 		yield item
