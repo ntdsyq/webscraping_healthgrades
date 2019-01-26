@@ -33,10 +33,11 @@ data.head(5)
 data.sample(10)
 data.tail(5)    
 
-# count missing values by column
+# count % of missing values by column
 mv_cols = pd.DataFrame(data = np.sum(data.isnull(), axis = 0) / data.shape[0], columns = ['pct_mv'] )
 print(mv_cols.to_string(formatters = {'pct_mv': '{:.0%}'.format}))
 
 # convert detailed doc_rating and staff_rating from string to float
+data['doc_rating'].dtype
 
 
