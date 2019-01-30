@@ -11,7 +11,7 @@ class HealthGradesSpider(Spider):
 	name = 'healthgrades_spider'
 	allowed_urls = ['https://healthgrades.com']
 	# change this URL for other specialties and locations of interest
-	url_main = 'https://www.healthgrades.com/gastroenterology-directory/ny-new-york/new-york'
+	url_main = 'https://www.healthgrades.com/cardiology-directory/ny-new-york/new-york'
 	start_urls = [url_main]
 	roster = {}
 			
@@ -19,7 +19,7 @@ class HealthGradesSpider(Spider):
 		n_tot = response.xpath('//span[@data-qa-target="qa-search-count"]/text()').extract_first()
 		#print(n_tot)
 
-		page_max = 27
+		page_max = 44
 		all_urls = [self.url_main]
 		for p in range(2,page_max+1):
 			all_urls.append(self.url_main + '_' + str(p))
