@@ -1,4 +1,10 @@
-In this project I created an R Shiny app visualization for personal healthcare expenditure data (source: cms.gov) at national (1960-2017) and state level (1991-2014). The user can explore personal healthcare spending trends over time, by category of spending and source of funding. Those trends are the result of changes in social-economical conditions and policy. 
-On the national charts, the impact of healthcare programs and policies such as medicare, medicaid and the Affordable Care Act on healthcare spending can be clearly discerned.
-On the US map showing spending by state, one would be able to easily identify states that are spending the most / least on healthcare per capita, and how each state's spending evolved over time.
-Link to the R Shiny app: https://dataspeak.shinyapps.io/HealthSpend/
+Scraped ratings and physician profiles from healthgrades.com for all gastroenterologists and cardiologists in metro NYC. Explored rating distributions, the relationships between the doctor's rating and the # of reviews, the doctor's age and gender, and office staff performance. 
+
+Conclusions (on the data for GI specialists): 
+* What healthgrades has done is a great effort, but the current data collected have a number of potential caveats
+  * Ratings heavily tilted toward the higher end and lack dynamic range (does this reflect a selection bias in which patients are more likely to submit a review?)
+  * The way search result is ordered by “best match” may promote rich-gets-richer does not help generate reviews more evenly across the physician universe
+* GI doctors in NYC metro with different length of time in practice are perceived similarly by patients in terms of bedside matter and quality of interaction
+* Female GI specialists have much lower visibility on healthgrades as reflected by the smaller number of reviews, but their ratings do not differ from the male doctors
+* Overall physician rating is primarily driven by doctor’s own performance. Negative experience with the office staff can bring down the overall rating while positive experience generally does not lift the overall rating
+
