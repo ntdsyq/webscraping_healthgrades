@@ -1,3 +1,4 @@
+### Project overview
 Scraped ratings and physician profiles from healthgrades.com for all gastroenterologists and cardiologists in metro NYC. Explored rating distributions, the relationships between the doctor's rating and the # of reviews, the doctor's age and gender, and office staff performance.
 
 ### File organizations
