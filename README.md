@@ -4,7 +4,7 @@ Scraped ratings and physician profiles from healthgrades.com for all gastroenter
 * Code for scrapying from healthgrades.com under /scraping_code_data/healthgrades
 * Scraped data are in the csv files under /scraping_code_data
 * "Healthgrades_NY_GI_Analysis.ipynb" and "Healthgrades_NY_CARDIO_Analysis.ipynb" contains EDA of data for gastroenterologists and cardiologists, respectively.
-* The PDF contains presentation of analyses findings
+* The PDF contains the presentation of analyses findings
 
 ### Conclusions: 
 * What healthgrades has done is a great effort, but the current data collected have a number of potential caveats
